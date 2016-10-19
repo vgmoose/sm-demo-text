@@ -1,0 +1,1218 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+Oui
+Non
+[VAR NUM7(0008,E07F)] $
+Voulez-vous sauvegarder la partie ?
+Sauvegarde en cours...\nNe pas éteindre la console.
+Partie sauvegardée.
+Une autre partie est déjà sauvegardée.\nSauvegarde impossible.\c\nVeuillez vous référer au mode d’emploi\npour plus d’informations.
+Échec de la sauvegarde.
+Vous avez obtenu [VAR NUM8(0002,E07F)] $ !
+[VAR PKNAME(0001)] obtenu !
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+Yo, Sun !\c\nQu’est-ce que tu veux, man ?[VAR 0114(0005)]
+Envoyer vers le jeu complet
+Discuter
+Annuler
+Qu’est-ce que tu veux envoyer vers\nla version complète ? Dis-moi tout...[VAR 0114(0005)]
+Amphinobi
+De la Poussière Étoile
+Un Morceau d’Étoile
+Une Pépite
+Des Jolies Ailes
+Un Champi Suave
+Un Morceau Comète
+Annuler
+T’en fais pas, Amphinobi reste avec toi pour\nl’instant même si tu l’envoies. Pas de souci ![VAR 0114(0005)]
+Alors, on envoie Amphinobi ?[VAR 0114(0005)]
+Tu es bien sûr de toi ?[VAR 0114(0005)]
+Autre chose ?[VAR 0114(0005)]
+Pfiou, il fait encore bien chaud, aujourd’hui !\nC’est les Pokémon qui doivent être contents ![VAR 0114(0005)]
+Alors, content de pouvoir monter sur Tauros ?\nTu veux voir un truc encore plus cool ?\c\nAppuie donc sur le bouton B pour le faire\ncharger et il réduira les rochers en miettes ![VAR 0114(0005)]
+Dis voir, t’as relevé le défi de capture ?\c\nC’est sur le chemin qui mène à l’Épreuve,\ntu peux pas le louper ![VAR 0114(0005)]
+Pas loin de l’office du tourisme, y’a quelqu’un\nqui peut t’emmener voir un coin marrant ![VAR 0114(0005)]
+Oh oh ! On dirait que plusieurs Dresseurs\nse sont réunis sur la route qui mène au\r\nlieu de l’Épreuve ![VAR 0114(0005)]
+Si t’as besoin d’un tuyau, hésite pas à revenir\nme voir ! Tranquiiille ![VAR 0114(0005)]
+Impossible de trouver une sauvegarde de\nPokémon Soleil ou Pokémon Lune.\c\nVous devez d’abord créer des données\nde sauvegarde dans Pokémon Soleil ou\r\nPokémon Lune avant de pouvoir envoyer\r\nquelque chose vers la version complète.
+Veuillez choisir vers quel jeu Pokémon\nle cadeau doit être envoyé.
+ATTENTION !\c\nSi une version complète sur carte de jeu\nest insérée dans votre console, et qu’une\r\nversion complète téléchargeable est\r\ninstallée sur cette même console, la version\r\nsur carte de jeu sera privilégiée lors\r\ndu transfert de données.
+Ce cadeau a déjà été envoyé.
+Sauvegarde du cadeau en cours...\nVeuillez ne pas éteindre la console.
+La sauvegarde du cadeau a échoué.\c\nVérifiez que la carte de jeu est correctement\ninsérée puis réessayez.
+La sauvegarde du cadeau a été effectuée\navec succès.
+Pokémon Soleil
+Pokémon Lune
+Impossible de reconnaître la carte de jeu.\c\nVérifiez que celle-ci est correctement\ninsérée puis réessayez.
+Le cadeau va être envoyé vers Pokémon Soleil.
+Le cadeau va être envoyé vers Pokémon Lune.
+ATTENTION !\c\nCe Pokémon n’écoutera pas vos ordres tant\nque vous n’aurez pas remporté deux Grandes\r\nÉpreuves dans Pokémon Soleil ou Pokémon Lune.
+Vous n’avez plus de place pour des cadeaux\ndans la version complète !\c\nVeuillez récupérer vos cadeaux dans un Centre\nPokémon, puis réessayez.
+Sachanobi (Démo spéciale)
+Poussières Étoiles (Démo spéciale)
+Morceau d’Étoile (Démo spéciale)
+Pépite (Démo spéciale)
+Jolies Ailes (Démo spéciale)
+Champi Suave (Démo spéciale)
+Morceau Comète (Démo spéciale)
+~~~~~~~~~~~~~~~
+Text File : 2
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+C’est rempli de livres et d’albums photo\nsur les Pokémon.
+Ces rochers ont l’air bien solides...\c\nPeut-être qu’un Pokémon assez puissant\npourrait les briser ?
+[~ 5]
+n/a
+n/a
+Voulez-vous appeler Tauros ?
+n/a
+n/a
+Il n’y a pas assez de place pour appeler\ncette Poké Monture ici.
+~~~~~~~~~~~~~~~
+Text File : 3
+~~~~~~~~~~~~~~~
+Impossible d’ajouter plus de photos à l’album.\nIl va falloir faire du tri !
+Vous avez activé le Poké Scope !
+Il n’y a pas assez d’espace sur la carte SD.\c\nVous pouvez prendre des photos, mais elles\nne seront pas sauvegardées.\c\nSi vous souhaitez les sauvegarder, libérez\nd’abord de l’espace sur la carte SD.\c\nVoulez-vous activer le Poké Scope ?
+La réserve de photos de l’appareil photo\nNintendo 3DS est pleine.\c\nVous pouvez prendre des photos,\nmais elles ne seront pas sauvegardées.\c\nVoulez-vous activer le Poké Scope ?
+Une erreur s’est produite avec l’appareil photo\nNintendo 3DS.\c\nVous pouvez prendre des photos,\nmais elles ne seront pas sauvegardées.\c\nVoulez-vous activer le Poké Scope ?
+~~~~~~~~~~~~~~~
+Text File : 4
+~~~~~~~~~~~~~~~
+Vous recevez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous recevez [VAR NUM1(0002)] [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous recevez [VAR 1400(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous recevez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous recevez [VAR 1400(0001)][VAR ITEM2(0001)]\n[VAR BD00(0006,0000,0000)][VAR MOVE(0002)][VAR BD01] !
+Vous trouvez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous trouvez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Vous trouvez [VAR 1400(0001)][VAR ITEM2(0001)]\n[VAR BD00(0006,0000,0000)][VAR MOVE(0002)][VAR BD01] !
+Quel dommage ! Vous n’avez plus de place\npour [VAR 1400(0000)][VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01] !
+Vous recevez [VAR 1402(0000)][VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01] !\c\nMais votre Sac est plein... Dommage !
+Vous mettez [VAR 1400(0001)][VAR ITEM2(0001)]\ndans la [VAR BD00(0006,0000,0000)]Poche [VAR 0112(0002)][VAR BD01].
+[~ 11]
+[~ 12]
+Vous obtenez\nle [VAR BD00(0006,0000,0000)][VAR RIBBON(0001)][VAR BD01] !
+Vous mettez à [VAR PKNAME(0002)]\nle [VAR RIBBON(0001)] !
+Vous obtenez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Aucun Pokémon ne vient...
+Vous obtenez [VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] !
+Pour l’envoi, demandez au Professeur Euphorbe,\nau Centre Pokémon.
+Vous pouvez désormais envoyer\n[VAR 1402(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]\r\nvers la version complète du jeu.
+Vous pouvez désormais envoyer\n[VAR NUM1(0002)] [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]\r\nvers la version complète du jeu.
+~~~~~~~~~~~~~~~
+Text File : 5
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Ekaeka\n« Quand le calme rencontre la joie »
+n/a
+Office du tourisme d’Alola\n« Même les autochtones l’adorent ! »
+Mairie d’Ekaeka\n« On s’occupe de tout ! »
+Embarcadère\n« Vous êtes arrivé à bon port ! »
+← Embarcadère Mele-Mele
+→ Embarcadère Mele-Mele
+← Embarcadère Mele-Mele
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 65]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Vers la Zone de l’Épreuve
+~~~~~~~~~~~~~~~
+Text File : 6
+~~~~~~~~~~~~~~~
+Cher Sun,\n\nSi tu lis cette lettre, ça veut dire que\ntu es arrivé à Alola ! J’espère que\nle déménagement s’est bien passé.
+Comment va l’Amphinobi que je t’ai confié ?\nÇa ne se voit peut-être pas, mais sache\nqu’il adore la chaleur !\nJe compte donc sur toi pour le faire participer\nà d’ardents combats à Alola !
+La lettre n’est pas signée, et le nom de\nl’expéditeur n’est pas écrit non plus...
+Un oubli, peut-être ?
+Sun, mon chéri ! On doit aller déclarer notre\nchangement de résidence à la mairie ![VAR 0114(0004)]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+~~~~~~~~~~~~~~~
+Text File : 7
+~~~~~~~~~~~~~~~
+Il paraît qu’à Alola, on se salue en disant\n« Alola » ! Attends, Maman va essayer...[VAR 0114(0004)]
+Alola ! ♪\nJe viens déclarer un changement de résidence.[VAR 0114(0004)]
+Alola !\c\nAlors comme ça, vous arrivez de Kanto ?\c\nJe m’occupe des formalités, veuillez patienter\nun instant.
+Très bien ! Merci beaucoup ![VAR 0114(0004)]
+Eh bien nous n’avons plus qu’à attendre\nici patiemment. [VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 8
+~~~~~~~~~~~~~~~
+Hé, toi !\nTu t’appelles Sun, pas vrai ?[VAR 0114(0007)]
+Ouaip ! T’es qui, toi ?
+Oui, enchanté !
+Moi, c’est Tili !\nEnchanté !\c\nC’te chance que Papé m’ait demandé de passer\nà la mairie !\c\nÇa me permet de te rencontrer ![VAR 0114(0007)]
+Alors, mon poussin, je vois que tu te fais\ndéjà des amis ![VAR 0114(0004)]
+Vous êtes la maman de Sun ?\nMoi, c’est Tili ! Enchanté ![VAR 0114(0007)]
+Alola à toi, mon petit Tili ! [VAR 0114(0004)]
+Pourquoi n’allez-vous pas faire un petit tour\nen ville pendant que j’attends ici ?[VAR 0114(0004)]
+Oh ouaiiis ! Allons-y ! Allons-y ![VAR 0114(0007)]
+Sun ! J’vais te montrer tous les trucs chouettes\ndu coin ![VAR 0114(0007)]
+Amuse-toi bien, mon chéri ! ♪[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 9
+~~~~~~~~~~~~~~~
+Attends, vise un peu là-bas !\nIl a pas l’air d’être du coin, lui !
+Oush, cousin ! T’es pas d’Alola, toi ! J’parie que\nt’as des Pokémon rares sous ta casquette !
+Oh non ! C’est la Team Skull ![VAR 0114(0007)]
+Fais gaffe, c’est rien que des sales voleurs\nde Pokémon ![VAR 0114(0007)]
+Oh, qui tu traites de sales, là ?!\nT’as un problème avec nos sapes ?\c\nOn est juste curieux, c’tout !
+Économise ta salive.\c\nAllez, les mioches, on raboule les Pokémon,\net que ça saute, oush !
+Non, on vous les donnera jamais ! Les Pokémon,\nc’est comme des amis pour nous ![VAR 0114(0007)]
+Ah, tu l’prends comme ça ?!\nEh bah, on va les prendre de force !
+Sun ! T’as un Pokémon avec toi, hein ?\nAlors prépare-toi au combat ![VAR 0114(0007)]
+N-non mais... c’te raclée ! J’y crois pas !\nC’est qui, ce mioche ?!
+Non mais laisse béton ! Vous deux, vous perdez\nrien pour attendre !\c\nOn est p’têt’ pas à la hauteur, mais la sista,\nelle vous loupera pas !
+T’as vu comment ils ont déguerpi ? Haha !\c\nQuand on s’allie à nos Pokémon,\nrien ne nous fait peur ![VAR 0114(0007)]
+Et ton Pokémon, là... Amphinobi...\nFranchement, il a trop la classe ![VAR 0114(0007)]
+Allez, suis-moi, je vais t’emmener au Centre\nPokémon !\c\nBah ouais, faut aussi penser à faire soigner\nnos Pokémon ![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 10
+~~~~~~~~~~~~~~~
+Hé, Sun ![VAR 0114(0007)]
+Le Centre Pokémon, c’est par ici ![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 11
+~~~~~~~~~~~~~~~
+Pour soigner tes Pokémon, c’est tout simple !\nParle à l’infirmière à la réception ![VAR 0114(0007)]
+Tu peux aussi utiliser des Potions, sinon !\c\nD’ailleurs, tiens ! Je te donne une Super Potion !\nC’est encore mieux ![VAR 0114(0007)]
+Ah là là ! J’ai encore tellement de coins super\nà te montrer ! J’sais pas par où commencer ![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 12
+~~~~~~~~~~~~~~~
+Tiens, Tili !\nT’as de la compagnie ?
+Oh ! C’est le Professeur Euphorbe ![VAR 0114(0007)]
+Je vous présente Sun !\c\nIl arrive de Kanto. Il vient juste d’emménager\nici ![VAR 0114(0007)]
+Ça alors, c’est épatant ![VAR 0114(0005)]
+Salut, Sun !\nMoi c’est Euphorbe !\c\nContent de faire ta connaissance, man ![VAR 0114(0005)]
+Le Professeur Euphorbe étudie les capacités\ndes Pokémon. Trop classe, non ?[VAR 0114(0007)]
+Tu l’as dit, mon p’tit Tili !\c\nJe teste toutes les capacités sur moi,\nça me permet d’évaluer leur puissance.[VAR 0114(0005)]
+Professeur, faut trop que vous entraîniez Sun ![VAR 0114(0007)]
+Ben alors, quel Statitik te pique, Tili ?[VAR 0114(0005)]
+On s’est fait attaquer par la Team Skull\ntout à l’heure ! On a eu chaud ![VAR 0114(0007)]
+Hum, je vois. S’ils reviennent, je donne pas cher\nde votre peau...\c\nDans ce cas, ça te dirait de passer une\nÉpreuve ?[VAR 0114(0005)]
+Carrément !
+Une « Épreuve » ?
+Quelle fougue ! Tu fonces dans le tas à Corps\nPerdu comme un Mackogneur, j’aime ça !\c\nMais attends au moins que je t’explique\nde quoi il s’agit ! Haha ![VAR 0114(0005)]
+Les Épreuves sont une coutume d’Alola qui\npermet aux jeunes garçons et filles de renforcer\r\nleurs liens avec leurs Pokémon pour devenir\r\ndes Dresseurs hors pair ![VAR 0114(0005)]
+Quand tu seras prêt, rejoins-moi à la Colline\nDicarat ! Je vais te préparer une Épreuve\r\naux petits oignons ![VAR 0114(0005)]
+Pour t’y rendre, demande à notre bon ami qui\nnous fait signe, là-bas ![VAR 0114(0005)]
+J’suis sûr qu’Amphinobi et toi êtes de taille\npour l’Épreuve ![VAR 0114(0007)]
+Quand t’auras fini, reviens me voir, j’ai encore\nplein d’endroits bien cool à te montrer ![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 13
+~~~~~~~~~~~~~~~
+Attention, man ! Des Pokémon sauvages\nse cachent dans les hautes herbes ![VAR 0114(0005)]
+Mais pas de panique ! Comme tu es Dresseur,\ntu peux les affronter avec ton Amphinobi ![VAR 0114(0005)]
+Et si tu préfères éviter les combats, fais\nun détour pour ne pas traverser les hautes\r\nherbes quand c’est possible ! Tranquiiille ![VAR 0114(0005)]
+Allez, je t’attends à la Colline Dicarat !\nÀ toute ![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 14
+~~~~~~~~~~~~~~~
+Ah, te voilà enfin ![VAR 0114(0005)]
+Laisse-moi te faire un topo sur l’Épreuve.[VAR 0114(0005)]
+Quatre !\c\nC’est le nombre de Bébécaille et d’Écaïd que\ntu vas devoir trouver ![VAR 0114(0005)]
+Mon Épreuve consiste à tous les prendre\nen photo ![VAR 0114(0005)]
+Pour ça, utilise donc ce Poké Scope ![VAR 0114(0005)]
+Vous avez reçu le Poké Scope !
+Avec ça, tu vas pouvoir tirer le portrait\ndes Pokémon du coin ![VAR 0114(0005)]
+Mon Pikachu est super balèze !\c\nTu peux compter sur lui, il va former une équipe\ndu Tonnerre avec Amphinobi ![VAR 0114(0005)]
+Pikachu a l’air de vouloir vous donner\nun coup de patte !
+Commence par chercher Bébécaille !\nIl doit se cacher dans le coin ![VAR 0114(0005)]
+Bébécaille n’est pas loin ! Trouve-le et prends-le\nen photo ![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 15
+~~~~~~~~~~~~~~~
+Vous ressentez la présence d’un Pokémon !
+Voulez-vous sortir le Poké Scope ?
+Le Bébécaille s’affole et vous attaque !
+Il ne reste plus de trace de Bébécaille...
+Cadre bien le Pokémon avant de le prendre\nen photo ! Conseil de Motisma !
+~~~~~~~~~~~~~~~
+Text File : 16
+~~~~~~~~~~~~~~~
+T’en as déjà pris un en photo ?\nTranquiiille ![VAR 0114(0005)]
+Au fait, désolé, j’ai oublié de te prévenir...\c\nIci, les Pokémon sont sensibles au flash.\nÇa les affole et ils se mettent à attaquer !\c\nEn plus, ils sont de type Dragon.\nCes petits lascars sont coriaces ![VAR 0114(0005)]
+Mais bon, avec Amphinobi et Pikachu\nà tes côtés, t’as rien à craindre ![VAR 0114(0005)]
+Il te reste encore [VAR NUM1(0000)] Pokémon à prendre\nen photo ! Continue comme ça, man ![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 17
+~~~~~~~~~~~~~~~
+Vous ressentez la présence d’un Pokémon !
+Voulez-vous sortir le Poké Scope ?
+Le Bébécaille s’affole et vous attaque !
+Vous avez pris [VAR NUM1(0000)] Pokémon en photo !
+Il reste encore des Pokémon à prendre\nen photo !
+Il ne reste plus aucune trace du Bébécaille...
+Cadre bien le Pokémon avant de le prendre\nen photo ! Conseil de Motisma !
+Caaa !!!
+~~~~~~~~~~~~~~~
+Text File : 18
+~~~~~~~~~~~~~~~
+Vous ressentez la présence d’un Pokémon !
+Voulez-vous sortir le Poké Scope ?
+L’Écaïd s’affole et vous attaque !
+Vous avez pris [VAR NUM1(0000)] Pokémon en photo !
+Il reste encore des Pokémon à prendre\nen photo !
+Il ne reste plus aucune trace d’Écaïd...
+Cadre bien le Pokémon avant de le prendre\nen photo ! Conseil de Motisma !
+Écaaa !!!
+~~~~~~~~~~~~~~~
+Text File : 19
+~~~~~~~~~~~~~~~
+Vous ressentez la présence d’un Pokémon !
+Voulez-vous sortir le Poké Scope ?
+Caïïïd !!!
+Écaïd, le Pokémon Dominant de la Colline\nDicarat, apparaît !
+Il reste encore des Pokémon à prendre\nen photo !
+Cadre bien le Pokémon avant de le prendre\nen photo ! Conseil de Motisma !
+[VAR BD02]Appuyez sur le bouton A pour commencer !
+~~~~~~~~~~~~~~~
+Text File : 20
+~~~~~~~~~~~~~~~
+T’as battu le Pokémon Dominant ?\nAlors là, je te tire ma casquette ![VAR 0114(0005)]
+Et en plus tu l’as pris en photo ?!\c\nBravo, man ! Ça te fait quatre Pokémon\ndans la boîte ![VAR 0114(0005)]
+Tu as donc réussi l’Épreuve ! Respect !\nPour te récompenser, je t’offre ce Bracelet Z ![VAR 0114(0005)]
+Vous portez fièrement votre Bracelet Z !
+Et c’est pas tout !\nJe te passe aussi un Cristal Z ![VAR 0114(0005)]
+Vous recevez une Voltazélite !
+Avec ce Bracelet Z et ce Cristal Z, tu vas\npouvoir réveiller des capacités Pokémon\r\ncomplètement démentes !\c\nOn les appelle, tiens-toi bien...\ndes capacités Z ![VAR 0114(0005)]
+Hééé, Sun ![VAR 0114(0007)]
+Ouaaah, un Bracelet Z ! T’as réussi l’Épreuve,\nalors ?[VAR 0114(0007)]
+Trop la classe ![VAR 0114(0007)]
+Malheureusement, c’est pas fini...\nOn a d’la compagnie ![VAR 0114(0007)]
+J’allais leur mettre une raclée quand\nj’me suis rendu compte que j’t’avais passé\r\nma dernière Super Potion !\c\nAlors, j’me suis enfui, mais ils m’ont suivi\njusqu’ici ![VAR 0114(0007)]
+Sista ! Ils sont là !
+Mon nom à moi, c’est Apocyne.\nJe roule pour la Team Skull, c’est moi leur Admin.[VAR 0114(0018)]
+C’est toi, Sun ?\c\nJe vois... T’as l’air d’en avoir dans le ventre.[VAR 0114(0018)]
+Sista ! Vous faites quoi ?\nVous prenez pas not’ revanche ?
+Nous laissez pas béton, sista ! On s’est déjà\nfait rétamer une fois ! Pas deux !
+Silence ! J’m’occupe de son cas !\c\nIl va voir ce que j’réserve à ceux qui osent\nmaltraiter mes lascars ![VAR 0114(0018)]
+Sun ! Pas de stress ![VAR 0114(0005)]
+J’ai fait en sorte que tu puisses utiliser\nla Force Z de Pikachu !\c\nMais fais gaffe, tu ne peux y faire appel\nqu’une fois pendant le combat ![VAR 0114(0005)]
+Les Sheauriken d’Amphinobi ou la [VAR COLOR(0001)]Force Z\n[VAR COLOR(0000)]de Pikachu : à toi de choisir ton arme pour\r\nremporter la victoire ![VAR 0114(0005)]
+Tsk... Tu ferais mieux de lui apprendre à perdre\navec dignité.[VAR 0114(0018)]
+Parce qu’il est pas encore né, celui qui me\nbattra avec la Force Z ![VAR 0114(0018)]
+~~~~~~~~~~~~~~~
+Text File : 21
+~~~~~~~~~~~~~~~
+Tu t’appelles Sun, c’est ça ?\c\nJ’tai sous-estimé...[VAR 0114(0018)]
+Mais ce n’est que partie remise.\c\nLa prochaine fois que j’croise ta route,\nje te ferai pas de cadeau.[VAR 0114(0018)]
+Oush, cousin ! T’es nouveau à Alola, c’est ça ?\c\nTu connais pas encore not’ sista. C’est sa\nmanière à elle de t’montrer son respect !
+Sista ! Attendez-nous ! Nous laissez pas\navec eux !
+Eh bien, ça c’était un combat qui envoyait\ndu lourd !\c\nTu peux remercier Pikachu de t’avoir aidé\npendant l’Épreuve ![VAR 0114(0005)]
+Pikachu est retourné auprès du Professeur.
+Sun, t’es franchement trop balèze ![VAR 0114(0007)]
+Tu l’as dit, Tili ! Ton pote a su optimiser\nles capacités de ses Pokémon !\c\nSun ! Tu es sur la bonne voie pour devenir\nun Dresseur hors pair ![VAR 0114(0005)]
+Moi aussi, je vais m’entraîner à fond\npour devenir un super Dresseur ![VAR 0114(0007)]
+C’est beau, la fougue de la jeunesse !\c\nEt pour progresser, rien de tel que\nle Tour des Îles ![VAR 0114(0005)]
+Bon, maintenant que t’as fini ton Épreuve,\nje vais te montrer une boutique sensas’ :\r\nMalasa’Délices ![VAR 0114(0007)]
+Bonne idée, Tili ! C’est moi qui régale ![VAR 0114(0005)]
+Trop cool ! Viens, on va aussi inviter\nta maman ![VAR 0114(0007)]
+On va s’en mettre plein la panse !\nYeaaah ![VAR 0114(0007)]
+[VAR BD02]C’est ici que s’achève votre aventure ![VAR 0114(0007)]
+[~ 15]
+~~~~~~~~~~~~~~~
+Text File : 22
+~~~~~~~~~~~~~~~
+Sun ! Laisse-moi te féliciter à nouveau\nd’avoir remporté l’Épreuve ![VAR 0114(0005)]
+Tiens, je te donne un appareil bien cool qui va te\npermettre de monter sur des Pokémon ![VAR 0114(0005)]
+Vous recevez l’Appel-Monture !
+Eh ouais, les habitants d’Alola utilisent\naussi les Pokémon comme montures ![VAR 0114(0005)]
+Voici pour toi : un Pokémon robuste qui peut\nfoncer à toute allure et démolir les rochers\r\nsur son passage ![VAR 0114(0005)]
+Tauros a été ajouté à l’Appel-Monture !
+Bouge pas, je te lis le manuel :\c\n« Bouton Y pour allumer l’Appel-Monture.\nBouton B pour faire charger le Tauros ! »[VAR 0114(0005)]
+Et avec ça, la tenue réglementaire ![VAR 0114(0005)]
+Tu vas voir, avec Tauros, un monde nouveau\ns’ouvre à toi !\c\nEnfourche la bête et fonce à la Colline Dicarat !\nElle te réserve des surprises ![VAR 0114(0005)]
+Quant à moi, je reste au Centre Pokémon.\nHésite pas si t’as besoin de moi ![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+Si tu veux, je peux t’emmener dans un endroit\nin-croy-able !\c\nOn peut y créer des liens très forts avec\nses Pokémon ! Tu veux que je t’y conduise ?
+Oh que oui !
+Sans façon.
+Super ! Ferme les yeux et on y va !
+Oh, c’est dommage, quand même...\nTu n’aimes pas tes Pokémon ?
+~~~~~~~~~~~~~~~
+Text File : 24
+~~~~~~~~~~~~~~~
+Oh là là ! Vise un peu tous ces rochers\nqui bloquent le passage !
+Oh, mais tu peux appeler un Tauros\nà la rescousse, n’est-ce pas ?\c\nAlors fais-le charger en appuyant sur\nle bouton B et il réduira ces obstacles\r\nen poussière !
+~~~~~~~~~~~~~~~
+Text File : 25
+~~~~~~~~~~~~~~~
+Tu veux retourner à Ekaeka ?
+Oui !
+Non, non...
+Dans ce cas, ferme les yeux et on y va !
+Je comprends... Tu veux rester ici avec Tauros,\nn’est-ce pas ?
+[~ 5]
+~~~~~~~~~~~~~~~
+Text File : 26
+~~~~~~~~~~~~~~~
+Hé hé hé... Tu m’as l’air de bien t’entendre\navec ton Tauros, ma foi !
+Ah mais, toutes mes excuses !\nJe ne me suis pas présenté.\c\nJe m’appelle Lenny Gmatik !
+J’ai un cadeau parfait pour les jeunes comme toi\nqui réduisent les rochers en poussière !
+Avec la Poussière Étoile de Lenny...\nton monde devient plus joli !
+Sur ce, je m’éclipse. N’essaie pas de retrouver\nLenny Gmatik. C’est un conseil. Hé hé.
+Hé hé ! C’est moi, Lenny Gmatik !
+Ah ! C’est encore toi ?
+Je suis vraiment navré, mais je n’ai plus rien\nà te donner...\c\nInutile de revenir voir Lenny, je t’assure...
+Hé hé ! C’est moi, Lenny Gmatik !
+Je ne sais pas pourquoi, mais je me doutais\nque tu allais revenir...
+Je me demande pourquoi tu persistes...\nTon entêtement est une énigme pour moi...\c\nMais comme on dit : jamais deux sans trois.\nJe n’ai rien de plus pour toi !
+Hé hé ! C’est moi, Lenny Gmatik !
+Eh ben, tu dois vraiment aimer mes jeux de mots\npour venir me voir une fois de plus !\c\nOu bien serait-ce mon crâne luisant au soleil\nqui t’attire ?
+Je te l’ai déjà dit plusieurs fois, pourtant :\nje n’ai PLUS RIEN à te donner.\c\nTu ne trouveras ici que Lenny Gmatik !
+Hé hé ! C’est moi, Lenny Gmatik !
+Ce bruit de rochers qui explosent...\nCela ne pouvait être que toi !
+Tu demeures une énigme pour ce bon vieux\nLenny Gmatik...\c\nMais je commence à m’attacher à toi !
+Je suis sincèrement ravi que tu viennes me\nvoir encore et encore, c’est si gentil de ta part !\c\nMais crois-moi, je n’ai vraiment, mais VRAIMENT\nplus rien à t’offrir.
+~~~~~~~~~~~~~~~
+Text File : 27
+~~~~~~~~~~~~~~~
+Oh ! Bienvenue à toi, p’tit gars !\c\nÇa te plairait de participer à un défi de\ncapture ?
+Oh que oui !
+Un quoi ?
+Ha ha ha ! Je reconnais là la fougue\nde la jeunesse !
+Comment ? Tu ne connais pas ?
+Les règles sont simples !\c\nTu dois capturer un maximum de Pokémon\navec un nombre limité de Poké Balls !
+Tu pourras mettre les Pokémon que tu auras\nattrapés dans ton équipe.\c\nIls te seront utiles pour en capturer d’autres !
+À propos, pendant le défi de capture, il est\nimpossible de quitter cet endroit !\c\nQuant aux Pokémon capturés, tu seras gentil\nde les relâcher dans les hautes herbes\r\nà la fin du défi.
+Quand tu seras à court de Poké Balls ou\nque tu voudras simplement quitter le défi,\r\nviens donc me voir ! Sur ce...
+Veux-tu donc participer au défi de capture ?
+Ouais !
+Hum, naaan...
+C’est quoi les règles ?
+Tu m’en vois ravi ! Voici les Poké Balls dont\ntu as besoin !
+Montre-moi comment tu lances les\nPoké Balls ! C’est parti mon kiki !
+Ah bon... Eh bien écoute, quand tu auras changé\nd’avis, reviens me voir.
+Vous recevez des Poké Balls !
+~~~~~~~~~~~~~~~
+Text File : 28
+~~~~~~~~~~~~~~~
+Comment ? Tu veux abandonner le défi ?
+Non, je continue !
+Euh, oui...
+Dans ce cas, le terrain est à toi !\nCapture tout ce qui bouge !
+Ah ces jeunes... Comptons les Pokémon\nque tu as capturés !
+Tu as donc capturé... [VAR NUM2(0000)] Pokémon !
+Enfin, p’tit gars ! Tu pourrais faire un effort !\c\nSi tu veux avoir plus de chances d’attraper\nun Pokémon, affaiblis-le ! Là est le secret !
+Si tu veux avoir une chance d’en attraper\nplus, utilise ceux que tu as capturés !
+Oh, c’est pas trop mal. Continue, mon p’tit gars,\nt’es sur la bonne voie !
+Alors là, tu m’en bouches un coin !\nT’es un pro de la capture !
+Oooh ! C’est remarquable !\nTu as même battu mon record !
+OUAOUH !!!\c\nINOUÏ !!!!\c\nCe défi n’a plus de secret pour toi !\nTu es un véritable génie de la capture !
+Pour te récompenser d’avoir attrapé plus de\ndeux Pokémon, je t’offre cette Pépite !
+Je vais récupérer les Poké Balls qui ne t’ont\npas servi.
+Vous rendez les Poké Balls restantes.
+N’hésite pas à revenir pour relever de nouveau\nle défi de capture !
+Et surtout, on n’oublie pas de relâcher les\nPokémon dans les hautes herbes, hein.
+Vous avez relâché les Pokémon dans\nles hautes herbes !
+Et de un ! Bravo ! Continue comme ça,\np’tit gars !
+Tu te débrouilles pas trop mal !\nJe suis fier de toi !
+Joli ! T’es habile avec les Poké Balls !\nUn vrai jongleur !
+Eh ben ! Tu en captures tellement, j’ai du mal\nà compter !
+Zzz... Zzz... Hmph...\c\nSi, si... Je te regarde, je t’assure...\nZzzZzz...
+~~~~~~~~~~~~~~~
+Text File : 29
+~~~~~~~~~~~~~~~
+Yo, man ! Alors comme ça, tu tentes le défi\nde capture ?[VAR 0114(0005)]
+C’est cool ! La capture de Pokémon sauvages,\nc’est la base que tout Dresseur doit maîtriser ![VAR 0114(0005)]
+Je vais te faire une petite démo... spéciale !\nVise l’artiste ! Hé hé ![VAR 0114(0005)]
+Les Pokémon sauvages ont tendance à\nattaquer les gens qui s’égarent dans les hautes\r\nherbes, mais une fois que tu les as attrapés,\r\nils deviennent de fidèles compagnons ![VAR 0114(0005)]
+Bon, assez bavardé ! Maintenant, c’est à toi !\nMontre-moi de quoi tu es capable ![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 30
+~~~~~~~~~~~~~~~
+Mmm... Oui... Je le sens ! Tu as le potentiel\nnécessaire pour devenir un excellent Dresseur !
+Je t’accorderais bien un combat, mais j’ai besoin\nde m’assurer de tes compétences d’abord.\c\nDéfie les trois Dresseurs sur cette route, et\nviens me retrouver quand tu les auras vaincus !
+Je rêve !
+Alors comme ça, tu as remporté la victoire\ncontre les trois Dresseurs ?!\c\nC’est impressionnant !
+Je t’accorde donc un combat !\c\nCela fait bien longtemps que je n’ai pas eu\nl’occasion de tout donner. Tiens-toi prêt !
+Épatant ! Splendide ! Tout mon talent n’a pas\nsuffi pour te vaincre !
+Je suis fière d’avoir rencontré un adversaire\ntel que toi !
+Ton excellence brille comme une étoile\nau firmament !\c\nLaisse-moi te récompenser comme il se doit !
+À Alola, tu trouveras beaucoup d’autres\nDresseurs aussi tenaces que moi.
+Mais j’ai l’intime conviction que tes Pokémon\net toi n’en ferez qu’une bouchée !
+~~~~~~~~~~~~~~~
+Text File : 31
+~~~~~~~~~~~~~~~
+Si tu reviens me voir demain, je te donnerai\nun truc sensationnel !
+Quand je dis « demain », c’est ni aujourd’hui,\nni après-demain ! Pigé ?
+Tu es venu comme convenu ?! Super !\nChose promise, chose due !
+Le temps poursuit son cours inlassablement...\c\nQue sommes-nous, pauvres mortels, face à\nson passage inexorable ?\c\nPas grand-chose, je peux te l’assurer. Alors\nvivons le présent à 100 % !
+Je ne suis pas le seul à philosopher sur le cours\ndu temps.\c\nD’autres personnes à Ekaeka adorent prendre\ndes rendez-vous sur le long terme !
+~~~~~~~~~~~~~~~
+Text File : 32
+~~~~~~~~~~~~~~~
+L’autre jour, une personne fort sympathique\nm’a aidée alors que je m’étais foulé la cheville.\c\nC’était vraiment le parfait gentleman !\nJe lui ai donné rendez-vous ici dans [VAR NUM2(0000)] jour[VAR NUMBRNCH(0000,0100)]s !
+Tu me diras, je suis un peu en avance...\nMais je suis tellement impatiente de le revoir !
+Il est si fort ! Si musclé ! C’est le plus gentil\ndu monde, en plus de ça !
+Quoi ? Tu me crois pas ? Dans ce cas, reviens\nle jour J et tu verras !
+Ça y est ! C’est le grand jour !\nJe vais enfin revoir mon sauveur !\c\nCelui qui m’a aidée quand je me suis foulé\nla cheville !
+Mackooo !
+B-bonjour ! Comment allez-vous depuis le jour\noù vous m’avez si généreusement aidée ?\c\n(T’as vu ?! Je t’avais bien dit qu’il était génial !)
+Maaa ! Mackooo !!!
+Je te remercie quand même d’être passé.\nBon maintenant, laisse-nous, tu veux bien ?
+Aaaah, mon sauveur... *Soupir*\nJe n’ai pas oublié notre temps passé ensemble\r\nà la plage... C’est comme si c’était hier !\r\nHihihi !
+~~~~~~~~~~~~~~~
+Text File : 33
+~~~~~~~~~~~~~~~
+Dans [VAR NUM2(0000)] jour[VAR NUMBRNCH(0000,0100)]s, c’est l’anniversaire de Miss Piki !
+Pika !
+Y aurait-il quelqu’un d’assez aimable pour\nvenir le lui souhaiter avec moi ?
+Aujourd’hui, c’est l’anniversaire de Miss Piki !
+Chu !
+Mais, dis-moi... Es-tu venu pour le lui\nsouhaiter ?
+C’est fort regrettable...
+C’est merveilleux ! Chantons ensemble,\nmon ami !\c\nJoyeux anniversaire ! ♪\nJoyeux anniversaire, Miss Piki ! ♪
+Pika, pika, chu, chu !
+Merci du fond du cœur de t’être joint à nous !\nTiens ! Partage un peu de notre bonheur !
+Comment ? L’âge de Miss Piki ? Ce n’est pas\nune question à poser à une jeune fille, voyons...
+Pika, pika !
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+Je sais de source sûre qu’un échange\nlouche va avoir lieu ici même, dans [VAR NUM2(0000)] jour[VAR NUMBRNCH(0000,0100)]s...
+La question est : réussirai-je à les pincer\ntout seul ?
+Toi, là ! Halte !
+Mon informateur m’a confirmé que l’échange\nlouche allait se dérouler aujourd’hui même !
+La mission pourrait mal tourner si je\nl’accomplissais seul... Mais tu es là,\r\nmaintenant, donc j’ai confiance !\r\nDeux casquettes valent mieux qu’une !
+Chut ! J’entends des pas !
+...\c\nJ’espère que personne m’a suivi...
+Gnééé... Gnééé...\nAllez, dépêche-toi, vide ta sacoche !
+... Tout de suite.
+*Gloups*...\c\nQue peuvent-ils donc bien s’échanger... ?
+Ramo ?
+Ramomo ?
+Mais c’est bien sûr ! Des Ramoloss !\c\nOn raconte partout que leurs queues se vendent\nà prix d’or auprès des collectionneurs !
+Se pourrait-il que ces deux énergumènes\nveuillent les vendre au marché noir ?
+Haaan, la queue de ton Ramoloss...
+Mais qu’est-ce qu’elle est mimi !\nElle est littéralement à croquer ! ♪
+Gnéhé... Je dois dire que ton Ramoloss dépasse\nmes attentes... Il est... ravissaaant ! 
+Ramooo ?
+C-c’est... Je suis au septième cieeel !!!
+...
+Ahem... Mon informateur avait raison...\nJ’ai jamais rien vu d’aussi louche...
+Comme on dit, il faut de tout pour faire\nun monde...
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+Tu sais quoi ? Dans [VAR NUM2(0000)] jour[VAR NUMBRNCH(0000,0100)]s, je vais prendre\nle bateau !
+Mais je n’ai pas vraiment le pied marin...\nJe suis un peu angoissée...\c\nÇa me rassurerait si tu pouvais venir me dire\nau revoir pour mon départ !
+Oui, pourquoi pas !
+J’ai pas que ça à faire...
+Vraiment ?! Oh, je suis super contente !\nÀ dans [VAR NUM2(0000)] jour[VAR NUMBRNCH(0000,0100)]s alors !
+Ah... Bah... Euh...\nTant pis...
+C’est aujourd’hui que je prends le bateau !
+Mais je n’ai pas vraiment le pied marin...\nJe suis un peu angoissée...\c\nÇa me rassurerait si tu pouvais rester\npour me dire au revoir !
+Bien sûr !
+J’ai autre chose à faire...
+Ah... Euh...\nDésolée, alors...
+C’est si gentil !\nMerciii ! 
+Je suis un peu angoissée...\c\nMais avec toi à mes côtés, je sais que je peux\ny arriver !
+Tiens, c’est pour te remercier.
+Je suis tellement contente ! Je vais bientôt\nretrouver mon papa et ma maman !
+Sur ce, au revoir !
+~~~~~~~~~~~~~~~
+Text File : 36
+~~~~~~~~~~~~~~~
+Quelle vue magnifique...\nJ’aimerais pouvoir te la montrer...
+Ah ! Euh...\nBonjour...
+Qui es-tu ?
+Tu parles à ton sac ?
+J-je... Je m’occupe des Pokémon et...\nEuh...
+L-le Professeur Euphorbe m’attend, je dois\npartir...\r\nMais nous nous recroiserons peut-être un jour...
+~~~~~~~~~~~~~~~
+Text File : 37
+~~~~~~~~~~~~~~~
+Hé, Suuun ![VAR 0114(0007)]
+C’est bientôt la fin de la journée...\nLes dimanches passent trop viiite ![VAR 0114(0007)]
+Mais bon, faut voir le bon côté des choses :\ndemain est une nouvelle aventure ![VAR 0114(0007)]
+C’est pas tout ça mais j’ai un petit creux, moi !\nÇa te dit, une petite malasada ?[VAR 0114(0007)]
+Tili et vous engloutissez une énooorme\nMalasada Maxi !
+Allez, salut ! On se revoit bientôt pour\nune autre aventure, OK ?[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 38
+~~~~~~~~~~~~~~~
+Oh, mais c’est mon petit poussin ![VAR 0114(0004)]
+Il y avait des soldes à Alola Mode.\nMaman n’a pas pu résister ![VAR 0114(0004)]
+Un petit haut par-ci, une belle jupe par-là...\c\nJe n’ai même pas eu le temps de tout essayer\nque c’était déjà l’heure de la fermeture ![VAR 0114(0004)]
+J’ai acheté teeellement de vêtements que j’ai\ndû tout faire livrer à la maison !\c\nTu seras un amour et tu m’aideras à tout\nranger, d’accord ? ♪[VAR 0114(0004)]
+D’accord !
+Pfff, j’ai le choix ?
+J’aurais bien demandé à Miaouss, mais il\ndéchirerait tout avec ses petites griffes.[VAR 0114(0004)]
+Toi, tu es un gentil garçon, toujours prêt à aider\nsa maman chérie !\c\nEn attendant, amuse-toi bien,\net à tout à l’heure ! [VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 39
+~~~~~~~~~~~~~~~
+Il n’y a pas à dire, Alola est vraiment une région\nsplendide où il fait bon vivre !
+Sans oublier ses coutumes qui n’ont de cesse\nde titiller notre curiosité ! Un régal !
+Certes, mais n’oublions pas que nous sommes ici\nen touristes...
+Mais enfin ! Les Épreuves, le Tour des Îles...\nNous devons en savoir plus sur ces traditions !
+...\c\nQuelque chose me dit que nous allons passer\nun séjour tumultueux...
+~~~~~~~~~~~~~~~
+Text File : 40
+~~~~~~~~~~~~~~~
+Faire la queue pour réserver LE jeu de l’année,\nj’adore ça !\c\nQu’est-ce que j’suis impatient d’y jouer !
+Je me demande combien de jours il reste\navant l’ouverture des réservations...\c\nAh, j’ai tellement hâte !
+C’est bientôt ! Je le sens !\nIls vont bientôt ouvrir les portes !
+~~~~~~~~~~~~~~~
+Text File : 41
+~~~~~~~~~~~~~~~
+Oh mais, je n’en reviens pas ! Quelle chevelure !\nSi soyeuse ! Si éclatante !
+Oups, désolée ! Je n’arrive pas à me remettre\nde ma découverte !
+T’as un Poké Scope ? Vite, sors-le avant qu’il\nne s’échappe !
+Tout de suite !
+Un instant !
+Quand on trouve un joli Pokémon, il faut\nle cadrer bien au centre. Ensuite, utilise\c\nle zoom pour un plan rapproché réussi !
+[~ 6]
+Haaan, tu as vu sa crinière magnifique ?\nElle a l’air si douuuce !\c\nJe ne savais pas que certains Pokémon avaient\nune forme unique à Alola !
+Ah ben, t’as pas l’air de t’affoler...\nPfff... Tant pis pour toi.
+~~~~~~~~~~~~~~~
+Text File : 42
+~~~~~~~~~~~~~~~
+Alola ! Bienvenue au Centre Pokémon, où nous\nsoignons les Pokémon.\c\nVoulez-vous que nous nous occupions de votre\n[VAR NUMBRNCH(00FD,0607)]Pokémonéquipe ?
+Alola ! Bienvenue au Centre Pokémon, où nous\nsoignons les Pokémon.\c\nVoulez-vous que nous nous occupions de votre\n[VAR NUMBRNCH(00FD,0607)]Pokémonéquipe ?
+Alola ! Bienvenue au Centre Pokémon, où nous\nsoignons les Pokémon.\c\nVoulez-vous que nous nous occupions de votre\n[VAR NUMBRNCH(00FD,0607)]Pokémonéquipe ?
+Très bien ! Confiez-moi votre [VAR NUMBRNCH(00FD,0607)]Pokémonéquipe\nun instant.
+Merci d’avoir attendu.\nVotre [VAR NUMBRNCH(00FD,0607)]Pokémonéquipe a retrouvé la santé !
+À bientôt !
+n/a
+n/a
+n/a
+n/a
+n/a
+Avant toute chose, soignons votre [VAR NUMBRNCH(00FD,0607)]Pokémonéquipe.
+Si vos Pokémon n’ont pas assez de PV,\nvenez nous voir.\c\nNous vous souhaitons bonne chance.
+Votre [VAR NUMBRNCH(00FD,0607)]Pokémonéquipe a été soigné[VAR NUMBRNCH(00FD,0100)]e.\nNous vous souhaitons bonne chance.
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 43
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 13]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 98]
+[~ 99]
+[~ 100]
+[~ 101]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 169]
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+n/a[VAR 0114(0030)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 241]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 260]
+[~ 261]
+~~~~~~~~~~~~~~~
+Text File : 44
+~~~~~~~~~~~~~~~
+Alola !
+Salut !
+Salut, ça va ?
+Hey, la forme ?
+Tu as l’air en forme !
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+Si vous possédez la version complète du jeu\net que vous souhaitez y envoyer Amphinobi,\r\nallez parler au Professeur Euphorbe, au Centre\r\nPokémon !
+Votre aventure dans la Version démo spéciale\nn’est pas encore terminée !
+~~~~~~~~~~~~~~~
+Text File : 46
+~~~~~~~~~~~~~~~
+Lorsque vous chevauchez Tauros, maintenez\nle bouton B pour utiliser la Charge Tauros !
+La Charge Tauros permet de briser les rochers\nqui bloquent la route.
+Ainsi, vous pourrez explorer des endroits\nauparavant inaccessibles !
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+~~~~~~~~~~~~~~~
+Text File : 47
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 48
+~~~~~~~~~~~~~~~
+Ohé, Moustillon ! As-tu pensé à faire escale\nau Centre Pokémon ?
+Ohé, Moustillon ! Tu mets les voiles vers\nla Colline Dicarat ?
+En avant toute !
+Non, à la prochaine marée...
+J’aime ça ! On hisse la grand-voile !
+Quel marin d’eau douce !\nReviens me voir si tu changes de cap !
+À Alola, quand les enfants atteignent l’âge\nde onze ans, ils font ce qu’on appelle\r\nle Tour des Îles.
+Tu connais Kahili ? Non ? C’est une golfeuse\nd’élite originaire d’Alola !\r\nEt c’est aussi une Dresseuse émérite !\c\nEn ce moment, elle est partie en voyage, mais je\nsuis persuadée qu’elle sera bientôt de retour !
+Dis-moi, le Pokémon qui t’accompagne, c’est\nun Amphinobi, n’est-ce pas ?\c\nTu en as de la chance ! On en voit rarement\nà Alola !
+J’adore teeellement mon Pokémon que je ne\npeux m’empêcher de le brosser tous les jours !
+Pour aller à la Colline Dicarat, demande au type\nqui se prend pour un marin, là-bas !
+T’as vu comme mon Corayon est trop mignon ?\nC’est ma plus grande fierté !
+Coraaa !
+Alola ! Bienvenue à Ekaeka !
+Les malasadas, c’est que du bonheur !\c\nÇa croustille à l’extérieur et c’est moelleux\nà l’intérieur !
+Suis les conseils de la police et tiens bien\nton Pokémon par la main...\r\n... ou une autre partie du corps !\c\nLa sécurité avant tout !
+Mackooo !
+Vise un peu tous ces Ramoloss ! Ne sont-ils pas\ntrognons ? 
+Raaa !
+Mooo !
+Looo !
+Osss !
+Molooo !
+n/a
+n/a
+n/a
+[~ 26]
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 49]
+Commissariat d’Ekaeka\n« Prenez soin de vos montures ! »
+Et si tu allais faire un tour du côté\ndu Centre Pokémon ?
+~~~~~~~~~~~~~~~
+Text File : 49
+~~~~~~~~~~~~~~~
+Alola est un archipel isolé, à plusieurs lieues\ndes autres régions...
+Ramooo...
+Quand je vois le reflet du soleil sur la mer,\nje pense à cette nouvelle journée qui commence.\c\nQuand c’est la lune qui miroite sur l’eau, je songe\navec nostalgie au jour qui s’achève...
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 50
+~~~~~~~~~~~~~~~
+[~ 0]
+~~~~~~~~~~~~~~~
+Text File : 51
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 52
+~~~~~~~~~~~~~~~
+n/a
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 53
+~~~~~~~~~~~~~~~
+Ohé, Moustillon ! Je sais pas pourquoi, mais\nje sens que tu veux mettre le cap sur Ekaeka...
+Bien vu, capitaine !
+Mais pas du tout...
+Allez, on embarque !
+Nom d’un Denticrisse ! Tu m’en vois navré !\nReviens me voir si tu veux lever l’ancre !
+Kogneuuur !
+Macko ! Macko !
+Regarde ça ! Deux Mackogneur qui pratiquent\nla lutte traditionnelle d’Alola ! C’est rarissime !\c\nNon mais rends-toi compte de la chaaance\nqu’on a de voir ça !
+Quand deux Dresseurs se croisent du regard,\nle combat a déjà commencé !
+Le lieu où se déroule l’Épreuve du Professeur\nEuphorbe grouille de Pokémon de type Dragon !\c\nMais ce sont de gros froussards... Il faut les\nchercher pour les apercevoir !
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+Nul besoin d’apprendre à voler ou à nager :\ngrâce au ferry, tout le monde peut voyager !
+Alola est la destination de rêve pour tous\nles vacanciers des autres régions !
+Mackooo !
+Voyager, ça permet de découvrir de nouveaux\nhorizons, et surtout de nouveaux Pokémon !
+Nous sommes en train de construire un ferry\navec l’aide des Pokémon !\c\nRestez à l’affut des dernières nouvelles du\nchantier, et tenez-vous prêt pour l’inauguration !
+C’est un distributeur...\c\nQuoi ?! Un million la canette ?!
+[~ 6]
+[~ 7]
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+Que cherches-tu exactement ?\nUn Policier qui a du flair ?\c\nOu son partenaire Pokémon ?
+n/a
+C’est le visage grognon de cette poupée\nGranbull qui fait tout son charme.
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+Nous nous chargeons de la maintenance\ndes routes pour que tout le monde puisse\r\nse déplacer en Poké Monture.\c\nPriorité à la sécurité !
+Il fait si chaud à Alola qu’on serait prêt à se\nfaire asperger de toutes les capacités Eau !
+Bienvenue à Alola !\c\nTu aimes la région ? Tu vas voir, elle n’a pas\nfini de t’étonner !
+Alola abrite tant de merveilles !\c\nNe reste pas ici et mets le nez dehors,\ntu vas être surpris !
+Kogneuuur !
+Nous nous sommes chargés des formalités\nrelatives à votre changement d’adresse.\c\nJ’espère que vous saurez profiter pleinement\nde votre nouvelle vie à Alola !
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+Nous mettons les bouchées doubles pour\nrégaler nos clients avec nos malasadas !
+Manger et bouger, comme ils disent...\c\nJe suis bien d’accord : manger des malasadas...\net bouger jusqu’au comptoir pour en commander\r\nd’autres ! C’est tellement bon !
+Rayooon !
+Choisis judicieusemeeent, mon petit Momo !\nPreeends ton temps !
+... Mo ?
+n/a
+n/a
+Les malasadas sont alignées par variété\ndans la vitrine.
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+Entraîne bien tes Pokémon, et tu pourras aller\njusqu’au bout du monde !
+Au Centre Pokémon, n’importe qui peut faire\nsoigner ses Pokémon !
+Ramooo !
+Le patron m’a chargée de tenir le café pendant\nqu’il est en voyage pour récolter les meilleurs\r\ningrédients du monde !\c\nJe pense qu’il sera de retour dans un mois.\nReviens à ce moment-là !
+Désolé, la boutique est fermée !\nNous attendons une livraison.
+n/a
+n/a
+n/a
+[~ 8]
+n/a
+~~~~~~~~~~~~~~~
+Text File : 59
+~~~~~~~~~~~~~~~
+On raconte que chacune des quatre îles d’Alola\nest protégée par un Pokémon grandiose que\r\nles gens considèrent comme une divinité !
+Chacune des quatre îles qui composent la région\nd’Alola a sa propre ambiance !
+Il fait trop chaud dehors alors je me suis réfugié\nici pour profiter de la clim’ !
+n/a
+[~ 4]
+La télé accrochée au mur diffuse des pubs\nen boucle vantant les mérites d’Alola.\c\nDécouvrez Alola, ses plages de sable fin,\nses Concombaffe et ses Sovkipou ! Alooola ! ♪\c\nArpentez les montagnes d’Alola avec le grand\nLothar le Montagnard ! Alola hi houuu ! ♪
+De nombreux produits traditionnels d’Alola\nsont exposés ici !
+n/a
+n/a

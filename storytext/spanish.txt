@@ -1,0 +1,1218 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+Sí
+No
+[VAR NUM7(0008,E07F)] $
+¿Quieres guardar la partida?
+Guardando...\nNo apagues la consola.
+Se ha guardado la partida.
+Ya hay una partida guardada, por lo que no\nes posible guardar ahora.\c\nPara obtener más información, consulta el\nmanual de instrucciones.
+No se ha podido guardar la partida.
+Has recibido [VAR NUM8(0002,E07F)] $.
+Has obtenido [VAR 1702(0001)][VAR PKNAME(0001)].
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+¿Qué tal todo, Sun? ¿Necesitas algo?[VAR 0114(0005)]
+Enviar a la versión completa
+Charlar un rato
+Salir
+Y dime, ¿qué quieres enviar a la versión\ncompleta?[VAR 0114(0005)]
+A Greninja
+Los Polvos Estelares
+Un Trozo Estrella
+Una Pepita
+Las Plumas Bellas
+Una Seta Aroma
+Un Fragmento Cometa
+Salir
+Tranquilo, que el Greninja que te acompaña\nahora no va a desaparecer.[VAR 0114(0005)]
+Entonces, ¿quieres enviar a Greninja?[VAR 0114(0005)]
+Así que quieres enviar eso, ¿no?[VAR 0114(0005)]
+¿Algo más?[VAR 0114(0005)]
+¡Qué calorazo hace hoy! ¡Un día perfecto para\njugar con los Pokémon![VAR 0114(0005)]
+¿Ya has montado a lomos de Tauros? Pulsa el\nbotón B para cargar y podrás hacer añicos las\r\nrocas que te bloquean el paso.[VAR 0114(0005)]
+¿Ya has probado el reto de captura?\nPásate de camino a la Colina Dequilate.[VAR 0114(0005)]
+Junto a la Oficina de Turismo hay alguien que\npuede llevarte a un lugar interesante.[VAR 0114(0005)]
+Parece que hay algún que otro Entrenador de\ncamino a la Colina Dequilate.[VAR 0114(0005)]
+Dame un toque cuando necesites algo.[VAR 0114(0005)]
+No se han encontrado datos de guardado de\nPokémon Sol ni Pokémon Luna.\c\nNecesitas datos de guardado de Pokémon Sol\no Pokémon Luna para poder enviar algo a la\r\nversión completa del juego.
+Elige el juego al que quieres enviar el regalo.
+¡Advertencia!\c\nSi tienes en tu consola tanto la versión completa\ndel juego descargada e instalada como la tarjeta\r\nde juego insertada, esta última tendrá prioridad\r\na la hora de enviar datos.
+Ya has enviado ese regalo.
+Guardando el regalo...\nNo apagues la consola.
+No se ha podido guardar el regalo.\c\nAsegúrate de que la tarjeta de juego está\ninsertada correctamente y vuelve a intentarlo.
+El regalo se ha guardado correctamente.
+Pokémon Sol
+Pokémon Luna
+No se ha podido reconocer la tarjeta de juego.\c\nAsegúrate de que la tarjeta de juego está\ninsertada correctamente y vuelve a intentarlo.
+Se va a enviar el regalo a Pokémon Sol.
+Se va a enviar el regalo a Pokémon Luna.
+¡Advertencia!\c\nEste Pokémon no te obedecerá hasta que\nno hayas superado dos Grandes Pruebas en\r\nPokémon Sol o Pokémon Luna.
+Ya no puedes recibir más regalos en la versión\ncompleta del juego.\c\nPásate por el Centro Pokémon para recoger los\nregalos que ya tienes y vuelve a intentarlo.
+Greninja Ash (demo especial)
+Polvo Estelar (demo especial)
+Trozo Estrella (demo especial)
+Pepita (demo especial)
+Pluma Bella (demo especial)
+Seta Aroma (demo especial)
+Fragmento Cometa (demo especial)
+~~~~~~~~~~~~~~~
+Text File : 2
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+Está llena de libros y colecciones de fotografías\nde Pokémon.
+Parece una roca muy dura... Tal vez un Pokémon\npodría partirla.
+[~ 5]
+n/a
+n/a
+¿Quieres llamar a Tauros?
+n/a
+n/a
+Aquí no hay espacio suficiente para montar.
+~~~~~~~~~~~~~~~
+Text File : 3
+~~~~~~~~~~~~~~~
+El álbum está completo y no se pueden guardar\nmás fotos.\c\nOrganiza tus fotos y libera espacio.
+¡Has encendido el Pokévisor!
+No hay espacio suficiente en la tarjeta SD.\c\nPuedes seguir sacando fotos, pero no podrás\nguardarlas.\c\nSi quieres guardar tus fotos, libera espacio en la\ntarjeta SD.\c\n¿Quieres encender el Pokévisor?
+La Cámara de Nintendo 3DS no tiene espacio\npara almacenar más fotos.\c\nPuedes seguir sacando fotos, pero no podrás\nguardarlas.\c\n¿Quieres encender el Pokévisor?
+Se ha producido un error en la Cámara de\nNintendo 3DS.\c\nPuedes seguir sacando fotos, pero no podrás\nguardarlas.\c\n¿Quieres encender el Pokévisor?
+~~~~~~~~~~~~~~~
+Text File : 4
+~~~~~~~~~~~~~~~
+Has obtenido [VAR 1702(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has obtenido [VAR NUM1(0002)] [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has obtenido [VAR 1700(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has obtenido [VAR 1702(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has obtenido la\n[VAR ITEM2(0001)] [VAR BD00(0006,0000,0000)][VAR MOVE(0002)][VAR BD01].
+Has encontrado [VAR 1700(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has encontrado [VAR 1702(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Has encontrado la\n[VAR ITEM2(0001)] [VAR BD00(0006,0000,0000)][VAR MOVE(0002)][VAR BD01].
+¡Qué pena! No te queda espacio para guardar\n[VAR 1700(0000)][VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01].
+¡Has obtenido [VAR 1702(0000)][VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01]!\c\nEs una pena, pero la Bolsa está llena.
+Metes lo que acabas de obtener en\nel [VAR BD00(0006,0000,0000)]Bolsillo [VAR 0112(0002)][VAR BD01].
+[~ 11]
+[~ 12]
+Has recibido una\n[VAR BD00(0006,0000,0000)][VAR RIBBON(0001)][VAR BD01].
+Le has puesto a [VAR PKNAME(0002)]\nla [VAR RIBBON(0001)].
+Has obtenido [VAR 1702(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Parece que aquí no hay Pokémon...
+Has obtenido [VAR 1702(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01].
+Para enviar tu regalo a la versión completa del\njuego, ve al Centro Pokémon y pídele ayuda al\r\nProfesor Kukui.
+¡Ya puedes enviar tu [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]\na la versión completa del juego!
+¡Ya puedes enviar tus [VAR NUM1(0002)] [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]\na la versión completa del juego!
+~~~~~~~~~~~~~~~
+Text File : 5
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Ciudad Hauoli\nPiérdete en sus calles llenas de vida.
+n/a
+Oficina de Turismo\n¡Incluso a los lugareños les encanta!
+Ayuntamiento de Hauoli\nEl lugar donde todo se gestiona.
+Embarcadero\n¡Cualquier momento es bueno para embarcarse\r\nen una aventura!
+←　Embarcadero de Melemele
+→　Embarcadero de Melemele
+←　Embarcadero de Melemele
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 65]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Emplazamiento de la prueba
+~~~~~~~~~~~~~~~
+Text File : 6
+~~~~~~~~~~~~~~~
+Querido Sun,\n\nSi estás leyendo esto, ¡significa que ya has\nllegado a la región de Alola! Espero que lleves\nbien el ajetreo de la mudanza.
+¿Qué tal está el Greninja que te di?\nLe encanta el calor, así que seguro que estará\nen su salsa en Alola. ¡Qué mejor lugar que un\nparaíso tropical para librar ardientes combates!
+La carta no está firmada ni tampoco figura\nel remitente en el sobre...
+¿Se habrá olvidado de escribirlo? Qué raro...
+¡Sun! ¡Venga, tenemos que ir a empadronarnos\nal ayuntamiento![VAR 0114(0004)]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+~~~~~~~~~~~~~~~
+Text File : 7
+~~~~~~~~~~~~~~~
+Me han dicho que aquí la gente no se saluda\ndiciendo “¡Hola!”, sino “¡Alola!”. Qué gracia, ¿no?\r\n¡Voy a probar![VAR 0114(0004)]
+¡Alola! Acabamos de mudarnos a la región y\nqueríamos empadronarnos.[VAR 0114(0004)]
+¡Alola!\c\nClaro, vamos a ver... Ajá, así que vienen de\nKanto, ¿eh? Ya, ya...\c\nVale. Esperen un momento, por favor, mientras\ntramito el padrón.\c\nNo tardará más de unas horas...
+Faltaría más. Tenemos todo el día.[VAR 0114(0004)]
+Las cosas de palacio van despacio, y aquí la\nvida tiene otro ritmo. Pues nada, paciencia.[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 8
+~~~~~~~~~~~~~~~
+¡Eh, oye! Tú te llamas Sun, ¿verdad?[VAR 0114(0007)]
+Sí. ¿Y tú?
+¡Es un placer!
+¡Yo me llamo Tilo! ¡Encantado!\c\n¡Qué cosas! El yayo me había mandado aquí a\nhacer sus recados aburridos, y mira a quién me\r\nencuentro.\c\n¡Ya tenía yo ganas de conocerte![VAR 0114(0007)]
+Así que Tilo, ¿eh? Veo que mi hijo ya está\nhaciendo amiguitos.[VAR 0114(0004)]
+¿Usted es su madre? ¡Es un placer, señora![VAR 0114(0007)]
+Igualmente... Y como dicen aquí, ¡Alola![VAR 0114(0004)]
+Mira, yo tengo que esperar aquí un rato, pero\nvosotros podéis salir por ahí a tomar el fresco\r\ny dar un paseo si queréis, ¿vale?[VAR 0114(0004)]
+¡Síii! ¡Claro que queremos! ¡Qué guay![VAR 0114(0007)]
+¡Ven, Sun! ¡Te voy a enseñar la ciudad![VAR 0114(0007)]
+¡Hala, a pasarlo bien![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 9
+~~~~~~~~~~~~~~~
+¡Anda, mira! ¡Una cara nueva!\n¡Este pringao no sabe lo que le espera!
+Fijo que llevas algún Pokémon raro.\nDámelo ahora mismo o lo pagarás caro.
+¡Uaaah! ¡Los del Team Skull![VAR 0114(0007)]
+¡Estos liantes siempre le están robando los\nPokémon a todo el mundo![VAR 0114(0007)]
+¡Eh, tú! ¿Cómo que robando? ¡Sin faltar, eh!\c\n¡Somos amigos de los Pokémon ajenos!\n¡Que no es lo mismo!
+No te hagas el longuis, que a mí me da lo mismo.\nAfloja tus Pokémon o te zurramos por listo.
+¡Que te lo has creído! ¡Los Pokémon son\nnuestros amigos! ¡No os los vamos a dar![VAR 0114(0007)]
+Conque esas tenemos, ¿eh? ¡Tú lo has querido!\n¡Lo haremos por las malas!
+¡Sun! Tú también llevas un Pokémon, ¿verdad?\n¡Pues vamos a bajarles los humos a estos\r\nmacarras![VAR 0114(0007)]
+¡Uala! ¡Menudo repaso nos han dado estos críos!
+¡Nos han ganado a los dos! ¡Sin sentido!\c\n¡Esto no quedará así, que lo sepáis!\n¡Nos vamos a chivar! ¡A la jefa vais!
+Está claro que, si tienes a tus Pokémon contigo,\nno hay nada que temer, ¿eh?[VAR 0114(0007)]
+Oye, Sun. Tu Pokémon se llama Greninja,\n¿verdad? ¡Mola un montón![VAR 0114(0007)]
+¡Ven, que te voy a enseñar el Centro Pokémon!\nAsí de paso, curo al mío.[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 10
+~~~~~~~~~~~~~~~
+¡Eeeeh! ¡Sun![VAR 0114(0007)]
+¡El Centro Pokémon está aquí![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 11
+~~~~~~~~~~~~~~~
+Habla con la chica del mostrador y ella curará a\ntus Pokémon.[VAR 0114(0007)]
+Si no, también puedes darles una Poción.\c\nOh, y hablando del tema, ¡esto es para ti!\n¡Ahí lo llevas![VAR 0114(0007)]
+Bueno, ¿y ahora dónde vamos?[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 12
+~~~~~~~~~~~~~~~
+¡Eh, Tilo! ¿Quién es tu nuevo amiguito?
+¡Anda! ¡El Profesor Kukui![VAR 0114(0007)]
+Se llama Sun.\c\nAcaba de mudarse aquí, ¿sabe? Desde Kanto,\nnada menos. ¡Del otro lado del charco![VAR 0114(0007)]
+¡Vaya! ¡Eso está muy bien! ¡Sí, señor![VAR 0114(0005)]
+Qué menos que presentarme, entonces.\c\nYo soy el Profesor Kukui. ¡Encantado de\nconocerte, Sun![VAR 0114(0005)]
+El profe se dedica a investigar los movimientos\nPokémon, ¿sabes?[VAR 0114(0007)]
+¡Así es! Dejo que me arreen para comprobar\nsu poder. ¡Es el método pragmático![VAR 0114(0005)]
+¡Eh, profesor! ¡Acabo de tener una idea genial!\n¿Por qué no entrena a Sun?[VAR 0114(0007)]
+Tilo y sus cambios de tema... ¿Y eso a qué\nviene ahora?[VAR 0114(0005)]
+Es que acabamos de tener un encontronazo con\nesos macarras del Team Skull.[VAR 0114(0007)]
+Vale, ya veo... Sí, conviene estar preparados\npor si vuelven a meterse con vosotros.\c\nTe propongo una cosa, Sun. ¿Quieres afrontar\nuna prueba para hacerte más fuerte?[VAR 0114(0005)]
+¡Claro!
+¿Una prueba?
+Ni siquiera te he explicado en qué consiste y ya\nte lanzas como Machop usando A Bocajarro.\c\n¡Me gusta tu entusiasmo![VAR 0114(0005)]
+Las pruebas son una antigua costumbre muy\narraigada en la región de Alola.\c\nTodos los niños y niñas las llevan a cabo para\nreforzar su habilidad como Entrenadores\r\ny estrechar lazos con sus Pokémon.[VAR 0114(0005)]
+Cuando te sientas preparado para afrontar el\nreto, dirígete a la Colina Dequilate.[VAR 0114(0005)]
+Pídele al señor de la camisa azul que te\nacompañe.[VAR 0114(0005)]
+Tu Greninja y tú la superaréis sin problemas.[VAR 0114(0007)]
+¡Ánimo, Sun! Cuando termines, te sigo enseñando\nla ciudad.[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 13
+~~~~~~~~~~~~~~~
+Cuando estás en la hierba alta, puede salirte\nun Pokémon salvaje en cualquier momento.[VAR 0114(0005)]
+Como tú eres un Entrenador Pokémon y tienes\na tu Greninja contigo, podrás defenderte sin\r\nmayor problema.[VAR 0114(0005)]
+Ahora bien, si prefieres evitar enfrentamientos,\nbasta con intentar sortear las zonas de hierba\r\nalta si se puede.[VAR 0114(0005)]
+¡Te espero en la Colina Dequilate! ¡Nos vemos![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 14
+~~~~~~~~~~~~~~~
+¡Aquí estás, Sun![VAR 0114(0005)]
+Voy a explicarte en qué consiste la prueba.[VAR 0114(0005)]
+En la Colina Dequilate se pueden encontrar unos\nPokémon llamados Jangmo-o y Hakamo-o.\r\nEn total, hay cuatro ejemplares.[VAR 0114(0005)]
+Para superar mi prueba, tendrás que lograr\nhacerles fotografías a los cuatro.[VAR 0114(0005)]
+Toma este Pokévisor. Lo necesitarás para sacar\nlas fotos.[VAR 0114(0005)]
+¡Has obtenido un Pokévisor!
+Con el Pokévisor, podrás sacar fotos cuando\nnotes la presencia de un Pokémon.[VAR 0114(0005)]
+¡Y te voy a prestar a mi Pikachu!\c\nNo tiene nada que envidiarle a tu Greninja, y, si\nunís fuerzas, la prueba será coser y cantar.[VAR 0114(0005)]
+¡Pikachu está deseando ayudarte!
+Te recomiendo que empieces buscando un\nJangmo-o. Tiene que haber uno escondido por\r\naquí cerca.[VAR 0114(0005)]
+Busca un Jangmo-o y sácale una foto.[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 15
+~~~~~~~~~~~~~~~
+¡Notas la presencia de un Pokémon!
+¿Quieres encender el Pokévisor?
+¡Jangmo-o se ha asustado y se ha abalanzado\nsobre ti!
+Has perdido el rastro de Jangmo-o.
+¡Enfoca bien antes de sacar fotos!
+~~~~~~~~~~~~~~~
+Text File : 16
+~~~~~~~~~~~~~~~
+¡Eh, muy bien! Has conseguido sacar tu primera\nfoto.[VAR 0114(0005)]
+Ay, perdona, había olvidado comentarte un\npequeño detalle.\c\nLos Jangmo-o son un poquito ariscos y valoran\nsu privacidad, ¿sabes? Si te pones a sacarles\r\nfotos, es posible que no les haga demasiada\r\ngracia y se abalancen sobre ti.\c\nEncima son de tipo Dragón, así que son algo\ndurillos de pelar.[VAR 0114(0005)]
+Pero, eh, tienes a tu Greninja y a mi Pikachu.\n¡Nada de lo que preocuparte![VAR 0114(0005)]
+Bueno, te queda[VAR NUMBRNCH(0000,0100)]n [VAR NUM1(0000)] más para superar la prueba.\n¡Hala, a sacar fotos![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 17
+~~~~~~~~~~~~~~~
+¡Notas la presencia de un Pokémon!
+¿Quieres encender el Pokévisor?
+¡Jangmo-o se ha asustado y se ha abalanzado\nsobre ti!
+¡Has fotografiado [VAR NUM1(0000)] Pokémon!
+Seguro que aún puedes sacar alguna foto más...
+Has perdido el rastro de Jangmo-o.
+¡Enfoca bien antes de sacar fotos!
+¡Jaaang!
+~~~~~~~~~~~~~~~
+Text File : 18
+~~~~~~~~~~~~~~~
+¡Notas la presencia de un Pokémon!
+¿Quieres encender el Pokévisor?
+¡Hakamo-o se ha asustado y se ha abalanzado\nsobre ti!
+¡Has fotografiado [VAR NUM1(0000)] Pokémon!
+Seguro que aún puedes sacar alguna foto más...
+Has perdido el rastro de Hakamo-o.
+¡Enfoca bien antes de sacar fotos!
+¡Hakaaa!
+~~~~~~~~~~~~~~~
+Text File : 19
+~~~~~~~~~~~~~~~
+¡Notas la presencia de un Pokémon!
+¿Quieres encender el Pokévisor?
+¡Hakaaa!
+¡Ha aparecido Hakamo-o, el Pokémon dominante\nde la Colina Dequilate!
+Seguro que aún puedes sacar alguna foto más...
+¡Enfoca bien antes de sacar fotos!
+[VAR BD02]Pulsa el botón A\n[VAR BD02]para empezar la partida.
+~~~~~~~~~~~~~~~
+Text File : 20
+~~~~~~~~~~~~~~~
+¡Qué fuerte, Sun! ¡Has derrotado al Pokémon\ndominante, nada menos! ¡Tu equipo y tú sois\r\nformidables![VAR 0114(0005)]
+Y con la que le has sacado, ya tienes las cuatro\nfotos que te pedí.[VAR 0114(0005)]
+Así que... ¡Prueba superada!\c\n¡Enhorabuena, Sun! ¡Como premio, te voy a\nentregar esta Pulsera Z![VAR 0114(0005)]
+¡Te has puesto la Pulsera Z!
+Y, cómo no, la pulsera se quedaría coja sin\nesto... ¡Un Cristal Z![VAR 0114(0005)]
+¡Has obtenido un Electrostal Z!
+Combinados, la pulsera y el cristal que te acabo\nde entregar te permiten lanzar unos movimientos\r\npoderosísimos... ¡Los movimientos Z![VAR 0114(0005)]
+¡Suuun![VAR 0114(0007)]
+¡Anda, una Pulsera Z! Eso es que has superado\nla prueba, ¿eh?[VAR 0114(0007)]
+¡Felicidades![VAR 0114(0007)]
+Ahora veremos si ha servido de algo.\n¡Mira quién viene por ahí![VAR 0114(0007)]
+Es que, cuando te di la Superpoción, no me di\ncuenta de que era la última que tenía.\c\nPensé que los despistaría si venía aquí, pero los\ntíos me han seguido.[VAR 0114(0007)]
+¡Ahí viene la jefa!
+Soy Francine, la Comandante del Team Skull.[VAR 0114(0018)]
+Y tú eres el tal Sun, ¿eh?\n¡Oye, pues tienes pinta de apañao![VAR 0114(0018)]
+¡Pero jefa! ¿No habíamos quedado en que iba\na meterle caña al renacuajo este?
+¡Lo que nos faltaba! ¡Esto ya es el colmo!\n¡Por el amor de Ditto, no pase de nosotros!
+¡Muy bien, dejádmelo a mí!\c\nAl fin y al cabo, es mi trabajo como comandante\ndefender a los tontacos de mis Reclutas.[VAR 0114(0018)]
+¡No te preocupes, Sun![VAR 0114(0005)]
+¡Ahora, el Pikachu que te presté puede desatar\ntoda la fuerza del Poder Z!\c\n¡Pero solo puede hacerlo una vez por combate,\nque lo sepas![VAR 0114(0005)]
+¿Te enfrentarás a Francine con el Shuriken de\nAgua de tu Greninja?\c\n¿O con el [VAR COLOR(0001)]Poder Z [VAR COLOR(0000)]de mi Pikachu? ¡Tú decides!\n¡Y yo estoy deseando verlo![VAR 0114(0005)]
+¿Qué, dando consejitos? Pues ahí va uno:\nagárrate que vienen curvas, chaval.[VAR 0114(0018)]
+¡Mi Pokémon se va a comer al tuyo con patatas,\nni Poder Z ni gaitas![VAR 0114(0018)]
+~~~~~~~~~~~~~~~
+Text File : 21
+~~~~~~~~~~~~~~~
+Vaya, vaya. Y dices que te llamas... Sun, ¿no?\nPues sí que eres apañao, sí.[VAR 0114(0018)]
+¡La próxima vez no te lo voy a poner tan fácil!\n¡Serás tú quien muerda el polvo!\c\nY, si te digo la verdad... estoy deseando que\nllegue ese momento.[VAR 0114(0018)]
+Que no se te suba a la cabeza. La jefa te está\ndando una oportunidad por ser nuevo aquí.
+¡Jefaaa! ¡Espere!\n¡Franciiine, no me sea asíiin!
+¡Un combate excelente, Sun!\c\nY ahora, si no te importa, devuélveme a mi\nPikachu, que le tengo mucho aprecio.[VAR 0114(0005)]
+Pikachu ha vuelto con el Profesor Kukui.
+¡Eres una pasada, Sun![VAR 0114(0007)]
+¡Así es! Has sabido extraer todo el potencial de\ntu equipo en una exhibición de movimientos\r\nmagistral.\c\nSun... Tienes madera para convertirte en un\nEntrenador formidable, te lo digo yo.[VAR 0114(0005)]
+¡Pues yo no seré menos! ¡Me esforzaré para ser\nel mejor![VAR 0114(0007)]
+¡Así se habla! Lo que tendríais que hacer\nvosotros dos es aprovechar el recorrido insular\r\npara entrenar al máximo.[VAR 0114(0005)]
+Oye, Sun, ahora que has terminado la prueba,\nven que te llevo a la Tienda de Malasadas.[VAR 0114(0007)]
+¡Una idea fantástica! Y mira, como regalo de\nbienvenida, hoy invito yo.[VAR 0114(0005)]
+¡Qué guay! ¡Pues que venga también la madre\nde Sun![VAR 0114(0007)]
+¡Viva! ¡Me voy a poner las sanda... digo las\nbotas![VAR 0114(0007)]
+[VAR BD02]Fin de la partida[VAR 0114(0007)]
+[~ 15]
+~~~~~~~~~~~~~~~
+Text File : 22
+~~~~~~~~~~~~~~~
+¡Sun, sé que me repito más que una malasada\ncon ajo, pero enhorabuena de nuevo por haber\r\nsuperado la prueba![VAR 0114(0005)]
+Ahora te facilitaré el equipo necesario para\nque puedas montar a lomos de Pokémon.[VAR 0114(0005)]
+¡Has obtenido un Buscamontura!
+Aquí en Alola, hay Pokémon que nos dejan\nmontar sobre ellos y así podemos aprovechar\r\nsu fuerza.[VAR 0114(0005)]
+Y creo que es el momento de que pruebes a\nsubirte a lomos de un Pokémon tan fuerte que\r\npuede pulverizar rocas a cabezazo limpio.[VAR 0114(0005)]
+¡Se han registrado los datos de Tauros en el\nBuscamontura!
+Te leo el manual...\c\n“Pulsa el botón Y para activar el Buscamontura\ny el botón B para que Tauros cargue”.[VAR 0114(0005)]
+¡Y el atuendo de jinete es la ropa que necesitas\nponerte para poder montar en un Pokémon![VAR 0114(0005)]
+Comprobarás que el mundo es bastante\ndiferente cuando lo ves a lomos de un Tauros.\c\nPodrías ir a la Colina Dequilate, por ejemplo,\na ver qué encuentras. ¡Ya me contarás![VAR 0114(0005)]
+Yo estaré aquí en el Centro Pokémon. Si me\nnecesitas para algo, dame un toque.[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+¿Quieres que te enseñe un sitio genial donde\npuedes hacerte más amigo de tus Pokémon?
+Vale
+Ahora no
+Pues cierra los ojos, que te llevo en un instante...
+Lástima por tu Pokémon... Se lo habría pasado\nde fábula.
+~~~~~~~~~~~~~~~
+Text File : 24
+~~~~~~~~~~~~~~~
+Como ves, el paso está bloqueado por rocas,\nrocas y más rocas.
+¡Pero, con la ayuda de Tauros, esto no es\nproblema!\c\n¡Venga, pulsa el botón B para cargar contra\nlas rocas y hacerlas añicos!
+~~~~~~~~~~~~~~~
+Text File : 25
+~~~~~~~~~~~~~~~
+¿Quieres volver a Ciudad Hauoli?
+Sí
+Aún no
+Pues cierra los ojos, que enseguida llegamos...
+Ya veo... Quieres pasar un rato más con Tauros,\n¿eh? Perfecto.
+[~ 5]
+~~~~~~~~~~~~~~~
+Text File : 26
+~~~~~~~~~~~~~~~
+Qué gusto ver lo bien que te llevas con Tauros.
+Pero dónde están mis modales... Me presento.\nSoy... bueno, mi nombre real no tiene\r\nimportancia. Puedes llamarme... ¡Don Misterio!
+Lo que importa es que has llegado hasta aquí y\neso se merece un premio.\c\nAquí tienes un poco de Polvo Estelar.
+Guárdalo y úsalo sabiamente.
+¡Y no vuelvas a buscarme!
+¡Soy yo, Don Misterio!
+¡Oh! ¡Otra vez tú!
+Mira, aprecio que hayas subido la cuesta solo\npara verme, pero...\c\nEs que no tengo nada más que darte.\nNo te molestes en volver, ¿vale?
+¡Sí, aquí estoy! ¡Soy Don Misterio!
+Mira que sabía que volverías...
+Dicen que a la tercera va la vencida, pero no\ntengo nada para ti, de verdad.\c\nNi lo tengo ni lo tendré, así que no te molestes\nen volver, ¿vale?
+¡Me llaman Don Misterio!
+Desde luego, lo tuyo no tiene nombre, ¿eh?\c\nYa estás otra vez por aquí. ¿Será que te gusta\nadmirar mi célebre frente despejada?
+Ya te he dicho que no tengo nada para ti.\nY eso no va a cambiar por más que vengas.
+Que sí, que soy yo, Don Misterio.
+En cuanto he oído el estallido de las rocas, he\npensado: “Hala, ya está aquí el del Tauros”.
+Me estoy acostumbrando tanto a verte que el\ndía que no vengas te voy a echar de menos.
+No te niego que me hace ilusión que enfiles toda\nla senda solo para venir a verme.\c\nPero también te digo que no tengo nada para ti.\nNa-da, ¿entiendes? Grábatelo en la mollera.
+~~~~~~~~~~~~~~~
+Text File : 27
+~~~~~~~~~~~~~~~
+¡Alola y bienvenido!\c\n¿A que estás deseando participar en el desafío\nPokécaptura?
+Sí
+¿El qué?
+¡Eso es lo que quiero oír!
+Vaya, ¿será posible que no hayas oído hablar\ndel desafío Pokécaptura?
+¡Las reglas son sencillas!\c\nDebes atrapar el mayor número de Pokémon\nposible con un número limitado de Poké Balls.
+Podrás añadir a tu equipo los Pokémon que\nvayas capturando.\c\nElige bien el Pokémon adecuado para cada\nsituación y podrás atrapar muchos más.
+No obstante, una vez iniciado el desafío, no\npodrás abandonar la zona.\c\nY al término del mismo, los Pokémon que hayas\ncapturado se devolverán a la hierba alta.
+Si te quedas sin Poké Balls o simplemente\nquieres abandonar, házmelo saber.
+¿Quieres participar en el desafío Pokécaptura?
+Sí
+No
+¿Cuáles son las reglas?
+¡Perfecto! Ahora solo te hace falta el material.
+Pues, sin más dilación, que comience el desafío.\n¡Adelante y feliz captura!
+Bof... Vale, pues cuando quieras participar,\nme lo dices.
+Has obtenido varias Poké Balls.
+~~~~~~~~~~~~~~~
+Text File : 28
+~~~~~~~~~~~~~~~
+¿Quieres seguir con el desafío o prefieres\nabandonar?
+Quiero seguir
+Prefiero abandonar
+¡Bien! ¡Te deseo una abundante captura,\nentonces!
+Como quieras. Procedamos al recuento,\nentonces.
+En esta ocasión has logrado capturar...\n¡[VAR NUM2(0000)] Pokémon!
+Vaya, ojalá hubieras logrado atrapar por lo\nmenos a uno.\c\nTen en cuenta que es más fácil capturarlos\nsi antes reduces un poco sus PS.
+Te daré un consejo: añade los Pokémon que\nvayas capturando a tu equipo para que te\r\nayuden en el desafío.
+No está mal. Sigue así y no dejes de capturar\nPokémon.
+¡Eh, mira eso! Parece que alguien le está\ncogiendo el tranquillo al desafío.
+¡Impresionante! ¡Esto se te da mejor que a mí!
+¡Increíble! ¡Fabuloso!\c\n¡Nada se te resiste! ¡Nunca había visto\nsemejante talento para la captura!
+Como premio por haber superado por primera\nvez las tres capturas, te voy a dar una Pepita.
+Ya guardo yo las Poké Balls que no has usado.
+Has devuelto las Poké Balls sobrantes.
+¡Vuelve cuando quieras para afrontar el\ndesafío Pokécaptura!
+Ahora liberaremos a los Pokémon que has\ncapturado.
+Los Pokémon han vuelto a la hierba alta.
+¡Bien, veo que ya has capturado uno!\n¡Es un buen comienzo!
+¡Sigue así, que lo estás haciendo muy bien!\nMe gusta ver que te lo tomas con entusiasmo.
+¡Asombroso! Las Poké Balls son para ti como\nuna extensión de tu brazo.
+¿Eeh? ¿En serio has capturado todos esos?\n¡No me lo puedo creer!
+Zzz...\c\n¿Eh? Oh, sí, claro que te estoy viendo. Lo estás\nhaciendo muy bien. Sí, sí... Zzz.
+~~~~~~~~~~~~~~~
+Text File : 29
+~~~~~~~~~~~~~~~
+¡Eh, Sun! ¿Así que vas a participar en el desafío\nPokécaptura? ¡Me parece muy bien![VAR 0114(0005)]
+Todo Entrenador Pokémon es capaz de atrapar\nlos Pokémon salvajes que le salen al paso.[VAR 0114(0005)]
+Atiende bien, que voy a explicarte cómo hay\nque hacerlo.[VAR 0114(0005)]
+Es verdad que los Pokémon salvajes pueden\natacarte y tal, pero, si los capturas, podréis\r\nestrechar lazos y, al final, se convertirán en\r\nvaliosos aliados.[VAR 0114(0005)]
+Y ahora, ¡a disfrutar del desafío!\n¡Te estaré animando![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 30
+~~~~~~~~~~~~~~~
+Hmm... Mi olfato me dice que tienes potencial\ncomo Entrenador.
+Si logras derrotar a los otros tres Entrenadores\nque se encuentran en esta ruta, tal vez te\r\nconceda el honor de enfrentarme a ti.
+¡Tú!
+¡Has derrotado a los tres Entrenadores de la\nruta! ¡Eso es que posees un talento\r\nexcepcional!
+Hacía tiempo que no se me presentaba un rival\ndigno... Disfrutaré dándolo todo en combate.
+¡Asombroso! Lo he dado todo y aun así no he\npodido vencerte.
+Soy muy feliz de haber conocido a un\nEntrenador como tú.
+Un talento deslumbrante como el tuyo merece\nun regalo acorde... ¡Un Trozo Estrella para un\r\nEntrenador estrella!
+En Alola hay muchos Entrenadores que, como\nyo, están dispuestos a darlo todo en combate.
+Pero tú... y tu equipo, por supuesto... ¡podréis\nhacerles frente sin problema!
+~~~~~~~~~~~~~~~
+Text File : 31
+~~~~~~~~~~~~~~~
+Si vienes a verme mañana, tendré algo muy\nbueno para ti.
+Ni hoy ni pasado. Mañana, ¿de acuerdo?
+¡Eh, has venido! Gracias.\nY ahora, lo que te había prometido.
+Todo tiene su momento en la vida. Hay que\nsaber esperar, pero sin dejarlo escapar.\c\nAsí es el tiempo. Caprichoso, contradictorio\ny fugaz... ¡pero es lo único que tenemos!
+Si quieres un consejo, deberías encontrar el\nmomento adecuado para hablar con la gente\r\nde por aquí.
+~~~~~~~~~~~~~~~
+Text File : 32
+~~~~~~~~~~~~~~~
+He quedado con el que me ayudó el otro día,\ncuando me torcí un tobillo.\c\nBueno, en realidad nos veremos dentro de\n[VAR NUM2(0000)] día[VAR NUMBRNCH(0000,0100)]s, pero...
+¡Ay, es que me hacía mucha ilusión!\nY creo que he acudido un poco... pronto.
+Pero es que tendrías que verlo. Unos músculos...\nNo había visto yo nunca nada igual.\c\nFuerte, robusto, cuadrado como un armario\nropero abierto. ¡Qué portento de la naturaleza!
+Aunque no tienes por qué fiarte de mí. Pásate\nel día en el que hemos quedado y lo ves tú\r\nmismo.
+¡Ay! ¡Qué emoción! ¡Está a punto de llegar el que\nme ayudó cuando me torcí el tobillo!
+¡Machaaaa!
+¡Aaay! ¡Míralo, aquí está!\n¿Qué? ¿A que está fuertote?
+¡Chaaaamp!
+Como ves, no te había mentido. ¡Un portento!\n¡Hasta lueguito!
+¡Ay, lo bien que nos lo hemos pasado paseando\npor la playa!
+~~~~~~~~~~~~~~~
+Text File : 33
+~~~~~~~~~~~~~~~
+¡Solo falta[VAR NUMBRNCH(0000,0100)]n [VAR NUM2(0000)] día[VAR NUMBRNCH(0000,0100)]s para el cumpleaños de mi\nPikachín!
+¡Pikaaa!
+Me pregunto si alguien querría celebrarlo\ncon nosotros.
+¡Hoy es el cumpleaños de mi Pikachín!
+¡Pikaaa!
+¿Te apuntas a celebrarlo?
+Lástima.
+¡Ay, qué alegría más grande!\n¡Feliz cumpleaños, Pikachín!
+¡Pikapikaaa!
+Muchas gracias por celebrarlo con nosotros.\nToma, un regalo para ti también.
+¿Qué te parece, Pikachín? Un año más juntos,\ntú y yo.
+¡Pikaaa!
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+Nos han soplado que dentro de [VAR NUM2(0000)] día[VAR NUMBRNCH(0000,0100)]s\neste será el escenario de un asunto turbio...
+Vaya, hombre. Todos mis compañeros se han\npuesto enfermos de golpe y me toca ocuparme\r\ndel caso a mí solo...
+¡Policía! ¡Alto ahí!
+Según nuestros informantes, hoy tendrá lugar\nun trapicheo turbio... Es un trabajo sucio, pero\r\nalguien tiene que hacerlo...
+Me inquietaba tener que ocuparme del caso yo\nsolo, pero ya no lo estoy, ¿verdad?\c\n¡Eres mi compañero y juntos lograremos que\nprevalezca la ley y el orden!
+¡Silencio! ¡Viene alguien!
+¿Estás seguro de que no te han seguido?
+Uf, uf... Venga, muéstrame lo que llevas, rápido.
+Ahora mismo...
+Glups...\c\nEsto es un trapicheo en toda regla.\nAlgo turbio, sin duda.
+¿Slo?
+¿Slow?
+¡Ajá! Las colas de Slowpoke se venden a precios\nexorbitantes. ¡Seguro que son contrabandistas!
+¡Pretenden vender las colas en el mercado negro\ny forrarse, los muy canallas!
+Ooh... La cola de tu Slowpoke...
+¡Es ideaaaal! Parece tan blandica y suave...\n¡Uuuuy, qué ganas de darle un achuchóoon!
+Jur, jur... Pues la del tuyo también es divina.\n¡Aaay, qué cosica!
+¿Poke?
+¡Aaaay! ¡Muero de amooooor!
+...
+Algo turbio sin duda. Aunque no exactamente\ncomo lo esperaba.
+Bueno, dejémoslos con sus asuntos. Lo que\nocurre en Hauoli se queda en Hauoli.
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+Dentro de [VAR NUM2(0000)] día[VAR NUMBRNCH(0000,0100)]s zarpa mi barco.
+Pero es que me da un miedo tremendo.\n¿Y si me mareo? ¿Y si se hunde? ¡Aaay!\c\nOye, ¿podrías venir a despedirme cuando me\nvaya? A lo mejor así me tranquilizo y no pienso\r\ntantas tonterías.
+Claro
+No, no puedo
+¡Ay, qué alivio! Entonces, nos vemos aquí dentro\nde [VAR NUM2(0000)] día[VAR NUMBRNCH(0000,0100)]s. No te olvides.
+Oh... Vale, lo entiendo.
+Por fin ha llegado el día. Hoy zarpa mi barco.
+¡Pero es que me da mucho miedo! ¿Y si nos\nataca un monstruo marino mientras estoy en el\r\nlavabo? Oye, ¿puedes ir a despedirme?
+¡Faltaría más!
+No voy a poder
+Oh...\nQué chasco...
+Gracias... ¡Me quedo más tranquila!
+En realidad me sigue dando miedo, pero tenerte\naquí me da ánimos.
+Toma, por ser tan bueno conmigo.
+¡Papá, mamá! ¡Esperadme que ya voy!
+Adiós.
+~~~~~~~~~~~~~~~
+Text File : 36
+~~~~~~~~~~~~~~~
+La vista es preciosa... Ojalá pudiera compartirla\ncontigo.
+Ah, esto... Hola.
+¿Quién eres?
+¿Qué llevas en la bolsa?
+Yo, bueno... Verás... Mi pequeño y yo estamos...\nQuiero decir...
+Bueno, debo marcharme. El Profesor Kukui me\nestará esperando.\c\nTal vez nos veamos... en otra ocasión.
+~~~~~~~~~~~~~~~
+Text File : 37
+~~~~~~~~~~~~~~~
+¡Eeeeh, Sun![VAR 0114(0007)]
+Así sin darnos cuenta, ya se nos ha pasado el\ndomingo...[VAR 0114(0007)]
+Pero da igual, porque eso solo significa que nos\nespera una semana de nuevas aventuras.[VAR 0114(0007)]
+¡Y ahora, a llenar la panza! ¡Venga, Sun, vamos\na por unas malasadas![VAR 0114(0007)]
+Has compartido una Malasada Maxi con Tilo.
+¡Adiós, Sun! ¡Hasta la próxima aventura![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 38
+~~~~~~~~~~~~~~~
+¡Anda, mira quién está aquí![VAR 0114(0004)]
+Es que me he enterado de que estaban de\nrebajas en la Boutique y, como estabas fuera,\r\nme he dicho “Va, un ratito nada más”.[VAR 0114(0004)]
+Pero luego me he puesto a revolver cosas y se\nme ha ido el santo al cielo. ¡Fíjate que se ha\r\nhecho la hora de cerrar la tienda![VAR 0114(0004)]
+Cuando lleguen las cajas, me ayudarás a\norganizarlo todo, ¿verdad?[VAR 0114(0004)]
+Sí
+Esto...
+Es que, si se lo pido a Meowth, me lo destrozará\ntodo a arañazos...[VAR 0114(0004)]
+En fin, tú disfruta, que la infancia son dos\ndías.[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 39
+~~~~~~~~~~~~~~~
+Alola parece un lugar de lo más agradable,\n¿no estás de acuerdo?
+Su cultura y costumbres son fascinantes.\n¡Tengo ganas de estudiarlas a fondo!
+Eh, no olvides que en teoría estamos aquí para\nhacer turismo...
+Nada, nada. ¡Hay que investigar a fondo las\npruebas y el recorrido insular!
+...\c\n¿Sabes qué?\c\nPresiento que vamos a ser testigos de un gran\nacontecimiento.
+~~~~~~~~~~~~~~~
+Text File : 40
+~~~~~~~~~~~~~~~
+¿Falta mucho? ¿Falta mucho?\c\n¡Hace meses que quiero este juego y por eso\nestoy haciendo cola para reservarlo y que nadie\r\nme lo quite!
+Ya falta poco, ya falta poco para que abran y\npueda reservar mi copia. Me voy a comer las\r\nuñas hasta los tobillos de la emoción.
+¡Ya casi es la hora! ¡En cuanto abran, salgo\ndisparado!
+~~~~~~~~~~~~~~~
+Text File : 41
+~~~~~~~~~~~~~~~
+¡Qué sedoso! ¡Qué suave! ¡Qué brillo!
+Uy, perdona, no te había visto.\n¡Pero es que he hecho un descubrimiento\r\nincreíble!
+¡Míralo tú mismo, si quieres! Llevas un\nPokévisor, ¿no?
+Voy a ver
+Me da igual
+Cuando veas un Pokémon, encuádralo bien en\nel visor para sacar la instantánea perfecta.
+[~ 6]
+¡Qué maravilla! ¿A que es increíble?\c\nPor lo visto, en Alola algunos Pokémon tienen\nformas distintas a las de otras regiones.
+Bueno, si no te interesa no te voy a obligar.
+~~~~~~~~~~~~~~~
+Text File : 42
+~~~~~~~~~~~~~~~
+¡Alola! Bienvenid[VAR GENDBR(00FF,0101)]oa al Centro Pokémon.\c\n¿Quieres que tu[VAR NUMBRNCH(00FD,0100)]s Pokémon descanse[VAR NUMBRNCH(00FD,0100)]n y se\nrecupere[VAR NUMBRNCH(00FD,0100)]n por completo?
+¡Alola! Bienvenid[VAR GENDBR(00FF,0101)]oa al Centro Pokémon.\c\n¿Quieres que tu[VAR NUMBRNCH(00FD,0100)]s Pokémon descanse[VAR NUMBRNCH(00FD,0100)]n y se\nrecupere[VAR NUMBRNCH(00FD,0100)]n por completo?
+¡Alola! Bienvenid[VAR GENDBR(00FF,0101)]oa al Centro Pokémon.\c\n¿Quieres que tu[VAR NUMBRNCH(00FD,0100)]s Pokémon descanse[VAR NUMBRNCH(00FD,0100)]n y se\nrecupere[VAR NUMBRNCH(00FD,0100)]n por completo?
+Vale, dame unos segundos.
+¡Tu[VAR NUMBRNCH(00FD,0100)]s Pokémon ha[VAR NUMBRNCH(00FD,0100)]n recobrado toda su energía!
+¡Esperamos volver a verte!
+n/a
+n/a
+n/a
+n/a
+n/a
+Primero vamos a devolverle la energía\na tu equipo Pokémon.
+No olvides visitar algún Centro Pokémon\ncuando tus Pokémon pierdan PS.\c\n¡Buena suerte!
+Tu[VAR NUMBRNCH(00FD,1210)] Pokémon ya estás Pokémon ya están en plena forma.\n¡Que te vaya bien!
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 43
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 13]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 98]
+[~ 99]
+[~ 100]
+[~ 101]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 169]
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+n/a[VAR 0114(0030)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 241]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 260]
+[~ 261]
+~~~~~~~~~~~~~~~
+Text File : 44
+~~~~~~~~~~~~~~~
+¡Alola!
+¡Buenas!
+¿Qué tal?
+¡Ey!
+¿Qué hay?
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+Si tienes la versión completa del juego, dirígete\nal Centro Pokémon y habla con el Profesor\r\nKukui para enviar a tu Greninja a dicha versión.
+¡La demo especial no acaba aquí!
+~~~~~~~~~~~~~~~
+Text File : 46
+~~~~~~~~~~~~~~~
+Pulsa el botón B mientras corres a lomos de\nTauros para activar la Carga Tauros.
+Esto te permitirá reventar las rocas que te\nbloquean el camino.
+Así podrás llegar a lugares que de otro modo\nserían inaccesibles.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+~~~~~~~~~~~~~~~
+Text File : 47
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 48
+~~~~~~~~~~~~~~~
+¿Qué? ¿Ya has ido al Centro Pokémon?
+¿Qué? ¿Quieres ir a la Colina Dequilate?
+Sí
+No
+¡Muy bien! ¡Deja que te muestre el camino!
+Tú verás. Cuando quieras ir, avísame.\nYo siempre ando por aquí.
+En Alola, todos los niños realizan el recorrido\ninsular al cumplir los once años.
+¡En Alola hay una Golfista mitiquísima llamada\nKahili, que además de buena deportista es un\r\nhacha en los combates!\c\nAhora mismo está por ahí viendo mundo, pero\nyo estoy deseando que vuelva ya con nosotros.
+Oye, ese Pokémon que llevas es un Greninja,\n¿verdad?\c\nEso en Alola no se ve todos los días. ¡Bueno,\nno se ve nunca, porque aquí no hay!
+Yo me lo paso pipa cepillando a mis Pokémon.
+Si quieres ir a la Colina Dequilate, tendrás que\nhablar con el tipo raro de la camisa azul.\c\nSe ha empeñado en acompañar a todo el mundo.
+¡Mi Corsola es la cosa más mona del mundo!\n¿Dónde has visto tú unas ramitas más bonitas?
+¡Corsoo!
+¡Alola! ¡Bienvenido a Ciudad Hauoli!
+¡Crujientes por fuera, tiernas por dentro!\n¡Las malasadas son la felicidad hecha fritanga!
+Ten siempre a tu Pokémon al lado y no te metas\nen líos.
+¡Chaaamp!
+¡Cuántos Slowpoke! ¡Y son todos preciosos!
+Slooo...
+¡Slooo!
+¡Slooow!
+Poke...
+¡Poke!
+n/a
+n/a
+n/a
+[~ 26]
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 49]
+Comisaría de Hauoli\nConduce tu Pokémontura con precaución.
+¡Dirígete al Centro Pokémon!
+~~~~~~~~~~~~~~~
+Text File : 49
+~~~~~~~~~~~~~~~
+Alola está lejos de cualquier otra región, lo mires\npor donde lo mires.
+Slooo...
+Cuando el sol se alza por el horizonte, su calor\nnos baña anunciando un nuevo día.\c\nY al ver la luna reflejada en las aguas, sabemos\nque su luz de plata vela nuestros sueños.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 50
+~~~~~~~~~~~~~~~
+[~ 0]
+~~~~~~~~~~~~~~~
+Text File : 51
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 52
+~~~~~~~~~~~~~~~
+n/a
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 53
+~~~~~~~~~~~~~~~
+¿Quieres regresar a Ciudad Hauoli?
+Sí
+Aún no
+¡Muy bien! ¡Te acompaño, entonces!
+Bueno. Cuando quieras volver, avísame.
+¡Machaaa!
+¡Chaaamp!
+¡Un combate de lucha tradicional de Alola entre\ndos Machamp! ¡Es un espectáculo digno de\r\nverse! ¡Qué suerte la mía!
+¡Cuando dos Entrenadores cruzan la mirada,\ncomienza el combate!
+Hay muchos Pokémon de tipo Dragón donde\ntiene lugar la prueba de Kukui.\c\nPero se esconden, así que tendrás que buscar\nbien si quieres verlos.
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+No importa si no puedes volar ni nadar.\n¡Siempre puedes subir al ferry!
+Alola es un destino vacacional muy popular.\n¡Siempre hay gente de todas las regiones!
+¡Machaaa!
+Lo interesante de visitar lugares nuevos es que\nsiempre puedes encontrar nuevos Pokémon.
+En efecto, estamos construyendo un ferry con la\nayuda de los Pokémon.\c\n¡Pero habrá que tener paciencia, porque aún\ntardará un tiempo en estar listo!
+Me voy a comprar algo en la expendedora...\c\n¡¿Qué?! ¿Un millón la botella?
+[~ 6]
+[~ 7]
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+¿Buscas un agente competente a la par que\napuesto... o a su ayudante Pokémon?
+n/a
+Es un peluche de Granbull, un Pokémon muy\npopular por su cara de duro.
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+Hay que mantener las carreteras en óptimas\ncondiciones. ¡Si no, te podrías pegar un leñazo\r\ncon tu Pokémontura!
+Madre mía, qué calor hace en Alola. Lo que daría\nyo ahora por un buen Hidrochorro.
+¡Bienvenido a Alola!\c\n¡Para un chaval como tú, aquí es imposible\naburrirse!
+En Alola hay tanto que ver...\c\nPero en el ayuntamiento hay más bien poco,\nasí que, ¡sal ahí fuera a vivir aventuras!
+¡Machaaa!
+Bueno, ya hemos terminado el papeleo y ya\nestáis empadronados.\c\nEspero que disfrutéis de esta nueva etapa aquí\nen nuestra hermosa región.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+¡Hacer buenas malasadas es todo un arte y\nrequiere años de aprendizaje!\c\n¡No todo el mundo está a la altura!
+Las malasadas son mi perdición.\nMe las como de tres en tres...
+¡Corsolaaa!
+No te estreses, Slowpoke. ¡Tómate tu tiempo!
+Slooo...
+n/a
+n/a
+Todo el mostrador está repleto del mismo tipo\nde malasadas.
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+Con tus Pokémon puedes llegar adonde te\npropongas.\c\n¡Y cuanto más fuertes sean, más lejos llegarás!
+Aquí cualquiera puede traer a sus Pokémon\npara que se recuperen.
+Slooo...
+¡Soy una becaria en prácticas!\c\nEl jefe se ha ido a recorrer mundo en busca de\nlos ingredientes más exquisitos.\c\nYo creo que estará de vuelta dentro de un mes,\nmás o menos.
+Disculpa las molestias, pero estamos cerrados\nhasta que nos llegue el género.
+n/a
+n/a
+n/a
+[~ 8]
+n/a
+~~~~~~~~~~~~~~~
+Text File : 59
+~~~~~~~~~~~~~~~
+Dicen que cada una de las cuatro islas cuenta\ncon lo que llaman su propio espíritu guardián,\r\nun Pokémon de formidable poder.
+Cada una de las cuatro islas que conforman el\narchipiélago de Alola tiene su idiosincrasia, una\r\nsuerte de sabor y atmósfera propios. ¡No hay\r\ndos iguales!
+Como fuera hace un calor que te achicharras,\nhe venido aquí para aprovechar el aire\r\nacondicionado.
+n/a
+[~ 4]
+En el televisor de la pared se puede ver un\nvídeo promocional de Alola.\c\n♪Ay, Alola cómo mola...♪\n♪Ay, cómo mola Alola...♪
+Sobre el estante hay productos tradicionales de\nla región de Alola con su típico aire exótico.
+n/a
+n/a

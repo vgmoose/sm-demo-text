@@ -1,0 +1,1218 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+Ja
+Nein
+[VAR NUM7(0008,002E)] $
+Möchtest du das Spiel speichern?
+Speichervorgang...\nBitte das System nicht ausschalten.
+Das Spiel wurde gespeichert.
+Es gibt bereits einen Spielstand.\nSpeichern ist daher nicht möglich.\c\nWeitere Details dazu findest du in der\nelektronischen Bedienungsanleitung.
+Speichern fehlgeschlagen.
+Du erhältst [VAR NUM8(0002,002E)] $!
+[VAR PKNAME(0001)] erhalten!
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+Hey, Sun!\nWas möchtest du tun?[VAR 0114(0005)]
+Auf Vollversion übertragen
+Plaudern
+Abbrechen
+Was möchtest du auf die Vollversion\nübertragen?[VAR 0114(0005)]
+Quajutsu
+Sternenstäube
+Sternenstück
+Nugget
+Prachtfedern
+Duftpilz
+Kometstück
+Abbrechen
+Nur keine Sorge, dein Quajutsu verschwindet\nnicht aus deinem Team, wenn du es überträgst![VAR 0114(0005)]
+Du möchtest also Quajutsu\nübertragen, ja?[VAR 0114(0005)]
+Du möchtest also dieses Geschenk\nübertragen, ja?[VAR 0114(0005)]
+Sonst noch etwas?[VAR 0114(0005)]
+Ein echter Sonnentag heute, was?\nIdeal, um mit Pokémon zu spielen![VAR 0114(0005)]
+Reitest du eigentlich auch auf Tauros? Aktiviere\nden Tauros-Rammbock mit dem B-Knopf, um mit\r\nVolldampf Felsen zu zertrümmern, die dir den\r\nWeg versperren![VAR 0114(0005)]
+Hast du schon mal die Fangherausforderung\nausprobiert? Du kannst dich auf dem Weg zur\r\nPrüfungsstätte an ihr versuchen.[VAR 0114(0005)]
+In der Nähe der Touristeninformation gibt es\njemanden, der dir einen ziemlich interessanten\r\nOrt zeigen kann![VAR 0114(0005)]
+Auf dem Weg zur Prüfungsstätte tummeln sich\noffenbar jede Menge Trainer![VAR 0114(0005)]
+Sprich mich einfach an, wenn du irgendwas\nbrauchst![VAR 0114(0005)]
+Es wurde kein Spielstand von Pokémon Sonne\noder Pokémon Mond gefunden.\c\nDu musst erst einen Spielstand innerhalb der\nSpielesoftware Pokémon Sonne oder\r\nPokémon Mond erstellen, um etwas auf die\r\nVollversion übertragen zu können.
+Bitte wähle die Spielesoftware, auf die du das\nGeschenk übertragen möchtest.
+※　Hinweis　※\c\nIst sowohl die Karte der Handelsversion in\ndeine Konsole eingesteckt als auch die\r\nDownloadversion der vollständigen\r\nSpielesoftware installiert, wird dein Geschenk\r\nauf die Handelsversion übertragen.
+Dieses Geschenk wurde bereits übertragen.
+Geschenk wird übertragen...\nBitte das System nicht ausschalten.
+Das Übertragen des Geschenks ist\nfehlgeschlagen.\c\nBitte überprüfe, ob die Karte ordnungsgemäß\nin den Kartenschlitz eingeführt wurde und\r\nversuche es erneut.
+Das Geschenk wurde übertragen.
+Pokémon Sonne
+Pokémon Mond
+Es wurde keine Karte erkannt.\c\nBitte überprüfe, ob die Karte ordnungsgemäß\nin den Kartenschlitz eingeführt wurde und\r\nversuche es erneut.
+Das Geschenk wird auf Pokémon Sonne\nübertragen.
+Das Geschenk wird auf Pokémon Mond\nübertragen.
+※　Hinweis　※\c\nBitte beachte, dass dieses Pokémon erst auf\ndich hören wird, wenn du in Pokémon Sonne\r\nbzw. Pokémon Mond zwei große Prüfungen\r\ngemeistert hast.
+Du hast in der Vollversion keinen Platz für\nweitere Geschenke.\c\nHol dir ein paar Geschenke im Pokémon-Center\nab und versuche es erneut.
+Ash-Quajutsu (Spezial-Demoversion)
+Sternenstaub (Spezial-Demoversion)
+Sternenstück (Spezial-Demoversion)
+Nugget (Spezial-Demoversion)
+Prachtfeder (Spezial-Demoversion)
+Duftpilz (Spezial-Demoversion)
+Kometstück (Spezial-Demoversion)
+~~~~~~~~~~~~~~~
+Text File : 2
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+Es ist randvoll mit Pokémon-Büchern und\nFotoalben.
+Der Felsen sieht ziemlich robust aus.\nVielleicht kann ein Pokémon ihn ja zertrümmern?
+[~ 5]
+n/a
+n/a
+Willst du Tauros herbeirufen?
+n/a
+n/a
+Hier ist es zu eng, um ein Pokémon\nfür PokéMobil zu rufen.
+~~~~~~~~~~~~~~~
+Text File : 3
+~~~~~~~~~~~~~~~
+Du kannst keine weiteren Fotos machen,\nda dein Fotoalbum voll ist.\c\nSchaffe Platz in deinem Fotoalbum!
+Der Pokémon-Sucher wurde aktiviert!
+Unzureichender Speicherplatz auf der SD Card.\c\nDu kannst zwar Fotos machen, diese aber nicht\nspeichern.\c\nUm Fotos speichern zu können, musst du zuerst\nPlatz auf deiner SD Card schaffen.\c\nMöchtest du den Pokémon-Sucher aktivieren?
+Der Speicher der Kamera-Anwendung ist voll.\c\nDu kannst zwar Fotos machen, diese aber nicht\nspeichern.\c\nMöchtest du den Pokémon-Sucher aktivieren?
+Bei der Kamera-Anwendung ist ein Fehler\naufgetreten.\c\nDu kannst zwar Fotos machen, diese aber nicht\nspeichern.\c\nMöchtest du den Pokémon-Sucher aktivieren?
+~~~~~~~~~~~~~~~
+Text File : 4
+~~~~~~~~~~~~~~~
+Du erhältst das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Du erhältst [VAR NUM1(0002)] Exemplare des Items\n[VAR BD00(0006,0000,0000)][VAR ITEMPLUR0][VAR ITEM2(0001)][VAR BD01]!
+Du erhältst das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Du erhältst das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Du erhältst die\n[VAR BD00(0006,0000,0000)][VAR ITEM2(0001)] [VAR MOVE(0002)][VAR BD01]!
+Du findest das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Du findest das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Du findest die\n[VAR BD00(0006,0000,0000)][VAR ITEM2(0001)] [VAR MOVE(0002)][VAR BD01]!
+Schade! Für das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01]\nist kein Platz mehr!
+Du erhältst das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01]!\c\nOh, schade... Dafür ist leider kein Platz mehr!
+[VAR ITEM2(0001)] wurde[VAR NUMBRNCH(0001,0100)]n in der\n[VAR BD00(0006,0000,0000)][VAR 0112(0002)]-Tasche[VAR BD01] verstaut.
+[~ 11]
+[~ 12]
+Du erhältst ein\n[VAR BD00(0006,0000,0000)][VAR RIBBON(0001)][VAR BD01]!
+Du hast [VAR PKNAME(0002)] das\n[VAR RIBBON(0001)] angesteckt.
+Du erhältst das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Hier gibt es offenbar keine Pokémon.
+Du erhältst den Z-Kristall\n[VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+Bitte Professor Kukui im Pokémon-Center um\nHilfe beim Übertragen von Items.
+Du kannst nun das Item [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]\nauf die Vollversion übertragen.
+Du kannst nun [VAR NUM1(0002)] Exemplare des Items\n[VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] auf die Vollversion\r\nübertragen.
+~~~~~~~~~~~~~~~
+Text File : 5
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Hauholi City\c\nEine friedliche Stadt voller Freude
+n/a
+Alola-Touristeninformation\nAuch bei den Einheimischen sehr beliebt
+Rathaus von Hauholi\nFür deine Stadt versetzen wir Berge!
+Der Pier\c\nNirgendwo lässt es sich besser an oder von\nBord eines Schiffes gehen.
+← Pier von Mele-Mele
+→ Pier von Mele-Mele
+← Pier von Mele-Mele
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 65]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Zur Prüfungsstätte
+~~~~~~~~~~~~~~~
+Text File : 6
+~~~~~~~~~~~~~~~
+Lieber Sun!\n\nWenn du diesen Brief liest, solltest du bereits\nin der Alola-Region angekommen sein.\nIst mit dem Umzug alles glatt gelaufen?
+Wie geht es dem Quajutsu, das ich dir\ngeschenkt habe?\n\nEs liebt heißes Wetter... Und in Alola geht es\nheiß her! Das schreit nach heißen Kämpfen!
+Der Brief wurde nicht unterschrieben...
+Auch auf dem Umschlag ist kein Name zu\nfinden...
+Sun! Es wird Zeit, zum Rathaus zu gehen!\nWir müssen uns dort noch anmelden.[VAR 0114(0004)]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+~~~~~~~~~~~~~~~
+Text File : 7
+~~~~~~~~~~~~~~~
+Sun! Wusstest du, dass „Alola“ nicht nur der\nName dieser Region ist, sondern auch ein Gruß?[VAR 0114(0004)]
+Alola! Wir sind hier, um uns anzumelden![VAR 0114(0004)]
+Alola! Sie müssen unsere neuen Mitbürger aus\nder Kanto-Region sein!\c\nDer Papierkram dauert leider ein bisschen...\nIch hoffe, Sie haben etwas Geduld mitgebracht!
+Keine Sorge, das haben wir.\nVielen Dank schon mal für Ihre Mühen![VAR 0114(0004)]
+Gut Ding will Weile haben...\nJetzt heißt es wohl warten![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 8
+~~~~~~~~~~~~~~~
+Hey, du!\nBist du Sun?[VAR 0114(0007)]
+Ja, und wer bist du?
+Ja! Nett dich kennenzulernen!
+Ah, super! Ich bin Tali!\c\nZum Glück bin ich dem Rat von meinem Opi\ngefolgt, im Rathaus vorbeizuschauen!\c\nDas ist die perfekte Gelegenheit, um dich\nkennenzulernen![VAR 0114(0007)]
+Hallo, Tali! Das war doch dein Name, oder?\nIch hoffe, du und Sun werdet gute Freunde![VAR 0114(0004)]
+Ja, ich bin Tali! Und du bist sicher Suns Mutter!\nFreut mich, dich kennenzulernen![VAR 0114(0007)]
+Ebenso! Alola![VAR 0114(0004)]
+Ich hab da eine Idee!\c\nBevor ihr euch hier total langweilt, könntet ihr\ndoch zusammen die Stadt erkunden![VAR 0114(0004)]
+Au ja! Das klingt toll![VAR 0114(0007)]
+Komm mit, Sun!\nIch führe dich gern ein bisschen rum![VAR 0114(0007)]
+Viel Spaß, ihr zwei![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 9
+~~~~~~~~~~~~~~~
+Yo! Du bist wohl nich’ von hier, was? Mir biste\nhier jedenfalls noch nich’ übern Weg gelaufen!
+Wenn du von woanders herkommst, haste dann\nvielleicht auch ’n paar seltene Pokémon dabei?
+Oh nein!\nDie sind von Team Skull![VAR 0114(0007)]
+Das ist ein ganz übler Haufen, der den Leuten\nihre Pokémon stiehlt![VAR 0114(0007)]
+Übler Haufen? Ey, komm mal runter, Kleiner!\c\nWir sind bloß ’ne coole Gang, die sich mächtig\nfür die Pokémon anderer Leute interessiert!
+Mein Bro will sagen: „Seid keine Dickschädel und\nlasst eure Pokémon rüberwachsen, kapiert?!“
+Nie im Leben überlassen wir euch unsere\nPokémon! Sie sind doch unsere Freunde![VAR 0114(0007)]
+Echt jetz’? Na dann...\nWer nich’ hören will, muss fühlen!
+Sun, du hast doch auch ein Pokémon dabei, ja?\c\nDann lass uns die Sache mit einem\nPokémon-Kampf regeln![VAR 0114(0007)]
+No way! Mir will einfach nich’ in den Schädel,\nwarum dieses Balg so krass stark is’...
+Wenn mein Bro und ich euch zu zweit nicht\npacken, sollten wir lieber ’nen Abgang machen.\c\nAber zieht euch warm an, wir werden unserer\nSis nämlich alles über euch erzählen!
+Solange die Pokémon an unserer Seite sind,\nmüssen wir vor niemandem Angst haben![VAR 0114(0007)]
+Dein Pokémon ist ein Quajutsu, stimmt’s?\nDas ist ja so cool![VAR 0114(0007)]
+Ich zeige dir jetzt das Pokémon-Center, folge\nmir einfach!\c\nMeine Pokémon brauchen nämlich eine kleine\nVerschnaufpause![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 10
+~~~~~~~~~~~~~~~
+Hey, Sun![VAR 0114(0007)]
+Das Pokémon-Center ist hier drüben![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 11
+~~~~~~~~~~~~~~~
+Wenn du die Angestellte am Hauptschalter\nansprichst, heilt sie dein Team![VAR 0114(0007)]
+Du kannst es aber auch mit Tränken heilen,\nwenn dir das lieber ist.\c\nHier, Sun! Diesen Supertrank kannst du haben.\nQuasi ein Willkommensgeschenk von mir![VAR 0114(0007)]
+Hm, was könnte ich dir wohl als Nächstes\nzeigen...?[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 12
+~~~~~~~~~~~~~~~
+Hey, Tali!\nWen hast du denn da im Schlepptau?
+Oh, hallo Professor Kukui![VAR 0114(0007)]
+Darf ich vorstellen?\c\nDas ist Sun, unser neuer Nachbar aus der\nKanto-Region.\c\nEr ist über den Ozean nach Alola gekommen![VAR 0114(0007)]
+Wow, was du nicht sagst![VAR 0114(0005)]
+Schön, dich kennenzulernen, Sun!\nMein Name ist Kukui.[VAR 0114(0005)]
+Professor Kukuis Forschungsgebiet sind\nPokémon-Attacken![VAR 0114(0007)]
+Genau!\c\nIch führe lauter spannende Experimente durch!\c\nIch lasse mich zum Beispiel selbst von Attacken\ntreffen, um ihre Stärke zu messen![VAR 0114(0005)]
+Moment mal... Ich hab da eine Idee!\c\nProfessor! Du musst unbedingt Sun trainieren,\ndamit er ganz schnell stark wird![VAR 0114(0007)]
+Wie kommst du denn plötzlich auf die Idee, Tali?[VAR 0114(0005)]
+Wir hatten vorhin Ärger mit Team Skull!\nDas war ganz schön gefährlich![VAR 0114(0007)]
+Verstehe... Ihr wollt also auf alles vorbereitet\nsein, falls Team Skull mal wieder Ärger macht.\c\nNa gut, ich hätte da einen Vorschlag!\c\nWieso versucht ihr euch nicht an einer Prüfung?\nDas ist eine gute Methode, stärker zu werden!\c\nWas haltet ihr von der Idee?[VAR 0114(0005)]
+Ich bin dabei!
+Was für eine Prüfung?
+So viel Enthusiasmus gefällt mir!\c\nUnd das, obwohl ich noch gar nicht erklärt\nhabe, was für eine Prüfung ich überhaupt meine!\c\nDu bist so direkt wie ein Fokusstoß des\nKraftprotz-Pokémon Machomei![VAR 0114(0005)]
+Es ist ein alter Brauch in Alola, Prüfungen zu\nabsolvieren.\c\nSie stellen eine Art Training für Trainer dar und\nsollen dazu dienen, die Verbindung von Jungen\r\nund Mädchen deines Alters zu ihren Pokémon\r\nzu stärken.[VAR 0114(0005)]
+Gut! Bereite dich jetzt erst mal gründlich vor.\c\nWenn du fertig bist, dann komm bitte zur\nPrüfungsstätte am Tenkarat-Hügel![VAR 0114(0005)]
+Der ältere Herr da hinten wird dir den Weg zum\nTenkarat-Hügel zeigen.[VAR 0114(0005)]
+Du und dein Quajutsu, ihr schafft das schon!\nDa bin ich mir ganz, ganz sicher![VAR 0114(0007)]
+Viel Glück, Sun!\nWenn du fertig bist, führe ich dich weiter rum![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 13
+~~~~~~~~~~~~~~~
+Wie du sicher weißt, können im hohen Gras\nwilde Pokémon lauern.[VAR 0114(0005)]
+Aber du hast ja Quajutsu an deiner Seite!\nDu kannst also gegen wilde Pokémon kämpfen.[VAR 0114(0005)]
+Willst du ihnen aber lieber aus dem Weg gehen,\ndann meide möglichst das hohe Gras![VAR 0114(0005)]
+Ich warte dann im Inneren des Tenkarat-Hügels\nauf dich![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 14
+~~~~~~~~~~~~~~~
+Hey, Sun!\nDa bist du ja endlich![VAR 0114(0005)]
+Dann will ich dir mal erklären, was es mit der\nPrüfung auf sich hat.[VAR 0114(0005)]
+Vier Pokémon, die den Arten Miniras und\nMediras angehören, lauern im Inneren des\r\nTenkarat-Hügels.[VAR 0114(0005)]
+Um meine Prüfung zu bestehen, musst du von\njedem einzelnen ein Foto schießen.[VAR 0114(0005)]
+Hier, für dich! Das ist ein Pokémon-Sucher!\nDen brauchst du, um Fotos zu machen.[VAR 0114(0005)]
+Pokémon-Sucher erhalten!
+Vermutest du, dass sich eines der vier Pokémon\nan einer bestimmten Stelle aufhält, dann starte\r\nden Pokémon-Sucher, und mache ein Foto.[VAR 0114(0005)]
+Mein Pikachu ist ziemlich stark.\c\nEs steht deinem Quajutsu in nichts nach und\nwird dir bei deiner Prüfung bestimmt eine große\r\nHilfe sein![VAR 0114(0005)]
+Pikachu scheint dir seine Kraft zur Verfügung\nstellen zu wollen!
+Suche zuerst nach einem Miniras. Ein Exemplar\nsollte sich hier ganz in der Nähe verstecken.[VAR 0114(0005)]
+Stöbere hier in der Nähe ein Miniras auf und\nschieße ein Foto von ihm.[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 15
+~~~~~~~~~~~~~~~
+In der Nähe ist die Präsenz eines Pokémon zu\nspüren!
+Möchtest du den Pokémon-Sucher aktivieren?
+Miniras geht vor lauter Aufregung zum\nAngriff über!
+Die Präsenz von Miniras ist nicht mehr zu\nspüren...
+Achte darauf, dass das Pokémon im Fokus ist,\nwenn du auf den Auslöser drückst! Brzzzt!
+~~~~~~~~~~~~~~~
+Text File : 16
+~~~~~~~~~~~~~~~
+Da ist dir aber ein echter Schnappschuss\ngeglückt![VAR 0114(0005)]
+Sorry, da hatte ich doch glatt vergessen,\ndir noch etwas Wichtiges mitzuteilen!\c\nEs kommt schon mal vor, dass ein Pokémon\nangreift, wenn es fotografiert wird.\r\nDas muss am Blitzlicht liegen...\c\nMiniras ist als Pokémon vom Typ Drache zudem\nein nicht zu unterschätzender Gegner![VAR 0114(0005)]
+Doch kein Grund zur Sorge! Mit deinem Quajutsu\nund meinem Pikachu an deiner Seite solltest du\r\nder Herausforderung gewachsen sein![VAR 0114(0005)]
+Knipse noch [VAR NUM1(0000)] Pokémon, und die Prüfung ist\nbestanden! Dann wünsche ich frohes Gelingen![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 17
+~~~~~~~~~~~~~~~
+In der Nähe ist die Präsenz eines Pokémon zu\nspüren!
+Möchtest du den Pokémon-Sucher aktivieren?
+Miniras geht vor lauter Aufregung zum\nAngriff über!
+Du hast [VAR NUM1(0000)] Pokémon fotografiert.
+Das war offenbar noch nicht das letzte\nPokémon, das du fotografieren kannst!
+Die Präsenz von Miniras ist nicht mehr zu\nspüren...
+Achte darauf, dass das Pokémon im Fokus ist,\nwenn du auf den Auslöser drückst! Brzzzt!
+Rrrrraaas!!
+~~~~~~~~~~~~~~~
+Text File : 18
+~~~~~~~~~~~~~~~
+In der Nähe ist die Präsenz eines Pokémon zu\nspüren!
+Möchtest du den Pokémon-Sucher aktivieren?
+Mediras geht vor lauter Aufregung zum\nAngriff über!
+Du hast [VAR NUM1(0000)] Pokémon fotografiert.
+Das war offenbar noch nicht das letzte\nPokémon, das du fotografieren kannst!
+Die Präsenz von Mediras ist nicht mehr zu\nspüren...
+Achte darauf, dass das Pokémon im Fokus ist,\nwenn du auf den Auslöser drückst! Brzzzt!
+Rrrrraaas!!
+~~~~~~~~~~~~~~~
+Text File : 19
+~~~~~~~~~~~~~~~
+In der Nähe ist die Präsenz eines Pokémon zu\nspüren!
+Möchtest du den Pokémon-Sucher aktivieren?
+Rrrrraaas!!
+Mediras, das Herrscher-Pokémon\nvom Tenkarat-Hügel, ist erschienen!
+Das war offenbar noch nicht das letzte\nPokémon, das du fotografieren kannst!
+Achte darauf, dass das Pokémon im Fokus ist,\nwenn du auf den Auslöser drückst! Brzzzt!
+[VAR BD02]Drücke den A-Knopf,\n[VAR BD02]um das Spiel zu starten!
+~~~~~~~~~~~~~~~
+Text File : 20
+~~~~~~~~~~~~~~~
+Du hast tatsächlich das Herrscher-Pokémon\nbesiegt, Sun! Du bist echt eine Wucht![VAR 0114(0005)]
+Und wie’s aussieht, hast du auch von allen vier\nPokémon einen Schnappschuss gemacht –\r\neinschließlich des Herrschers! Sehr schön![VAR 0114(0005)]
+Das heißt, du hast die Prüfung bestanden, Sun!\nHerzlichen Glückwunsch!\c\nUnd als Belohnung bekommst du diesen Z-Ring\nvon mir...[VAR 0114(0005)]
+Du hast den Z-Ring an deinem Arm angebracht!
+Ich hab aber noch ein Geschenk für dich!\nHier, das ist ein sogenannter Z-Kristall...[VAR 0114(0005)]
+Du hast den Z-Kristall des Typs Elektro, auch\nVoltium Z genannt, erhalten.
+Wenn du einen Z-Ring und einen Z-Kristall hast,\nkönnen deine Pokémon besondere Attacken\r\neinsetzen... die sogenannten Z-Attacken![VAR 0114(0005)]
+Sun![VAR 0114(0007)]
+Wow! Ein Z-Ring!\nDann hast du die Prüfung also bestanden![VAR 0114(0007)]
+Glückwunsch![VAR 0114(0007)]
+Ich hab gleich noch eine Prüfung für dich...\nSchau mal, da hinten![VAR 0114(0007)]
+Ich hatte total vergessen, dass ich dir meinen\nSupertrank gegeben hatte...\c\nDa blieb mir nichts anderes übrig, als die Beine\nin die Hand zu nehmen und hierher zu fliehen![VAR 0114(0007)]
+Yo, Sis! Da bist du ja endlich!
+Ich bin Fran, Vorstand von Team Skull.[VAR 0114(0018)]
+Und du musst Sun sein.\c\nSo siehst du also aus...\nDu wirkst wie jemand, der weiß, was er tut.[VAR 0114(0018)]
+Sis! Du kannst doch jetz’ nich’ einfach abhauen!\nWas wird denn dann aus unserer Rache?!
+Yo, ohne dich sehen wir echt alt aus!\nLass uns hier bitte nich’ hängen, Sis!
+Wie ihr wollt!\c\nRache ist süß! Und Teil meines Jobs!![VAR 0114(0018)]
+Sun! Nur keine Angst![VAR 0114(0005)]
+Das Pikachu, das ich dir gegeben habe, kann\ndie Z-Kraft benutzen!\c\nAber vergiss nicht, dass du sie pro Kampf nur\nein Mal einsetzen kannst![VAR 0114(0005)]
+Ich bin schon gespannt, wie deine Strategie\naussieht!\c\nLässt du sie mit Quajutsus Wasser-Shuriken\nbaden gehen oder verpasst du ihr eine satte\r\nLadung von Pikachus [VAR COLOR(0001)]Z-Kraft[VAR COLOR(0000)]?[VAR 0114(0005)]
+Er wird gleich nur einen einzigen Tipp brauchen.\nUnd zwar, wie man mit einer Niederlage umgeht![VAR 0114(0018)]
+Eure armselige Z-Kraft reicht nie im Leben,\num mein Pokémon zu plätten![VAR 0114(0018)]
+~~~~~~~~~~~~~~~
+Text File : 21
+~~~~~~~~~~~~~~~
+Wie war dein Name noch mal? Sun?\nRespekt, du hast es echt drauf![VAR 0114(0018)]
+Aber bei unserem nächsten Treffen kommst du\nmir nicht so leicht davon, nur dass du’s weißt!\c\nIch freu mich schon auf unser Wiedersehen![VAR 0114(0018)]
+Jetzt hör mal gut zu, du Knalltüte!\c\nDu kannst echt von Glück reden, dass uns’re\nSis Mitleid mit dir hat, weil du grad erst nach\r\nAlola gezogen bist. So is’ sie halt, uns’re Sis!
+Hey, Sis!\nNich’ so schnell!
+Das war echt eine astreine Vorstellung!\c\nUnd natürlich auch dir vielen Dank, dass du Sun\ngeholfen hast, Pikachu![VAR 0114(0005)]
+Pikachu kehrt zu Professor Kukui zurück.
+Du hast’s echt total drauf, Sun![VAR 0114(0007)]
+Sun, aus dir wird mal ein ganz großer Trainer!\c\nWie du den Pokémon ihre Kräfte entlockst! Und\ndie fantastischen Attacken, die du einsetzt!\c\nEinfach sagenhaft![VAR 0114(0005)]
+Ich will auch ein ganz großer Trainer werden![VAR 0114(0007)]
+Dann solltet ihr euch bei der Inselwanderschaft\nam besten mächtig ins Zeug legen![VAR 0114(0005)]
+Hey, Sun! Jetzt wo die Prüfung hinter dir liegt,\nkann ich dir den Malasada-Laden zeigen![VAR 0114(0007)]
+Eine tolle Idee! Und als Willkommensgeschenk\ngeht alles auf meine Rechnung![VAR 0114(0005)]
+Wow, klasse!\nDann sollten wir auch Suns Mutter mitnehmen![VAR 0114(0007)]
+Ich werde alle Malasadas in dem Laden\nverputzen! Bis auf den letzten Krümel![VAR 0114(0007)]
+[VAR BD02]Hiermit ist das Spiel\n[VAR BD02]vorerst beendet![VAR 0114(0007)]
+[~ 15]
+~~~~~~~~~~~~~~~
+Text File : 22
+~~~~~~~~~~~~~~~
+Hallo, Sun! Noch mal Glückwunsch zur\nbestandenen Prüfung![VAR 0114(0005)]
+Hier, das ermöglicht es dir, Pokémon zur\nFortbewegung zu nutzen![VAR 0114(0005)]
+PokéMobil-Funk erhalten.
+In Alola lassen sich die Menschen von Pokémon\ndurch die Gegend tragen und beim Durchqueren\r\nvon unwegsamem Gelände helfen.[VAR 0114(0005)]
+Du solltest es unbedingt selbst ausprobieren\nund in Windeseile auf einem Pokémon durch die\r\nGegend düsen, während es dabei brüchige\r\nFelsen zertrümmert![VAR 0114(0005)]
+Tauros kann nun per PokéMobil-Funk\nherbeigerufen werden.
+In der Bedienungsanleitung steht:\c\n„Mit dem Y-Knopf aktiviert man den PokéMobil-\nFunk, mit dem B-Knopf den Tauros-Rammbock!“[VAR 0114(0005)]
+Der PokéMobil-Funk kommt samt\nReitausrüstung![VAR 0114(0005)]
+Mit der Unterstützung von Tauros kannst du\nvöllig neue Gebiete erkunden!\c\nSchau doch mal beim Tenkarat-Hügel vorbei,\nes lohnt sich bestimmt![VAR 0114(0005)]
+Wenn du mich brauchst, findest du mich gleich\nhier im Pokémon-Center![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+Ich kenne da einen tollen Ort, wo du mit\nPokémon spielen kannst! Soll ich ihn dir zeigen?
+Unbedingt!
+Nein danke!
+Alles klar! Dann schließe kurz die Augen,\nich bringe dich sofort hin!
+Oh, bist du dir sicher?\nEs würde dir dort bestimmt gefallen!
+~~~~~~~~~~~~~~~
+Text File : 24
+~~~~~~~~~~~~~~~
+Felsen, Felsen, Felsen...\nSo weit das Auge reicht, nur brüchige Felsen!
+Aber keine Panik! Du hast ja das PokéMobil-\nPokémon Tauros an deiner Seite!\c\nDrücke den B-Knopf, um den Tauros-Rammbock\nzu aktivieren und die Felsen zu zertrümmern!
+~~~~~~~~~~~~~~~
+Text File : 25
+~~~~~~~~~~~~~~~
+Willst du zurück nach Hauholi City?
+Ja bitte!
+Noch nicht!
+Alles klar! Dann schließe kurz die Augen,\nich bringe dich sofort hin!
+Kein Problem! Du willst bestimmt noch etwas\nZeit mit Tauros verbringen, was?
+[~ 5]
+~~~~~~~~~~~~~~~
+Text File : 26
+~~~~~~~~~~~~~~~
+Du und Tauros seid ein Herz und eine Seele...\nSo etwas sieht man nicht alle Tage.
+Oh, entschuldige... Ich habe mich dir noch gar\nnicht vorgestellt. Ich bin Mr. Mystery!
+Ich habe hier etwas Sternenstaub für dich.\nDanke, dass du die Felsen beseitigt hast!
+Behalte den Sternenstaub als Andenken.\nPass bitte gut darauf auf!
+Bitte suche nicht nach mir, wenn ich gleich\nverschwinde.
+Willkommen! Ich bin Mr. Mystery!
+Oh, du bist es schon wieder!
+Du bist sicher hier, weil du hoffst, noch eine\nBelohnung von mir abzustauben.\c\nAber ich habe leider nichts mehr für dich.\nNicht mal, wenn du später noch mal kommst!
+Willkommen! Ich bin Mr. Mystery!
+Irgendwie war mir klar, dass du noch mal hier\naufkreuzen würdest...
+Ich kann mich nur wiederholen: Wenn du auf eine\nBelohnung aus bist, muss ich dich enttäuschen.\c\nIch habe leider nichts mehr für dich.\nNicht mal, wenn du später noch mal kommst!
+Willkommen! Ich bin Mr. Mystery!
+Ich glaube, ich weiß jetzt, warum du ständig hier\nvorbeischaust...\c\nDu bist völlig geblendet von meiner hohen Stirn!\nStimmt’s oder hab ich recht?
+Aber wenn du auf eine Belohnung aus bist,\nmuss ich dich leider enttäuschen.\c\nIch habe wirklich nichts mehr für dich.\nDas meine ich ganz ehrlich.\c\nWarum willst du mir das nur nicht glauben?!
+Willkommen! Ich bin Mr. Mystery!
+Als ich von Weitem gehört habe, dass da schon\nwieder jemand die Felsen zertrümmert, wusste\r\nich sofort, dass du das bist...
+Ich geb’s zu, du bist mir irgendwie ans Herz\ngewachsen.
+Es freut mich, dass du mich hier besucht hast.\nAber ich habe wirklich nichts mehr für dich.
+~~~~~~~~~~~~~~~
+Text File : 27
+~~~~~~~~~~~~~~~
+Hallo! Hast du Lust, an der Fangherausforderung\nteilzunehmen, wo du dir ein Pokémon nach dem\r\nanderen schnappen kannst?
+Na klar!
+Woran bitte?
+Das war genau die Antwort, die ich hören wollte!
+Nanu? Weißt du am Ende gar nicht, was es mit\nder Fangherausforderung auf sich hat?
+Bei der Fangherausforderung kommt es darauf\nan, mit einer begrenzten Zahl an Pokébällen\r\nmöglichst viele Pokémon zu fangen.
+Pokémon, die du gefangen hast, kannst du\ndeinem Team hinzufügen.\c\nWechsle deine Pokémon mit Verstand ein,\num möglichst viele weitere Exemplare zu fangen!
+Für die Dauer der Fangherausforderung darfst\ndu diesen Bereich übrigens nicht verlassen.\c\nDie gefangenen Pokémon musst du außerdem\nnach der Herausforderung wieder freilassen.
+Wenn dir die Bälle ausgehen oder du keine Lust\nmehr hast, dann sprich mich einfach an!\r\nIn diesem Sinne...
+Möchtest du an der Fangherausforderung\nteilnehmen und jede Menge Pokémon fangen?
+Ja
+Nein
+Info
+So, hier sind die Bälle, mit denen du die Pokémon\nfangen kannst!
+Dann wollen wir doch mal sehen, wie viele\nPokémon dir ins Netz, äh, in die Bälle gehen!\c\nAuf die Plätze... fertig... LOS!
+Hmpf, verstehe schon... Dann sprich mich halt\nan, wenn du es dir anders überlegen solltest!
+Du hast ein paar Pokébälle erhalten!
+~~~~~~~~~~~~~~~
+Text File : 28
+~~~~~~~~~~~~~~~
+Willst du die Fangherausforderung abbrechen?
+Nein, ich mache weiter!
+Ja, ich will aufhören!
+Gut so! Dann wünsche ich dir weiterhin viel\nErfolg beim Fangen!
+Okay, dann wollen wir doch mal schauen,\nwie viele Pokémon du gefangen hast.
+Du hast diesmal insgesamt [VAR NUM2(0000)] Pokémon\ngefangen!
+Es wäre schön gewesen, wenn du wenigstens\nein einziges Pokémon gefangen hättest...\c\nDenk dran, dass Pokémon sich leichter fangen\nlassen, wenn du sie zuvor geschwächt hast.
+Es ist auch wichtig, dass du frisch gefangene\nPokémon deinem Team hinzufügst und sie im\r\nKampf einsetzt!
+Das kann sich sehen lassen!\nNur immer schön weiter so!
+Oh, klasse! Wie ich sehe, hast du den Dreh bei\nder Fangherausforderung raus!
+Da fehlen mir fast die Worte!\nDu bist ja noch besser als ich!
+Bin ich wach oder träume ich?\nEinfach unglaublich!\c\nDu bist ein Profi bei der Fangherausforderung!\c\nEin echtes Genie, wenn es darum geht, Pokémon\neinzufangen!
+Als Belohnung dafür, dass du zum ersten Mal\nmindestens drei Pokémon gefangen hast,\r\nüberreiche ich dir ein Nugget als Geschenk!
+Die Bälle, die du nicht gebraucht hast,\nnehme ich übrigens wieder an mich.
+Du hast alle ungenutzten Pokébälle\nzurückgegeben.
+Schau bald mal wieder vorbei und versuche\ndich erneut an der Fangherausforderung!
+Lass die gefangenen Pokémon bitte im hohen\nGras wieder frei!
+Du hast die gefangenen Pokémon wieder\nfreigelassen!
+Das ist ein vielversprechender Anfang!\nNur weiter so!
+Das läuft ja wie geschmiert!\nDa geht mir vor Freude förmlich das Herz auf!
+Fantastisch! Pokémon mit Bällen zu fangen\nscheint dein Steckenpferd zu sein!
+Nanu? Hast du überhaupt noch ein paar\nPokémon übrig gelassen?
+Zzzz...\c\nHm? Was? Oh, äh... Natürlich sehe ich dir zu!\nN-Nur weiter so! *Gähn...*\c\nZzzz...
+~~~~~~~~~~~~~~~
+Text File : 29
+~~~~~~~~~~~~~~~
+Dann wollen wir mal sehen, was für eine Figur\ndu bei der Fangherausforderung abgibst, Sun![VAR 0114(0005)]
+Genau! Als Pokémon-Trainer kannst du wilde\nPokémon fangen![VAR 0114(0005)]
+Ich werde dir jetzt mal zeigen, wie man das\nanstellt, also pass gut auf![VAR 0114(0005)]
+Es kommt zwar vor, dass wilde Pokémon\nMenschen aus heiterem Himmel angreifen,\r\ndoch hast du erst mal eins gefangen, wird\r\nes sich als starker Weggefährte entpuppen![VAR 0114(0005)]
+Also gut! Dann wünsch ich dir viel Spaß bei der\nFangherausforderung! Ich drück dir die Daumen![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 30
+~~~~~~~~~~~~~~~
+Mein Gefühl sagt mir, dass du großes Talent als\nTrainer hast.
+Wenn du alle drei Trainer auf dieser Route\nbesiegst, darfst du gegen mich kämpfen!
+Wow!
+Du hast die drei Trainer dieser Route besiegt\nund damit bewiesen, dass du Talent besitzt!
+Das ist mein erster Kampf seit Langem,\nder verspricht, so richtig spannend zu werden!
+Uff... Nicht mal mit vollem Einsatz konnte ich\ndiesen Kampf für mich entscheiden...
+Ich bin glücklich, einem talentierten Trainer wie\ndir begegnet zu sein.
+Hier, nimm dieses Sternenstück!\nEs strahlt so hell wie dein Talent!
+In der Alola-Region gibt es viele Trainer, die im\nKampf genau wie ich vollen Einsatz zeigen.
+Aber du...\c\nDu brauchst dir darüber wohl keine Sorgen zu\nmachen. Du kannst sie alle besiegen!
+~~~~~~~~~~~~~~~
+Text File : 31
+~~~~~~~~~~~~~~~
+Wenn du mich morgen wieder besuchst,\nschenke ich dir was Tolles!
+Nicht heute, nicht übermorgen, sondern genau\neinen Tag später! Mit anderen Worten: Morgen!
+Oh, du bist wiedergekommen! Vielen Dank!\nHier, das ist für dich. Genau, wie versprochen!
+Niemand mag es, auf etwas warten zu müssen.\nDabei ist Zeit doch ein Geschenk!
+In Hauholi City gibt es Leute, die man nach\neinigen Tagen erneut aufsuchen sollte.\c\nDann geschieht nämlich etwas Besonderes!
+~~~~~~~~~~~~~~~
+Text File : 32
+~~~~~~~~~~~~~~~
+Ich treffe mich hier in [VAR NUM2(0000)] Tag[VAR NUMBRNCH(0000,0200)]en mit jemandem,\nder mir neulich, als ich mir den Fuß verstaucht\r\nhatte, sehr geholfen hat.
+Darauf freue ich mich so sehr, dass ich etwas\nfrüher zur vereinbarten Stelle gekommen bin!
+Mein Retter in der Not ist echt superstark und\ntotal nett noch dazu!
+Überzeuge dich doch selbst davon und schau\nam Tag unseres Treffens hier vorbei!
+Ich treffe mich hier gleich mit jemandem, der mir\nneulich, als ich mir den Fuß verstaucht hatte,\r\nsehr geholfen hat!
+Machomei!
+Oh!\nDa bist du ja endlich!\c\nNa, habe ich zu viel versprochen?\nMein superstarker Retter!
+Mei, mei!
+Danke, dass ich dir meinen Retter in der Not\nvorstellen durfte! Man sieht sich!
+Ich bin mit meinem Retter am Strand gewesen.\nDas hat echt Spaß gemacht!
+~~~~~~~~~~~~~~~
+Text File : 33
+~~~~~~~~~~~~~~~
+Meine kleine Pikachica hier feiert in [VAR NUM2(0000)] Tag[VAR NUMBRNCH(0000,0200)]en\nGeburtstag!
+Pikachu!
+Es würde mich sehr freuen, wenn du an ihrem\nEhrentag mit uns feiern würdest!
+Meine kleine Pikachica hier hat heute\nGeburtstag!
+Chu!
+Bist du etwa hier, um mit uns ihren Ehrentag\nzu feiern?
+Oh, schade...
+Oh, das freut mich!\nAlles Gute zum Geburtstag, Pikachica! ♪
+Pikachu, Pikachu!!
+Danke, dass du mit uns den Geburtstag meiner\nkleinen Pikachica gefeiert hast!
+Jetzt sind wir beide wieder ein Jahr älter,\nwas, Pikachica?
+Pika, Pika!
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+Wir haben einen anonymen Hinweis erhalten,\nlaut dem hier in [VAR NUM2(0000)] Tag[VAR NUMBRNCH(0000,0200)]en ein krummes Ding\r\ngedreht werden soll...
+Ich frage mich, ob ich ganz alleine schaffen\nkann, es zu verhindern...
+Du da! Warte mal eben!
+Wir haben einen anonymen Hinweis erhalten,\nlaut dem hier gleich ein krummes Ding gedreht\r\nwerden soll...
+Ich bin mir ehrlich gesagt nicht sicher, ob ich es\nganz alleine schaffe, es zu verhindern...\c\nAber wenn du mir zur Seite stehst, haben wir\nvielleicht eine Chance!
+Hey, da ist jemand! Wir müssen jetzt ganz still\nsein, damit wir nicht entdeckt werden!
+Bist du dir sicher, dass dir niemand gefolgt ist?
+*Hechel, schnauf...*\nJa, ganz sicher...\c\nUnd jetzt zeig mir schnell, was du mir\nversprochen hattest!
+Alles klar! Schnall dich schon mal an...
+*Schluck...*\c\nIch hab ein ganz mieses Gefühl bei der Sache...\nWas haben die beiden bloß vor?!
+Fleg?
+Mooon?
+Aha!\c\nFlegmon-Ruten sind unter Kennern heiß begehrt\nund werden oft zu Wucherpreisen verkauft!
+Sicher haben sie vor, illegal Flegmon-Ruten zu\nverkaufen!
+*Schmacht...* Dein Flegmon hat wirklich eine\nwunderschöne Rute...
+Sie ist so geschmeidig und niedlich...!\nEinfach ein Traum!
+Hihihi, da werde ich ja ganz rot... Dein Flegmon\nist aber auch nicht von schlechten Eltern!
+Mon?
+Herzallerliebst! Zum Dahinschmelzen!
+...
+Mir fehlen die Worte...\c\nIch wusste ja, dass hier ein krummes Ding\nlaufen würde, aber damit hätte ich beim\r\nbesten Willen nicht gerechnet...
+Ich wünsche mir, ich hätte das nicht gesehen...\nManche Geheimnisse bleiben besser ungelüftet.
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+Mein Schiff legt in [VAR NUM2(0000)] Tag[VAR NUMBRNCH(0000,0200)]en ab...
+Nur leider habe ich riesige Angst vor\nSchiffsreisen...\c\nWürdest du mich am Tag meiner Abreise bitte\nhier verabschieden?
+Na klar!
+Geht leider nicht...
+Oh, vielen Dank! Dann ist es abgemacht!\nKomm mich in [VAR NUM2(0000)] Tag[VAR NUMBRNCH(0000,0200)]en hier verabschieden!
+Oh, schade...\nAber das muss ich wohl akzeptieren.
+Heute legt mein Schiff ab...
+Nur leider habe ich riesige Angst vor\nSchiffsreisen...\c\nWürdest du mich vielleicht verabschieden?
+Na klar!
+Geht leider nicht...
+Oh, verstehe... Schade...
+Oh, vielen Dank! Das freut mich wirklich sehr!
+Ich hab riesige Angst...\c\nAber wenn du da bist, werde ich versuchen,\nmich zusammenzureißen...!
+Hier, ein kleines Dankeschön...
+Bald sehe ich endlich meine Mama und meinen\nPapa wieder! Darauf freue ich mich schon sehr!
+Mach’s gut!
+~~~~~~~~~~~~~~~
+Text File : 36
+~~~~~~~~~~~~~~~
+Was für ein schöner Anblick...\nIch wünschte, du könntest das auch sehen...
+Oh... H-Hallo!
+Wer bist du?
+Was ist in deiner Tasche?
+Oh, äh... I-Ich kümmere mich gerade um ein\ngewisses Pokémon und, äh...
+Aber ich muss weg. Professor Kukui wartet\nschon auf mich. Ich hoffe, wir sehen uns wieder.
+~~~~~~~~~~~~~~~
+Text File : 37
+~~~~~~~~~~~~~~~
+Hey, Sun![VAR 0114(0007)]
+Hach, nicht mehr lange und auch dieser Sonntag\nist Geschichte...[VAR 0114(0007)]
+Aber ich bin trotzdem mächtig aufgeregt!\c\nDenn morgen warten wieder neue Abenteuer\nauf uns![VAR 0114(0007)]
+Jetzt muss ich aber erst mal was essen, ich hab\nziemlichen Kohldampf!\r\nKomm und iss ein paar Malasadas mit mir, Sun![VAR 0114(0007)]
+Du hast mit Tali einen Maxi-Malasada verputzt!
+Mach’s gut, Sun!\nBis zum nächsten Abenteuer![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 38
+~~~~~~~~~~~~~~~
+Sieh an!\nWenn das mal nicht mein kleiner Sun ist![VAR 0114(0004)]
+Ich war bis gerade eben beim Schlussverkauf\nin der Boutique.[VAR 0114(0004)]
+Aber bei der Schnäppchenjagd muss ich die\nZeit aus den Augen verloren haben...\c\nEhe ich’s mich versah, musste ich zur Kasse\ngehen, weil sie Feierabend machen wollten...[VAR 0114(0004)]
+Wenn die Tüten und Pakete eintreffen, könnte\nich eine helfende Hand beim Ausräumen gut\r\ngebrauchen. Wärst du so nett?[VAR 0114(0004)]
+Aber sicher!
+Ach, nö...
+Wenn ich Mauzi um Hilfe bitte, zerkratzt es ja\ndoch nur wieder alles![VAR 0114(0004)]
+Na ja, Kinder sollten möglichst viel Zeit an der\nfrischen Luft verbringen! Also, tob dich hier\r\nruhig noch ein Weilchen aus![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 39
+~~~~~~~~~~~~~~~
+Alola ist schon ein herrliches Fleckchen Erde!
+Mich interessieren vor allem die einzigartigen\nSitten und Bräuche auf den einzelnen Inseln!
+Wir verbringen unseren Urlaub hier.
+Wir müssen uns über die Prüfungen und die\nInselwanderschaft schlaumachen!
+...\c\nIrgendetwas sagt mir, dass hier etwas\ngeschehen wird.
+~~~~~~~~~~~~~~~
+Text File : 40
+~~~~~~~~~~~~~~~
+Immer noch nicht? Wann denn endlich?\c\nIch stehe hier Schlange, um ein Spiel\nvorzubestellen, auf das ich mich total freue!
+Ich kann es kaum erwarten, bis die hier endlich\nanfangen, Vorbestellungen entgegenzunehmen...\c\nWie lange dauert das denn noch?!
+Es kann nicht mehr lange dauern...\c\nNur noch ein bisschen Geduld, und ich kann\nmeine Vorbestellung aufgeben!
+~~~~~~~~~~~~~~~
+Text File : 41
+~~~~~~~~~~~~~~~
+Das sieht so seidig aus! So unfassbar weich!
+Verzeihung, da ist es wohl grade mit mir\ndurchgegangen...
+Könntest du sehen, was ich sehe, dann würdest\ndu mich verstehen!\c\nAktiviere einfach mal deinen Pokémon-Sucher!
+Wird gemacht!
+Nicht jetzt...
+Wenn du ein Pokémon erspähst, dann achte\ndarauf, dass es vom Pokémon-Sucher mittig\r\neingefasst wird und mach eine schöne\r\nNahaufnahme von ihm!
+[~ 6]
+So seidig! Fandest du es nicht auch toll?\nDiese Haarpracht ist einfach sagenhaft!\c\nManche Pokémon haben nämlich in Alola eine\nandere Form angenommen als ihre Artgenossen\r\nvon außerhalb.
+Was? Tja, wenn du dich dafür nicht begeistern\nkannst, beiße ich bei dir wohl auf Granit...
+~~~~~~~~~~~~~~~
+Text File : 42
+~~~~~~~~~~~~~~~
+Guten Morgen!\nWillkommen im Pokémon-Center!\c\nSollen wir dein[VAR NUMBRNCH(00FD,0100)]e Pokémon wieder fit machen?
+Guten Tag!\nWillkommen im Pokémon-Center!\c\nSollen wir dein[VAR NUMBRNCH(00FD,0100)]e Pokémon wieder fit machen?
+Hallo, Trainer!\nWillkommen im Pokémon-Center!\c\nSollen wir dein[VAR NUMBRNCH(00FD,0100)]e Pokémon wieder fit machen?
+Okay! Dann nehme ich dein[VAR NUMBRNCH(00FD,0100)]e Pokémon für einen\nkurzen Moment in meine Obhut.
+Vielen Dank für deine Geduld.\nDein[VAR NUMBRNCH(00FD,0E0C)] Pokémon iste Pokémon sind wieder topfit!
+Bitte beehre uns bald wieder!
+n/a
+n/a
+n/a
+n/a
+n/a
+Lass uns erst mal dein[VAR NUMBRNCH(00FD,0100)]e Pokémon heilen!
+Falls dein[VAR NUMBRNCH(00FD,1B1A)] Pokémon seine KP verlierte Pokémon ihre KP verlieren, kannst du\nsie in einem Pokémon-Center wieder auffüllen\r\nlassen.\c\nViel Glück, Trainer!
+Dein[VAR NUMBRNCH(00FD,100E)] Pokémon wurdee Pokémon wurden geheilt.\nWir hoffen, du kommst groß raus!
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 43
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 13]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 98]
+[~ 99]
+[~ 100]
+[~ 101]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 169]
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+n/a[VAR 0114(0030)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 241]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 260]
+[~ 261]
+~~~~~~~~~~~~~~~
+Text File : 44
+~~~~~~~~~~~~~~~
+Alola!
+Hi!
+Wie geht’s?
+Juhu!
+Gut siehst du aus!
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+Besitzt du die Vollversion der Spielesoftware,\ndann sprich im Pokémon-Center mit Professor\r\nKukui, um das Quajutsu, an dessen Seite du\r\ndein Abenteuer bestritten hast, mit in die\r\nVollversion zu nehmen!
+Die Spezial-Demoversion geht noch weiter!
+~~~~~~~~~~~~~~~
+Text File : 46
+~~~~~~~~~~~~~~~
+Halte auf Tauros den B-Knopf gedrückt,\num den Tauros-Rammbock einzusetzen.
+Mit dem Tauros-Rammbock kannst du Felsen\nzertrümmern, die den Weg blockieren.
+Auf diese Weise kannst du Orte erreichen,\ndie bisher unzugänglich waren.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+~~~~~~~~~~~~~~~
+Text File : 47
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 48
+~~~~~~~~~~~~~~~
+Sag mal, warst du schon im Pokémon-Center?
+Sag mal, willst du zum Tenkarat-Hügel?
+Ja
+Nein
+Gut, dann bringe ich dich gleich mal dorthin!
+Verstehe. Wenn du es dir anders überlegst,\nweißt du ja, wo du mich findest!
+In Alola ist es Brauch, dass Kinder auf\nInselwanderschaft gehen, sobald sie elf sind.
+Kahili ist das begnadetste Golftalent, das Alola\nje hervorgebracht hat, und zudem auch noch\r\nein Profi im Pokémon-Kampf!\c\nZurzeit durchstreift sie die Welt auf der Suche\nnach neuen Abenteuern, doch ich hoffe, dass\r\nsie irgendwann wieder hierher zurückkehrt!
+Das Pokémon, das du da bei dir hast, ist doch\nein Quajutsu, hab ich recht?\c\nDas ist für uns hier in Alola ein ziemlich seltener\nAnblick, musst du wissen!
+Mir bereitet es Freude, mein geliebtes Pokémon\nmit der Bürste zu pflegen!
+Sprich einfach den älteren Herrn dort hinten an,\nwenn du zum Tenkarat-Hügel willst.
+Ist mein Corasonn nicht einfach zuckersüß?!\nEs kann seine Korallenarme abfeuern!
+Cooooooora!!!
+Alola! Willkommen in Hauholi City!
+Krosse Hülle, weicher Kern,\nMalasadas haben alle gern!
+Hand in Hand mit Pokémon\nfindest du den Heimweg schon!\c\nFindest du das einigermaßen einprägsam?
+Machooo!!!
+So viele Flegmon auf einem Haufen!\nWie niedlich!
+Fleeeeeeg!
+Mooooon!
+Flegmoooon!
+Flegfleg!
+Momoooon!
+n/a
+n/a
+n/a
+[~ 26]
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 49]
+Hauholi-Polizeiwache\nVorsicht vor Verkehrsunfällen mit PokéMobil!
+Zuerst solltest du zum Pokémon-Center gehen!
+~~~~~~~~~~~~~~~
+Text File : 49
+~~~~~~~~~~~~~~~
+Die Alola-Region liegt sehr weit entfernt von\nallen anderen Regionen...
+Fleg!
+Für mich beginnt der Tag, wenn ich die\nSpiegelung der Sonne im Meer sehe.\c\nGenau wie der Mond, der sich im Meer spiegelt,\ndas Ende des Tages einläutet.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 50
+~~~~~~~~~~~~~~~
+[~ 0]
+~~~~~~~~~~~~~~~
+Text File : 51
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 52
+~~~~~~~~~~~~~~~
+n/a
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 53
+~~~~~~~~~~~~~~~
+Möchtest du zurück nach Hauholi City?
+Ja
+Nein
+Gut, dann bring ich dich jetzt zurück!
+Sag mir einfach Bescheid, wenn du\nzurückkehren möchtest!
+Macho!
+Mei!
+Wer hätte gedacht, dass man an einem Ort wie\ndiesem Zeuge eines Sumokampfs nach Alola-Art\r\nzwischen zwei Machomei werden könnte!\r\nDa geht mir das Herz auf! Einfach toll!
+Wenn sich die Blicke von zwei Trainern treffen,\nfliegen schon bald die Fetzen!
+In Professor Kukuis Prüfungsstätte erwarten\ndich Pokémon vom Typ Drache!\c\nAber eigentlich erwarten sie dich gar nicht, du\nmusst nämlich erst nach ihnen suchen, da sie\r\nsich dort versteckt halten!
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+Die Fähre ist das perfekte Transportmittel für\nalle, die nicht fliegen oder schwimmen können!
+Alola ist das Ziel vieler Touristen aus\nunterschiedlichen Regionen!
+Mwahaha!
+Wenn man in eine andere Gegend kommt,\ntrifft man dort oft auch neue Pokémon an!
+Dort hinten entsteht gerade in Zusammenarbeit\nmit den Pokémon eine Fähre!\c\nDu freust dich sicher auch schon auf ihre\nFertigstellung, was?
+Da ist ein Getränkeautomat.\c\nEine Flasche kostet... 1.000.000 $?!\nKann das sein?!
+[~ 6]
+[~ 7]
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+Bist du auf der Suche nach einem kompetenten\nPolizisten oder nach einem Pokémon, das die\r\nPolizei nach Kräften unterstützt?
+n/a
+Da steht eine Puppe von Granbull, dem\nbeliebten Pokémon mit der finsteren Miene.
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+Wir halten die Straßen in Schuss, um einen\nsicheren PokéMobil-Verkehr zu gewährleisten!
+In Alola herrscht so eine Hitze, dass man Lust\nbekommt, sich mit Wasser-Attacken abzukühlen.
+Willkommen in Alola!\c\nIch hoffe, du wirst hier viele schöne und\nüberraschende Entdeckungen machen!
+In Alola gibt es so viel Sehenswertes...\c\nVergeude also nicht deine Zeit hier drinnen,\nsondern lass draußen deine Blicke schweifen!\c\nDu wirst aus dem Staunen gar nicht mehr\nherauskommen, sag ich dir!
+Mei, mei!
+Ich habe eure Anmeldepapiere bearbeitet.\nIch hoffe, es gefällt euch hier in Alola!
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+Wir bereiten unsere köstlichen Malasadas mit\nsehr viel Liebe zu!
+Gibt es etwas Schmackhafteres als Malasadas?\c\nDoch auch für den Verzehr dieser Köstlichkeit\ngilt, dass man sie in Maßen genießen muss!\r\nLeider...
+Coracora!
+Such dir in aller Ruhe etwas aus, Flegmon!
+Fleg...?
+n/a
+n/a
+Die Vitrine ist mit lauter Malasadas von ein und\nderselben Sorte gefüllt.
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+Wer Pokémon hat, kommt herum in der Welt.\c\nUnd wer starke Pokémon hat, kommt hoch\nhinaus!
+Im Pokémon-Center kann jeder kostenlos seine\nPokémon heilen lassen!
+Fleg! Flegmon!
+Ich bin die Vertretung des alten Mannes,\nder normalerweise den Café-Bereich betreibt.\c\nEr ist gerade auf der Suche nach den perfekten\nZutaten für seine Erfrischungsgetränke.\c\nIn ungefähr einem Monat sollte er aber wieder\nzurück sein!
+Sorry, aber bis zur nächsten Warenlieferung\nbleibt der Pokémon-Supermarkt geschlossen!
+n/a
+n/a
+n/a
+[~ 8]
+n/a
+~~~~~~~~~~~~~~~
+Text File : 59
+~~~~~~~~~~~~~~~
+Auf jeder der vier Inseln soll es ein starkes\nPokémon geben, das als „Schutzpatron“\r\nbezeichnet wird.
+Alola besteht aus vier Inseln, die alle jeweils\nihren ganz eigenen Reiz besitzen.
+Bei diesen wahnsinnigen Außentemperaturen\nmuss man sich ab und zu drinnen eine Pause\r\ngönnen, um einen kühlen Kopf zu bewahren!
+n/a
+[~ 4]
+Im an der Wand angebrachten Fernseher\nläuft ein Werbespot für die Alola-Region.\c\nAlooola! Alooola! ♪\nAaah, Alooola! ♪
+Diese Vitrine enthält typische Produkte\naus der Alola-Region.
+n/a
+n/a
