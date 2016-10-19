@@ -1,0 +1,1218 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+Yes
+No
+$[VAR NUM7(0008,002C)]
+Would you like to save your adventure so far?
+Now saving your adventure...\nDon’t turn off the power.
+The game has been saved.
+There’s already a saved game file,\nso you can’t save now.\c\nRefer to the electronic manual for details.
+Saving failed.
+You received $[VAR NUM8(0002,002C)]!
+You received [VAR PKNAME(0001)]!
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+Hey there, Sun!\c\nYou need something?[VAR 0114(0005)]
+Send to full version
+Let’s chat
+Quit
+What are you sending to the full version?[VAR 0114(0005)]
+Greninja
+Stardust
+Star Piece
+Nugget
+Pretty Wing
+Balm Mushroom
+Comet Shard
+Quit
+It’s not good-bye forever to the Greninja that’s\nwith you now, so don’t sweat it![VAR 0114(0005)]
+You’re gonna send Greninja, yeah?[VAR 0114(0005)]
+You’re gonna send\n[VAR ITEM2(0000)], yeah?[VAR 0114(0005)]
+Anything else?[VAR 0114(0005)]
+It’s a hot one out here today—a perfect day\nfor Pokémon! Woo![VAR 0114(0005)]
+You been riding Tauros? Hold  down\nto dash. You can even smash through rocks\r\nwhen you get a good head of steam![VAR 0114(0005)]
+Did you try the catching challenge? It’s on the\nway to the trial site.[VAR 0114(0005)]
+Over by the tourist bureau, yeah—there’s\nsomebody who’ll take you someplace fun![VAR 0114(0005)]
+It looks like a bunch of Pokémon Trainers have\ngathered along the road to the trial site.[VAR 0114(0005)]
+Let me know whenever you need\nanything, cousin![VAR 0114(0005)]
+Saved data for Pokémon Sun or Pokémon Moon\ncannot be found.\c\nYou must create saved data for Pokémon Sun or\nPokémon Moon to be able to send something to\r\nthe full version.
+Please choose which Pokémon game to send\nthe present to.
+Warning!\c\nIf your console has the full package version\ninserted and the full download version installed,\c\nthe package version will be prioritized when\nsending data.
+You’ve already sent that present.
+Now saving the present. Please do not turn off\nthe power.
+Unable to save the present.\c\nPlease make sure your Game Card is inserted,\nand then try again.
+Successfully saved the present.
+Pokémon Sun
+Pokémon Moon
+Unable to recognize the Game Card.\c\nPlease make sure your Game Card is inserted,\nand then try again.
+The present will be sent to Pokémon Sun.
+The present will be sent to Pokémon Moon.
+Warning!\c\nThis Pokémon will not listen to what you tell it\nuntil you have completed two grand trials in\r\nPokémon Sun or Pokémon Moon.
+You are out of room for gifts in the full version.\c\nPlease pick up your gifts at a Pokémon Center,\nand then try again.
+Special Demo Version Ash-Greninja
+Special Demo Version Stardust
+Special Demo Version Star Piece
+Special Demo Version Nugget
+Special Demo Version Pretty Wing
+Special Demo Version Balm Mushroom
+Special Demo Version Comet Shard
+~~~~~~~~~~~~~~~
+Text File : 2
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+It’s chock full of Pokémon books and\nphoto collections.
+It’s a sturdy-looking rock.\nMaybe a powerful Pokémon could break it...
+[~ 5]
+n/a
+n/a
+Do you want to call Tauros?
+n/a
+n/a
+There is not enough space to call this\nRide Pokémon here.
+~~~~~~~~~~~~~~~
+Text File : 3
+~~~~~~~~~~~~~~~
+You can’t fit any more photos in your album,\nso you won’t be able to take any more photos.\c\nTime to organize those old shots!
+Firing up the Poké Finder!
+Your SD Card does not have enough free space.\c\nYou can still take photos, but you will not be\nable to save the photos you take.\c\nIf you wish to save your photos, please first\norganize your data on your SD Card.\c\nWould you still like to start up the Poké Finder?
+Your Nintendo 3DS Camera application is out\nof free space for new photos.\c\nYou can still take photos, but you will not be\nable to save the photos you take.\c\nWould you still like to start up the Poké Finder?
+The Nintendo 3DS Camera application has\nexperienced an error.\c\nYou can still take photos, but you will not be\nable to save the photos you take.\c\nWould you still like to start up the Poké Finder?
+~~~~~~~~~~~~~~~
+Text File : 4
+~~~~~~~~~~~~~~~
+You obtained [VAR iCOLOR2(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You obtained [VAR NUM1(0002)] [VAR ITEMPLUR1][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You obtained the [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You obtained the [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You obtained [VAR ITEM2(0001)] [VAR BD00(0006,0000,0000)]\n[VAR MOVE(0002)][VAR BD01]!
+You found the [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You found [VAR iCOLOR2(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+You found [VAR ITEM2(0001)] [VAR BD00(0006,0000,0000)]\n[VAR MOVE(0002)][VAR BD01]!
+Too bad! Looks like there is no room for more\n[VAR BD00(0006,0000,0000)][VAR ITEMPLUR1][VAR ITEM2(0000)][VAR BD01] in your Bag!
+You obtained [VAR iCOLOR2(0000)][VAR BD00(0006,0000,0000)][VAR ITEM2(0000)][VAR BD01]!\c\nBut...too bad! Your Bag is already full!
+You opened up the [VAR BD00(0006,0000,0000)][VAR 0112(0002)] Pocket[VAR BD01] and put\nthe [VAR ITEM2(0001)] away inside.
+[~ 11]
+[~ 12]
+You received [VAR iCOLOR2(0001)][VAR BD00(0006,0000,0000)][VAR RIBBON(0001)][VAR BD01]!
+You put the [VAR RIBBON(0001)]\non your Pokémon!
+You obtained [VAR iCOLOR2(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+There don’t seem to be any Pokémon here...
+You obtained [VAR iCOLOR2(0001)][VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01]!
+If you own the full version, head to the Pokémon\nCenter to have Professor Kukui send gifts to \r\nthe full version!
+Now you can send the [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] \nto the full version of the game!
+Now you can send [VAR NUM1(0002)] [VAR BD00(0006,0000,0000)][VAR ITEM2(0001)][VAR BD01] to\nthe full version of the game!
+~~~~~~~~~~~~~~~
+Text File : 5
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Hau’oli City\n“A city overflowing with gentle joy.”
+n/a
+Alola Tourist Bureau\n“Even the locals love it!”
+Hau’oli City Hall\n“Serving the city’s every need!”
+Ferry Terminal\n“The one place to get on and off of ships!”
+← Melemele Ferry Terminal
+→ Melemele Ferry Terminal
+← Melemele Ferry Terminal
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 65]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Trial site up ahead.
+~~~~~~~~~~~~~~~
+Text File : 6
+~~~~~~~~~~~~~~~
+Dear Sun,\n\nIf you’re reading this letter, then you must’ve\nalready arrived in the Alola region! Hope you’re\nnot too tired from the move.
+Is that Greninja I left for you doing OK? That\nPokémon loves the heat, so it should enjoy\nhaving some hot Pokémon battles in the\nheat of Alola!
+The sender must’ve forgotten to write their\nname...
+It seems it can’t be found on the\nletter or the envelope.
+We’d better head over to City Hall to let\nthem know your new address here in Alola![VAR 0114(0004)]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+~~~~~~~~~~~~~~~
+Text File : 7
+~~~~~~~~~~~~~~~
+Alola, Sun! Did you know that when you greet\nsomeone in the Alola region, you say “Alola”?[VAR 0114(0004)]
+Alola! We just moved here to this address.[VAR 0114(0004)]
+Alola!\c\nLet’s see, let’s see...\nSo you moved here from the Kanto region, yes?\c\nPlease wait for a moment while I process this.
+Sure, thank you very much.[VAR 0114(0004)]
+I guess we should just relax and wait here.[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 8
+~~~~~~~~~~~~~~~
+Hey, is your name Sun?[VAR 0114(0007)]
+Yup! What’s yours?
+Nice to meet you!
+I’m Hau! Nice to meet you!\c\nI’m glad my grandpa asked me to come to City\nHall. I got to meet you, after all![VAR 0114(0007)]
+Hau, take good care of Sun for me![VAR 0114(0004)]
+Are you Sun’s mom? Nice to meet you![VAR 0114(0007)]
+Yes, I am. Alola![VAR 0114(0004)]
+Hey, it’s fine if you wanna just wait around here,\nbut how about you go explore the town a bit?[VAR 0114(0004)]
+Ooh, that sounds like a great idea![VAR 0114(0007)]
+I’ll show you all the coolest stuff, Sun![VAR 0114(0007)]
+Have fun![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 9
+~~~~~~~~~~~~~~~
+Yo, yo, yo, I’ve never seen you in Alola before!\nWere you flew here or were you grew here?
+You from someplace far away, huh? Got any\nrare Pokémon, huh?
+Waahh! It’s Team Skull![VAR 0114(0007)]
+These baddies are always stealing Pokémon\nfrom people![VAR 0114(0007)]
+We’re not bad—we’re just hard!\c\nWe’re just a bunch of guys and gals with a great\ninterest in other people’s Pokémon!
+So what we’re getting at is...you wanna give us\nyour Pokémon?
+Pokémon are our friends! We can’t just give\nthem to you![VAR 0114(0007)]
+Then I guess we’re gonna hafta take them!
+Sun, you’ve got a Pokémon, right? Let’s give\nthese guys a Pokémon battle![VAR 0114(0007)]
+Wha—?! This kid’s way too strong—no bones\nabout it!
+W-well, try beating us both next time! We’ve\ngot a bone to pick with you! We’re gonna tell our\r\nbig sis about you, so don’t you forget it!
+There’s nothing to be scared of as long as we’ve\ngot Pokémon by our side, eh?[VAR 0114(0007)]
+Sun, your Pokémon’s called Greninja, right?\nThat’s so cool![VAR 0114(0007)]
+Follow me! I’ll show you where the\nPokémon Center is.\c\nI wanna heal up my Pokémon, too![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 10
+~~~~~~~~~~~~~~~
+Sun![VAR 0114(0007)]
+The Pokémon Center’s over here![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 11
+~~~~~~~~~~~~~~~
+If you talk to the woman at the counter, she can\nrestore your Pokémon to perfect health.[VAR 0114(0007)]
+Or you can use Potions to heal your Pokémon.\nOh, that reminds me, Sun! Here, you can have\c\none of my Super Potions![VAR 0114(0007)]
+All right, where should we go next?[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 12
+~~~~~~~~~~~~~~~
+Hey there, Hau! Who’s that with you?
+Hi, Professor Kukui![VAR 0114(0007)]
+This is Sun!\c\nHe moved here from the Kanto region—all the\nway across the ocean![VAR 0114(0007)]
+Woo, that’s pretty cool![VAR 0114(0005)]
+Nice to meet you, Sun! The name’s Kukui. I hope\nwe can be friends![VAR 0114(0005)]
+Professor Kukui is researching Pokémon moves.[VAR 0114(0007)]
+That’s right, yeah! I let myself get hit with all\nkinds of moves so I can test their power![VAR 0114(0005)]
+Hey, Professor, you should train Sun![VAR 0114(0007)]
+That came right out of the blue!\nWhat’s up, Hau?[VAR 0114(0005)]
+We just ran into those Team Skull thugs, and it\ngot pretty rough![VAR 0114(0007)]
+I see... I wouldn’t want you to be in any trouble if\nyou got attacked again.\c\nYou wanna go through a trial to make\nyourself stronger?[VAR 0114(0005)]
+Sure, I’ll try it!
+A trial?
+Totally focused on training before I even tell you\nwhat it is, yeah? I respect that!\c\nJust like the focus of Machamp, the Superpower\nPokémon, using a Focus Blast![VAR 0114(0005)]
+Trials are a custom we have here in the\nAlola region.\c\nYoung boys and girls go through them to get\nstronger as Trainers and to get closer to\r\ntheir Pokémon.[VAR 0114(0005)]
+Well, whenever you’re ready, come on out to\nwhere we’ll hold the trial—Ten Carat Hill! Woo![VAR 0114(0005)]
+That guy over there will take you out to\nTen Carat Hill when you’re ready![VAR 0114(0005)]
+I know you and Greninja can do it, Sun![VAR 0114(0007)]
+Good luck, Sun! I’ll show you around some more\nwhen you’re done![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 13
+~~~~~~~~~~~~~~~
+Wild Pokémon will jump right out of the tall\ngrass at you![VAR 0114(0005)]
+You’re a Pokémon Trainer, yeah, so you can\nbattle alongside your partner, Greninja![VAR 0114(0005)]
+On the other hand, if you don’t want to run into\nany wild Pokémon, you should avoid walking\r\nthrough the tall grass.[VAR 0114(0005)]
+All right, I’ll be waiting for you inside\nTen Carat Hill![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 14
+~~~~~~~~~~~~~~~
+Hey there, Sun! I’ve been waiting for you![VAR 0114(0005)]
+Let me explain the trial for you.[VAR 0114(0005)]
+There’re four Pokémon on Ten Carat Hill. Two are\ncalled Jangmo-o and two are called Hakamo-o.[VAR 0114(0005)]
+Your goal in my trial will be to photograph all\nof them, yeah![VAR 0114(0005)]
+Take this Poké Finder—you’ll need it to take\nthe pictures. [VAR 0114(0005)]
+You got a Poké Finder!
+If you’ve got a Poké Finder, you can take\npictures in places where you think you’ll\r\nfind Pokémon![VAR 0114(0005)]
+My Pikachu is really strong, too!\c\nHe’s every bit as strong as your Greninja, so you\ncan count on him to help you out with your trial![VAR 0114(0005)]
+It looks like Pikachu’s going to lend you a hand!
+Go find a Jangmo-o first! There should be one\nhiding somewhere close by.[VAR 0114(0005)]
+Look for a Jangmo-o close by, and take a\npicture of it![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 15
+~~~~~~~~~~~~~~~
+You sense a trace of a Pokémon!
+Do you want to fire up the Poké Finder?
+Jangmo-o was startled and attacked you!
+The trace of Jangmo-o is gone...
+Try to focus on the Pokémon when you’re\nznapping those pictures, bzzt!
+~~~~~~~~~~~~~~~
+Text File : 16
+~~~~~~~~~~~~~~~
+You’ve successfully photographed one, yeah![VAR 0114(0005)]
+Sorry, there’s one thing I forgot to mention!\c\nWhen you take a picture of a Jangmo-o, it’ll get\nstartled and attack you.\c\nWhat’s more, they’re Dragon-type Pokémon,\nyeah, so they can be tough, scary opponents![VAR 0114(0005)]
+You’ve got your Greninja and my Pikachu with\nyou, though, so you should be fine![VAR 0114(0005)]
+Just [VAR NUM1(0000)] more until you complete the trial! Have\nfun out there taking pictures![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 17
+~~~~~~~~~~~~~~~
+You sense a trace of a Pokémon!
+Do you want to fire up the Poké Finder?
+Jangmo-o was startled and attacked you!
+You’ve photographed [VAR NUM1(0000)] Pokémon!
+It seems like there’s still a Pokémon you could\ntake a picture of around here...
+The trace of Jangmo-o is gone...
+Try to focus on the Pokémon when you’re\nznapping those pictures, bzzt!
+Haka-ka!
+~~~~~~~~~~~~~~~
+Text File : 18
+~~~~~~~~~~~~~~~
+You sense a trace of a Pokémon!
+Do you want to fire up the Poké Finder?
+Hakamo-o was startled and attacked you!
+You’ve photographed [VAR NUM1(0000)] Pokémon!
+It seems like there’s still a Pokémon you could\ntake a picture of around here...
+The trace of Hakamo-o is gone...
+Try to focus on the Pokémon when you’re\nznapping those pictures, bzzt!
+Haka-ka!
+~~~~~~~~~~~~~~~
+Text File : 19
+~~~~~~~~~~~~~~~
+You sense a trace of a Pokémon.
+Do you want to fire up the Poké Finder?
+Haka-ka-ka!
+Hakamo-o, the Totem Pokémon of Ten Carat Hill,\nhas appeared!
+It seems like there’s still a Pokémon you could\ntake a picture of around here...
+Try to focus on the Pokémon when you’re\nznapping those pictures, bzzt!
+[VAR BD02]Press \n[VAR BD02]to start the game!
+~~~~~~~~~~~~~~~
+Text File : 20
+~~~~~~~~~~~~~~~
+I can’t believe you beat the Totem Pokémon,\nSun! You and that team are awesome! Woo![VAR 0114(0005)]
+It looks like you took pictures of all four\nPokémon, including the Totem Pokémon![VAR 0114(0005)]
+You cleared the trial! Congrats, Sun! I’ll give you\na Z-Ring as a present![VAR 0114(0005)]
+You slipped the Z-Ring onto your wrist!
+One more thing! Take this Z-Crystal, too![VAR 0114(0005)]
+You got the Electrium Z!
+Once you’ve got a Z-Ring and a Z-Crystal, yeah,\nyou can use really awesome Pokémon\r\nmoves—Z-Moves![VAR 0114(0005)]
+Sun![VAR 0114(0007)]
+Whoa, you got a Z-Ring! I guess you cleared the\ntrial, eh?[VAR 0114(0007)]
+Congratulations![VAR 0114(0007)]
+I’ve got a trial for you, too! Look over there![VAR 0114(0007)]
+I forgot that I gave you my Super Potion, and\nI had to run away all the way out here![VAR 0114(0007)]
+Big Sis! There’s that numskull!
+I’m Plumeria—the Team Skull Admin.[VAR 0114(0018)]
+So you’re Sun, huh?\c\nHmmph. I guess you do look like a Trainer who\ncan get things done.[VAR 0114(0018)]
+Sis! Are you not gonna get revenge on this\nnumskull for us?!
+If you give up on us now, Sis, it’ll be adding\ninsult to injury!
+I got this!\c\nSettling the score for my cute little henchmen is\npart of my job![VAR 0114(0018)]
+Don’t sweat it, Sun![VAR 0114(0005)]
+Pikachu can use Z-Power now! But you can only\nuse it once in a battle![VAR 0114(0005)]
+Are you gonna face off against her with\nGreninja’s Water Shuriken?\c\nOr are you gonna go with Pikachu, which can\nuse [VAR COLOR(0001)]Z-Power[VAR COLOR(0000)]?[VAR 0114(0005)]
+If you’re gonna give him advice, you better tell\nhim how to deal with defeat![VAR 0114(0018)]
+You really think you can take out my adorable\nPokémon with your Z-Power?[VAR 0114(0018)]
+~~~~~~~~~~~~~~~
+Text File : 21
+~~~~~~~~~~~~~~~
+What did you say your name was? Sun?\c\nYou’re quite the Trainer![VAR 0114(0018)]
+You won’t get off so easy next time, though!\c\nI hope you’re looking forward to the next time\nwe meet![VAR 0114(0018)]
+Yo, didn’t you just get to Alola? You better be\nthankful our sis took it easy on you!
+Yo, Sis, wait up!
+What a great match, Sun! Woo!\c\nPikachu, thanks for helping him out with\nthat trial![VAR 0114(0005)]
+Pikachu went back to Professor Kukui.
+You’re awesome, Sun![VAR 0114(0007)]
+You drew out the power of the Pokémon and\nshowed us the best moves you could, yeah!\c\nSun, you’re gonna be a wonderful\nPokémon Trainer![VAR 0114(0005)]
+I wanna be an awesome Trainer, too![VAR 0114(0007)]
+Well, the two of you should both train up during\nyour island challenge![VAR 0114(0005)]
+Hey, Sun, now that you’re finished with the trial,\nI’ll show you the way to the malasada shop![VAR 0114(0007)]
+Great idea, yeah! As a welcome gift, it’ll be\nmy treat![VAR 0114(0005)]
+Woo-hoo! Let’s bring Sun’s mom, too![VAR 0114(0007)]
+All right, I’m about to eat every malasada in\nthe shop![VAR 0114(0007)]
+[VAR BD02]And with that\n[VAR BD02]the game has ended![VAR 0114(0007)]
+[~ 15]
+~~~~~~~~~~~~~~~
+Text File : 22
+~~~~~~~~~~~~~~~
+Allow me to congratulate you again on clearing\nthe trial, Sun![VAR 0114(0005)]
+Let me give you all the good stuff you’ll need to\nride Pokémon![VAR 0114(0005)]
+Sun got a Ride Pager!
+Here in the Alola region, Pokémon will lend you\ntheir strength by letting you ride on their backs![VAR 0114(0005)]
+Sun, I think it’s time for you to ride on a powerful\nPokémon that can run across the land and\r\nsmash right through rocks![VAR 0114(0005)]
+Tauros was registered to your Ride Pager!
+Let me read you the manual.\c\n“Press  to turn on your Ride Pager!\nHold  to dash!”[VAR 0114(0005)]
+This is your Riding Wear! It’s the special outfit\nyou wear when riding Pokémon, yeah.[VAR 0114(0005)]
+When you ride Tauros, your world gets a whole\nlot bigger!\c\nMaybe you could even find something new if\nyou head out to Ten Carat Hill...[VAR 0114(0005)]
+I’ll be at the Pokémon Center, so if you need me,\njust stop by![VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+I’ll show you a really nice place—a place where\nyou can grow closer to your Pokémon.
+Let’s go!
+Not right now
+I’ll take you there in a flash. Just close\nyour eyes...
+Hmmph. You could be enjoying yourself with\nyour Pokémon, though.
+~~~~~~~~~~~~~~~
+Text File : 24
+~~~~~~~~~~~~~~~
+There are rocks on rocks on rocks blocking the\nmountain path.
+But as long as you’ve got Tauros, the Ride\nPokémon that helps people out, you’ll be fine!\c\nHold  to dash and smash right\nthrough those rocks!
+~~~~~~~~~~~~~~~
+Text File : 25
+~~~~~~~~~~~~~~~
+Would you like to go back to Hau’oli City?
+Yes, I’ll go back!
+Not right now
+I’ll take you back in a flash. Just close\nyour eyes...
+Yes, I know you want to stay with Tauros.
+[~ 5]
+~~~~~~~~~~~~~~~
+Text File : 26
+~~~~~~~~~~~~~~~
+The closeness between you and Tauros...\nWhat a sight to behold!
+Oh my! I forgot to introduce myself...\c\nI’m a mysterious old man.
+Let me give you a reward for smashing all\nthose rocks.
+Stardusts!\nUse them wisely.
+And...don’t come looking for me.
+I’m the mysterious old man.
+Oh, it’s you again?
+I know you came all the way out here and all, so\nI’m really sorry, but I don’t have anything else\r\nto give you. Even if you come back again, I still\r\nwon’t have anything.
+I’m the mysterious old man.
+For some reason, I knew you’d be back.
+I know they say third time’s the charm, but\nreally, I’ve got nothing for you. Even if you come\r\nback again, I still won’t have anything!
+I’m the mysterious old man.
+Boy, you must really like it here!\c\nWhat’s the draw? Can’t resist the siren song of\nmy shiny head?
+But it doesn’t matter how many times you come\nback—I’m never going to have anything else for\r\nyou. It’s just me here!
+I’m the mysterious old man!
+I knew it was you when I heard the sound of\nthose rocks smashing.
+Let me tell you, you’ve become more and more\nimportant to me.
+It makes me so happy that you’ve come all this\nway to see me!\c\nBut the real truth is...I just don’t have anything\nelse for you!
+~~~~~~~~~~~~~~~
+Text File : 27
+~~~~~~~~~~~~~~~
+Hey, thanks for coming! Can I interest you in\nthe Pokémon-catching challenge?\c\nYou run around catching tons of Pokémon!
+Yes!
+What?
+All right! Good answer!
+Oh? You’ve never heard of the\nPokémon-catching challenge?
+The rules of the Pokémon-catching challenge\nare simple.\c\nIt’s a challenge to see how many Pokémon you\ncan catch with a limited number of Poké Balls!
+You can add the Pokémon you catch to\nyour team!\c\nSwitch out your Pokémon skillfully, and catch as\nmany Pokémon as you can!
+By the way, while you’re trying the Pokémon-\ncatching challenge, you can’t leave here.
+If you run out of Poké Balls or want to give up,\njust come talk to me.
+Do you want to participate in the Pokémon-\ncatching challenge, where you run around\r\ncatching tons of Pokémon?
+Yes!
+No
+What are the rules?
+All right! You’ll need some Poké Balls to catch\nPokémon, so here you go!
+Time to see how many you can catch! Let the\nPokémon-catching challenge begin!
+Hmmph. When you want to start the Pokémon-\ncatching challenge, come talk to me.
+You got some Poké Balls for catching Pokémon!
+~~~~~~~~~~~~~~~
+Text File : 28
+~~~~~~~~~~~~~~~
+Do you want to end the Pokémon-\ncatching challenge?
+I’ll keep going!
+I’ll stop!
+All right, then! Keep on catching tons\nof Pokémon!
+Good job out there! Let’s count up all the\nPokémon you caught.
+This time you caught...[VAR NUM2(0000)] Pokémon!
+Well, I wish you’d caught at least one!\c\nKeep in mind that it gets easier to catch\nPokémon if you weaken them first.
+It’s important to add Pokémon you catch to your\nteam, so you can battle with them on your side.
+Not bad at all! Keep it up and catch\nmore Pokémon!
+Wow, would you look at that! Looks like you’ve\ngot the Pokémon-catching challenge figured out!
+A-a-a-awesome! You’ve even surpassed me!
+Amazing!\c\nWonderful!\c\nYou’re a pro at this Pokémon-catching\nchallenge—a Pokémon-catching genius!
+Since this is the first time you’ve caught at least\nthree Pokémon, I’ll give you my Nugget as a gift!
+I’ll take back the Poké Balls you didn’t use.
+You gave back all your leftover Poké Balls!
+Come back and play the Pokémon-catching\nchallenge again sometime!
+Let’s send the Pokémon you caught back to\nthe wild.
+You let the Pokémon you caught go!
+There you go! You caught one! Keep up the\ngood work!
+Looking good! You’re making me so happy!
+Amazing! You look like you’ve been throwing\nPoké Balls your whole life!
+Whoa! That’s quite the haul you’ve got there!
+*snore snore*\n*mumble mumble*\c\n...No, I’m watching! Really, I am...\n*snore*
+~~~~~~~~~~~~~~~
+Text File : 29
+~~~~~~~~~~~~~~~
+Let’s see what you can do in the Pokémon-\ncatching challenge, Sun![VAR 0114(0005)]
+Yeah, Pokémon Trainers can get out there and\ncatch wild Pokémon![VAR 0114(0005)]
+Now I’ll show you how it’s done, so keep your\neyes on me, cousin.[VAR 0114(0005)]
+Wild Pokémon do attack people sometimes, but\nonce you catch them, they’ll become your strong\r\nallies. Yeah![VAR 0114(0005)]
+All right, get out there and enjoy the Pokémon-\ncatching challenge! I’ll be cheering for you.[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 30
+~~~~~~~~~~~~~~~
+I can feel your potential as a Trainer.
+If you can defeat the three Trainers on this\nroute, I’ll give you a battle.
+You!
+What incredible talent you must have to be able\nto defeat the three Trainers on this route!
+I think I’ll be able to enjoy going all out in battle\nfor the first time in a long time!
+Amazing! Even going all out, I couldn’t win!
+I’m so happy to have been able to meet a\nPokémon Trainer like you!
+Let me give you something that shines as\nbrightly as your talent—a Star Piece!
+There are a lot of Trainers like me who like to go\nall out in the Alola region.
+But for you...\c\nWith you and your skills with Pokémon, I’m sure\nyou’ll be just fine!
+~~~~~~~~~~~~~~~
+Text File : 31
+~~~~~~~~~~~~~~~
+If you come see me tomorrow, I’ll give you\nsomething good.
+Not today, not the day after tomorrow.\nIt’s gotta be tomorrow—got it?
+You came! Thanks! Here’s the good stuff I\npromised you!
+It passes by so slowly, but time really is\nimportant, isn’t it?
+In Hau’oli City, there’s somebody you’ll\nprobably want to go see in a few days...
+~~~~~~~~~~~~~~~
+Text File : 32
+~~~~~~~~~~~~~~~
+I’m meeting up with a guy who helped me\nout when I sprained my ankle the other day.\c\nI’m meeting him in—how many days was it?\nOh yeah, [VAR NUM2(0000)]!
+I’ve been looking forward to it so much that I\nshowed up way too early!
+That guy is so strong, so cool—and the \nnicest you’ve ever seen!
+If you’re here when he shows up, I’ll show him\noff to you.
+I’m meeting up with the guy who helped me\nout when I sprained my ankle the other day\r\nright now!
+Champ!
+Ooh! Good to see you again! See, isn’t\nhe great?
+Cham-champ!
+Thanks for letting me show him off to you. See\nyou around!
+It was so fun hanging out at the beach!
+~~~~~~~~~~~~~~~
+Text File : 33
+~~~~~~~~~~~~~~~
+Guess how many days until my sweet li’l\nPikachu’s birthday? Just [VAR NUM2(0000)]!
+Pikachu!
+I wonder if someone will help me celebrate.
+Believe it or not, today is my sweet li’l\nPikachu’s birthday!
+Chu!
+Would you help me celebrate?
+Too bad...
+Oh! I’m so happy! Happy birthday, my sweet\nli’l Pikachu!
+Pikachu-chu!
+Thanks for helping us celebrate! Let me share\nsome of the fun with you.
+We’ve both gotten another year older, my sweet\nli’l Pikachu.
+Pika-pika-pika!
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+According to my informants, there’s a shady\ndeal going down right here in a matter of\r\ndays—[VAR NUM2(0000)], to be exact.
+I wonder if I’ll be able to handle it by myself...
+You! I’ve been waiting for you!
+According to my informants, there’s a shady\ndeal going down right here today.
+I was worried all by myself, but if you’re here\nwith me, we might be able to stop this deal from\r\ngoing down!
+Shh! Someone’s coming!
+You haven’t been followed, have you?
+Hah hah hah... Hurry up and give me the stuff!
+Oh...
+*gulp*\c\nJust what kind of a shady deal is this...
+Slo?
+Slo-slow?
+Whoa! Some people will pay a high price for\nSlowpoke Tails, and I’ve heard about them being\r\npeddled around here!
+I guess they’re trying to sell Slowpoke Tails on\nthe black market...
+Ooh, your Slowpoke’s tail...
+It’s so cute and tender looking! I just love it!
+Ha ha ha... Your Slowpoke is also\nsuper-duper cute.
+Poke?
+Oooohhh, it’s just too cute!
+...
+Well, that certainly was shady in its own\nspecial way...
+There’s a lot going on in the world that I don’t\nneed to know about...
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+I have to sail away on a ship in [VAR NUM2(0000)] day[VAR NUMBRNCH(0000,0100)]s.
+I’m afraid of boats, though, so I’m a bit nervous.\nI hope you’ll come see me off on my journey.
+Sure!
+I don’t know...
+I’m so happy! It’s a promise—see you here\nin [VAR NUM2(0000)] day[VAR NUMBRNCH(0000,0100)]s!
+Oh, I see... I get it...
+I have to sail away on a ship today.
+I’m afraid of boats, though, so I’m a bit nervous.\nI hope you’ll see me off on my journey.
+Of course!
+Ummm...
+I see... Too bad...
+I’m so happy! Thank you!
+I’m scared...\c\nBut since you’re here, I think I can do it!
+Let me give you something to show you how\nthankful I am.
+At last I can see my mom and dad again!
+Good-bye...
+~~~~~~~~~~~~~~~
+Text File : 36
+~~~~~~~~~~~~~~~
+What a beautiful view... I wish I could share it\nwith you.
+O-oh... Hello.
+Who are you?
+What’s in your Bag?
+Uh-umm... Professor Kukui is helping me take\ncare of my Pokémon, and...
+he’s waiting for me, so I have to be going. I hope\nto see you again sometime.
+~~~~~~~~~~~~~~~
+Text File : 37
+~~~~~~~~~~~~~~~
+Hey, Sun![VAR 0114(0007)]
+Sunday’s almost over.[VAR 0114(0007)]
+But I still feel excited!\c\nI mean, when tomorrow gets here, we can go out\non a new adventure![VAR 0114(0007)]
+All right, it’s time to eat! Let’s have a\nmalasada, Sun![VAR 0114(0007)]
+You and Hau ate a Big Malasada!
+See ya, Sun! Let’s go on another adventure soon![VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 38
+~~~~~~~~~~~~~~~
+Huh? Is that you, Sun?[VAR 0114(0004)]
+They were just having a sale at the\napparel shop.[VAR 0114(0004)]
+I bought some of this and some of that, and\nbefore I knew it, the apparel shop had to close\r\ndown for the day![VAR 0114(0004)]
+When all my packages arrive, help me put\nthem away, OK?[VAR 0114(0004)]
+OK!
+What?
+I’d ask Meowth to help, but I don’t want\neverything to get all scratched up.[VAR 0114(0004)]
+Kids should enjoy themselves! Go play as\nmuch as you like![VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 39
+~~~~~~~~~~~~~~~
+The Alola region is a really nice place.
+I’m so interested in all the unique customs\non the islands.
+We’re here for some sightseeing.
+We need to study up on the trials and the\nisland challenge!
+...\c\nI feel like something’s going to happen here...
+~~~~~~~~~~~~~~~
+Text File : 40
+~~~~~~~~~~~~~~~
+Isn’t it time yet? Isn’t it time yet?\c\nI’m in line to reserve this game I really want!
+Just a little longer until they start taking\nreservations. I can’t wait!
+It’s nearly time! It’s nearly time for me to make\nmy reservation!
+~~~~~~~~~~~~~~~
+Text File : 41
+~~~~~~~~~~~~~~~
+It’s so soft looking! It’s just so fluffy!
+Oh, sorry about that! I was getting too excited.
+You would understand if you could see what I\nsee! Do you wanna fire up your Poké Finder?
+Sure!
+Wait a second!
+When you find a Pokémon, get them right in the\nmiddle of the Poké Finder. Then, try to take a\r\nnice close-up shot!
+[~ 6]
+So fluffy! Wasn’t it awesome? It looked so soft,\ndidn’t it?\c\nThere are some Pokémon that have different\nforms here in the Alola region.
+Oh really? I guess there’s nothing I can do if\nyou’re not interested.
+~~~~~~~~~~~~~~~
+Text File : 42
+~~~~~~~~~~~~~~~
+Good morning! Welcome to the Pokémon Center.\nWould you like to rest your Pokémon?
+Hello, and welcome to the Pokémon Center.\nWould you like to rest your Pokémon?
+Welcome to the Pokémon Center. You’re up late!\nWould you like to rest your Pokémon?
+I’ll take your Pokémon for a few seconds, then.
+Thank you for waiting!\nWe’ve restored your Pokémon to full health.
+We hope to see you again!
+n/a
+n/a
+n/a
+n/a
+n/a
+First, let’s restore your Pokémon to full health.
+Please visit a Pokémon Center whenever your\nPokémon’s HP is getting low.
+There! All happy and healthy!\nGood luck and take care!
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 43
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 13]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 98]
+[~ 99]
+[~ 100]
+[~ 101]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 169]
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+n/a[VAR 0114(0030)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 241]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 260]
+[~ 261]
+~~~~~~~~~~~~~~~
+Text File : 44
+~~~~~~~~~~~~~~~
+Alola!
+Hey!
+Howzit?
+Good to see you!
+Looking good!
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+If you own the full version, talk to Professor\nKukui at the Pokémon Center to bring the\r\nGreninja you’ve been adventuring with to the\r\nfull version!
+There’s still so much more to the\nSpecial Demo Version!
+~~~~~~~~~~~~~~~
+Text File : 46
+~~~~~~~~~~~~~~~
+Hold  down while riding around on Tauros’s\nback to use the Tauros Charge!
+Charging is a special action that can break\nlarge rocks that might block your path.
+You can’t reach some places unless you are\nwilling to break a few rocks!
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+~~~~~~~~~~~~~~~
+Text File : 47
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 48
+~~~~~~~~~~~~~~~
+I know you just got here, but did you already go\nto the Pokémon Center?
+I know you just got here, but do you want to go\nto Ten Carat Hill?
+Let’s go
+Not right now
+All right! Come on—I’ll show you the way!
+Oh! Well, let me know if you change your mind.
+When you turn 11 in Alola, you can participate in\nour local rite of passage—the island challenge!
+Kahili is a golfing genius from right here in Alola,\nand she’s quite strong in Pokémon battles, too!\c\nShe’s off conquering the world right now, but I\nhope she comes back home someday.
+That Pokémon you have with you is Greninja,\nright? That’s a rare sight here in Alola!
+I love brushing my adorable Pokémon!
+If you want to get to Ten Carat Hill, you have to\nask some weird old guy.
+Isn’t my Corsola cute? It can send its lovely\nbranches flying!
+Sola-la!
+Alola! Welcome to Hau’oli City.
+Crispy on the outside, fluffy on the inside!\nEating malasadas makes everyone happy!
+Walking home safely, hand in hand with\na Pokémon. Isn’t that something?
+Ch-cham!
+So many Slowpoke! They’re awfully cute,\naren’t they?
+Slo.
+Hooww.
+Nooo.
+Uhhhh.
+Poke.
+n/a
+n/a
+n/a
+[~ 26]
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 49]
+Hau’oli Police Station\nKeep our roads safe! Be careful riding Pokémon!
+Head to the Pokémon Center!
+~~~~~~~~~~~~~~~
+Text File : 49
+~~~~~~~~~~~~~~~
+The Alola region is far away from other regions.
+Slo...
+Seeing the sun’s rays shining over the ocean\nlets us know a new day is about to begin.\c\nAnd when we see the moon sinking into the\nocean, we know that day is done.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 50
+~~~~~~~~~~~~~~~
+[~ 0]
+~~~~~~~~~~~~~~~
+Text File : 51
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 52
+~~~~~~~~~~~~~~~
+n/a
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 53
+~~~~~~~~~~~~~~~
+There’s no particular reason to, but do you want\nto go back to Hau’oli City?
+Sure, I’ll go back
+Not right now
+All right, then. Come with me, and we’ll\nhead back!
+Well, let me know when you do want to go back.
+Pow!
+Swo!
+It’s incredible to be able to see an Alolan sumo\nmatch between two Machamp up close like this!\r\nI’m so very happy!
+When the eyes of Pokémon Trainers meet, it’s\ntime to battle!
+There are Dragon-type Pokémon at the site of\nProfessor Kukui’s trial. They’re all hiding,\r\nthough, so you’ll have to look for them!
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+It doesn’t matter if you can’t fly or swim—\nyou can always take the ferry!
+Sightseers come from all over the world to visit\nthe Alola region!
+Wahha!
+When you go to a different place, you’ll find\ndifferent kinds of Pokémon living there.
+This is it! Right now! I’m building a ferry with\nhelp from my Pokémon. Bet you can hardly\r\nwait, eh?
+A vending machine!\c\nWait—$1 million each?!
+[~ 6]
+[~ 7]
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+Are you looking for the competent Police\nOfficer? Or are you looking for the Pokémon\r\nthat supports him?
+n/a
+It’s a stuffed doll of everyone’s favorite Granbull\nmaking its famous Scary Face!
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+We have to maintain our roads so everyone can\nride Pokémon safely.
+It’s so hot in Alola. I’d love to get doused with a\nWater-type move!
+Welcome to Alola!\c\nFor you, it will surely be a wonderful place, full\nof surprises!
+Alola is full of sights to see!\c\nThere are surprises waiting for you outside City\nHall, so I’m sure you’ll have fun out there!
+Poh!
+All the necessary paperwork for your move has\nbeen completed.\c\nI hope you learn to love Alola as much as I do.
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+I’m pouring my heart and soul into making these\nmalasadas right now!
+Malasadas can be dangerous!\nThey are so good—I cannot stop eating them!
+Cor-cor!
+Choose wisely, Slowpoke!
+...Slo?
+n/a
+n/a
+The entire showcase is filled with rows of\nmalasada after malasada!
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+If you’ve got a Pokémon, you can really go far.\c\nIf you’ve got a strong Pokémon, who knows how\nfar you can go!
+Anyone can go to a Pokémon Center to get their\nPokémon all healed up.
+Poh-poh.
+I’m just looking after the place.\c\nThe owner of the café area is on a trip around\nthe world in search of the finest ingredients.\c\nI think he should be back in about a month.
+Sorry, everything’s out of stock right now,\nso the Poké Mart is closed!
+n/a
+n/a
+n/a
+[~ 8]
+n/a
+~~~~~~~~~~~~~~~
+Text File : 59
+~~~~~~~~~~~~~~~
+Each of our four islands has an awesome\nPokémon that people consider a\r\nguardian deity.
+There are four islands, each with its own unique\ncharm, here in the Alola region.
+It’s hot out, so I’m trying to take a break indoors.\nWhew, I feel like I just came back from the dead!
+n/a
+[~ 4]
+The TV hanging on the wall is showing\na promotional video for the Alola region.\c\nAlola-ah. Alola-ah! ♪\nAh-ah-ah! Alola-ah! ♪
+There are plenty of local goods and souvenirs\nbursting with that special Alola spirit!
+n/a
+n/a
