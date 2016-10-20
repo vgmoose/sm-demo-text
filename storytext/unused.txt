@@ -1,0 +1,1218 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a
+n/a
+n/a
+n/a[VAR 0114(0005)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+とくべつばん　サトシゲッコウガ
+とくべつばん　ほしのすな
+とくべつばん　ほしのかけら
+とくべつばん　きんのたま
+とくべつばん　きれいなハネ
+とくべつばん　かおるキノコ
+とくべつばん　すいせいのかけら
+~~~~~~~~~~~~~~~
+Text File : 2
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 5]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 3
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 4
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 11]
+[~ 12]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 5
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 65]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 6
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0004)]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+~~~~~~~~~~~~~~~
+Text File : 7
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+n/a
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 8
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 9
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 10
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 11
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 12
+~~~~~~~~~~~~~~~
+n/a
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 13
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 14
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 15
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 16
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 17
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 18
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 19
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[VAR BD02]Ａボタンを　おして\n[VAR BD02]ゲームを　はじめてね！
+~~~~~~~~~~~~~~~
+Text File : 20
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a
+n/a[VAR 0114(0018)]
+n/a[VAR 0114(0018)]
+n/a
+n/a
+n/a[VAR 0114(0018)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0018)]
+n/a[VAR 0114(0018)]
+~~~~~~~~~~~~~~~
+Text File : 21
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0018)]
+n/a[VAR 0114(0018)]
+n/a
+n/a
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+[~ 15]
+~~~~~~~~~~~~~~~
+Text File : 22
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 24
+~~~~~~~~~~~~~~~
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 25
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 5]
+~~~~~~~~~~~~~~~
+Text File : 26
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 27
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 28
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 29
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+n/a[VAR 0114(0005)]
+~~~~~~~~~~~~~~~
+Text File : 30
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 31
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 32
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 33
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 36
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 37
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a[VAR 0114(0007)]
+n/a
+n/a[VAR 0114(0007)]
+~~~~~~~~~~~~~~~
+Text File : 38
+~~~~~~~~~~~~~~~
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+n/a
+n/a
+n/a[VAR 0114(0004)]
+n/a[VAR 0114(0004)]
+~~~~~~~~~~~~~~~
+Text File : 39
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 40
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 41
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 6]
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 42
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 43
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 13]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 98]
+[~ 99]
+[~ 100]
+[~ 101]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 169]
+[~ 170]
+[~ 171]
+[~ 172]
+[~ 173]
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+n/a[VAR 0114(0030)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 241]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 260]
+[~ 261]
+~~~~~~~~~~~~~~~
+Text File : 44
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 46
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+~~~~~~~~~~~~~~~
+Text File : 47
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 48
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 26]
+n/a
+n/a
+n/a
+n/a
+n/a[VAR 0114(0007)]
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 49]
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 49
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 50
+~~~~~~~~~~~~~~~
+[~ 0]
+~~~~~~~~~~~~~~~
+Text File : 51
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 52
+~~~~~~~~~~~~~~~
+n/a
+[~ 1]
+~~~~~~~~~~~~~~~
+Text File : 53
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 6]
+[~ 7]
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+[~ 8]
+n/a
+~~~~~~~~~~~~~~~
+Text File : 59
+~~~~~~~~~~~~~~~
+n/a
+n/a
+n/a
+n/a
+[~ 4]
+n/a
+n/a
+n/a
+n/a
