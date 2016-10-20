@@ -32,4 +32,4 @@ See here: https://gbatemp.net/threads/pokemon-sun-and-moon-garc-files.445401/
 
 ~~to decrypt the above GARCs, you may need [my fork of this tool](https://github.com/vgmoose/GARC-Unpack)... or more likely a fork with an actual fix~~
 
-To decrypt the above GARCs, [use this fork](https://gbatemp.net/threads/pokemon-sun-and-moon-garc-files.445401/) of the unpacker by @goteniai and then [xytext](https://github.com/kwsch/xytext)/[pk3ds](https://github.com/kwsch/pk3DS) on the unpacked folder.
+To decrypt the above GARCs, [use this fork](https://gbatemp.net/threads/pokemon-sun-and-moon-garc-files.445401/) of the unpacker by @[goteniai](https://github.com/goteniai) and then [xytext](https://github.com/kwsch/xytext)/[pk3ds](https://github.com/kwsch/pk3DS) on the unpacked folder.
